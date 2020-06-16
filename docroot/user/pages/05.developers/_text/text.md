@@ -1,15 +1,3 @@
----
-title: Developers
-highlight:
-    theme: monokai
----
-
-# Obyte for developers
-Imagine a global, ownerless, shared database any app can freely read from
-```js
-const objUnit = await storage.readUnit('Xrs9FcyJ6F/54BM2D4HCT1RQOoiXHCs/AlNRd/dNXoo=');
-const data = objUnit.messages.find(m => m.app === 'data').payload;
-```
 and write to, for a fee equal to the size of data being written
 ```js
 let unit = await sendData({ payload: { event: "Let there be light!", year: 0 } });

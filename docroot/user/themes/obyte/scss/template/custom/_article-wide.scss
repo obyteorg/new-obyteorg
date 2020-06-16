@@ -1,5 +1,4 @@
 .article-wide-wrap {
-  padding: 100px 0 0;
   &.textcoins {
     background-color: #E5E5EA;
     .bot {
@@ -12,7 +11,7 @@
     }
     .image-overlay {
       overflow: hidden;
-      background: url('../assets/article-images/textcoins-bg.jpg') bottom center no-repeat;
+      background: url('../assets/article-images/textcoins-bg.jpg') top center no-repeat;
       z-index: 1;
     }
     .container {

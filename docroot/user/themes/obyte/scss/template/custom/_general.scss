@@ -3,7 +3,7 @@ body {
   background-color: #f7f7f7;
 }
 
-.container {
+#body-wrapper .container {
   padding: 0 16px;
 }
 
@@ -56,6 +56,7 @@ body {
 }
 
 #page-wrapper {
+  padding-top: 100px;
   background-position: 119% 1%;
   background-repeat: no-repeat;
 }
