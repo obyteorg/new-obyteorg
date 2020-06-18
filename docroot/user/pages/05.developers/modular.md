@@ -9,10 +9,4 @@ content:
     order:
         by: default
         dir: asc
-        custom:
-            - _article
 ---
-
-<section class="section-developers-wrap">
-    
-</section>
