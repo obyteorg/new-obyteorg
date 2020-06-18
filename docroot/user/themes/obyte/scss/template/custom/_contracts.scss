@@ -1,0 +1,125 @@
+.section {
+  &.prosaic-contracts-wrap {
+    position: relative;
+    color: rgba(0, 0, 0, 0.87);
+    background: url('../assets/prosaic/prosaic-contracts.jpg') top center #f7f7f7 no-repeat;
+    &:before {
+      content:'';
+      position: absolute;
+      height: 660px;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: url('../assets/prosaic/prosaic-contracts-repeat-bg.jpg') center repeat-x;
+      z-index: -1;
+    }
+    .text-block {
+      padding: 100px 0 55px;
+      max-width: 515px;
+      p {
+        line-height: 28px;
+      }
+    }
+    h1 {
+      margin: 0 0 16px;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 65px;
+      color: $link-color;
+    }
+    .sub-title {
+      margin-bottom: 26px;
+      font-size: 24px;
+    }
+    p {
+      margin-bottom: 16px;
+    }
+    .content-wrap {
+      display: flex;
+      .img-block {
+        flex-shrink: 0;
+        margin: 0 60px 0 -110px;
+      }
+      .content-block {
+        padding-top: 80px;
+      }
+      .content-small {
+        img {
+          margin: 0 0 30px -24px;
+          display: block;
+        }
+        .title {
+          margin-bottom: 7px;
+          font-size: 36px;
+          font-weight: 300;
+          color: $link-color;
+        }
+        p {
+          font-size: 16px;
+          line-height: 28px;
+        }
+      }
+    }
+    .dev-blog {
+      display: flex;
+      padding: 36px 40px 30px;
+      background: rgba(74, 144, 226, 0.1);
+      border-radius: 8px;
+      .img-block {
+        margin-right: 68px;
+        flex-shrink: 0;
+        img {
+          display: block;
+        }
+      }
+      .cat {
+        margin-bottom: 4px;
+        font-size: 13px;
+        line-height: 18px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: rgba(21, 32, 43, 0.6);
+      }
+      .title {
+        margin-bottom: 16px;
+        font-size: 36px;
+        font-weight: 300;
+        line-height: normal;
+        color: $link-color;
+      }
+      p {
+        margin-bottom: 0;
+        line-height: 28px;
+      }
+    }
+  }
+}
+
+@media (max-width: $size-sm) {
+  .section {
+    &.prosaic-contracts-wrap {
+      .text-block {
+        padding-top: 20px;
+        h1 {
+          font-size: 36px;
+          line-height: normal;
+        }
+        .sub-title {
+          font-size: 20px;
+        }
+      }
+      .content-wrap {
+        flex-flow: column nowrap;
+        .img-block {
+          margin: 0 0 30px;
+        }
+      }
+      .dev-blog {
+        flex-flow: column nowrap;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+  }
+}
