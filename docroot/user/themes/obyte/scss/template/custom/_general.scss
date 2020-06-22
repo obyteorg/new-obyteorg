@@ -64,3 +64,9 @@ body {
 h1 {
   font-family: 'Open Sans', sans-serif;
 }
+
+@media (max-width: $size-sm) {
+  #page-wrapper {
+    padding-top: 56px;
+  }
+}

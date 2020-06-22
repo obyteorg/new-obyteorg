@@ -1,0 +1,29 @@
+.section {
+  &.testnet-wrap {
+    color: rgba(0, 0, 0, 0.87);
+    min-height: 650px;
+    background: url('../assets/testnet/testnet-bg.jpg') center bottom no-repeat;
+    h1 {
+      margin: 0;
+      padding: 102px 0 16px;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 65px;
+      color: $link-color;
+      max-width: 380px;
+    }
+    .sub-text {
+      margin-bottom: 31px;
+      font-size: 24px;
+      line-height: 33px;
+      max-width: 440px;
+    }
+  }
+  &.downloads-wrap.testnet {
+    margin-top: -125px;
+    padding: 0;
+    background: none;
+    color: rgba(0, 0, 0, 0.87);
+  }
+}

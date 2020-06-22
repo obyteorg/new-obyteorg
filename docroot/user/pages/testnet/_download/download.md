@@ -1,8 +1,8 @@
 ---
 title: Download
-class: downloads-wrap
-bigImg: /user/themes/obyte/assets/phone-shadow.png
-smallImg: /user/themes/obyte/assets/phone.png
+class: downloads-wrap testnet
+bigImg: /user/themes/obyte/assets/testnet/phone-shadow.png
+smallImg: /user/themes/obyte/assets/testnet/phone.png
 blockTitle: <h1>Download your Obyte (Byteball) wallet</h1>
 programs:
     -
@@ -16,18 +16,17 @@ programs2:
         title: 'Download for MacOS X'
         link: 'https://obyte.org/downloads/Obyte-osx64.dmg'
     -
-        title: 'Windows 64bit'
-        link: 'https://obyte.org/downloads/Obyte-win64.exe'
-    -
-        title: 'Windows 32bit'
-        link: 'https://obyte.org/downloads/Obyte-win32.exe'
-    -
         title: 'Linux 64bit'
         link: 'https://obyte.org/downloads/Obyte-linux64.zip'
     -
         title: 'GitHub releases'
         link: 'https://github.com/byteball/obyte-gui-wallet/releases'
 ---
+
+After installing, [click this link](obyte-tn:AxBxXDnPOzE/AxLHmidAjwLPFtQ6dK3k70zM0yKVeDzC@obyte.org/bb-test#0000) to receive free bytes from the faucet
+and [buy some pizza](obyte-tn:AzG28EqBgI9OkDa5yka9gYTqqrfuwt+7mUAUuhaAXLAT@obyte.org/bb-test#0000) by chatting with a chatbot
+
+View public transactions on the [Testnet DAG explorer](https://testnetexplorer.obyte.org) <br>
+And of course check out [developer resources](https://developer.obyte.org)
+
  
-View public transactions on the [DAG explorer](https://explorer.obyte.org/"). <br>
-Unofficial web wallet (partial functionality): [wallet.byteballtalk.com](https://wallet.byteballtalk.com/) ([source code](https://github.com/gcc2ge/ObyteWebWallet)).
