@@ -3,15 +3,25 @@
     color: rgba(0, 0, 0, 0.87);
     min-height: 650px;
     background: url('../assets/testnet/testnet-bg.jpg') center bottom no-repeat;
+    &:before {
+      content:'';
+      position: absolute;
+      height: 660px;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: url('../assets/testnet/testnet-repeat-bg.jpg') center repeat-x;
+      z-index: -1;
+    }
     h1 {
       margin: 0;
       padding: 102px 0 16px;
       font-family: 'Open Sans', sans-serif;
-      font-weight: bold;
       font-size: 48px;
+      font-weight: 600;
       line-height: 65px;
       color: $link-color;
-      max-width: 380px;
+      max-width: 350px;
     }
     .sub-text {
       margin-bottom: 31px;

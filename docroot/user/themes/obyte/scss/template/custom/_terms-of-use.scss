@@ -1,0 +1,34 @@
+.section {
+  &.terms-of-use-wrap {
+    color: rgba(0, 0, 0, 0.87);
+    background: url('../assets/terms-of-use/terms-bg.jpg') center top no-repeat;
+    &:before {
+      content: '';
+      position: absolute;
+      height: 660px;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: url('../assets/terms-of-use/terms-repeat-bg.jpg') center repeat-x;
+      z-index: -1;
+    }
+    h1 {
+      margin: 0;
+      padding: 102px 0 86px;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 48px;
+      font-weight: 600;
+      line-height: 65px;
+      color: $link-color;
+    }
+    h2 {
+      margin: 0 0 7px;
+      font-weight: 300;
+      font-size: 36px;
+      color: $link-color;
+    }
+    ul {
+      margin: 0 0 0 20px;
+    }
+  }
+}
