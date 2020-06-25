@@ -17,6 +17,8 @@
 @import 'custom/resources';
 @import 'custom/contracts';
 @import 'custom/autonomous-agents';
-@import 'custom/_testnet.scss';
-@import 'custom/_order-providers.scss';
-@import 'custom/_terms-of-use.scss';
+@import 'custom/testnet';
+@import 'custom/order-providers';
+@import 'custom/terms-of-use';
+@import 'custom/privacy';
+@import 'custom/grants';
