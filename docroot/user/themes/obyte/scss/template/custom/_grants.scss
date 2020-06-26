@@ -148,19 +148,22 @@
       .flex-block {
         flex-flow: column nowrap;
         margin-bottom: 20px;
-        padding: 20px 20px 25px;
+        padding: 20px 0 25px;
         .img-block {
           margin: 0 0 20px;
           &:after {
             display: none;
           }
         }
+        &.blue {
+          padding: 20px 20px 25px;
+        }
       }
       .fancy-list {
-        padding-left: 15px;
+        padding-left: 0;
         &:before {
           top: 20px;
-          left: 20px;
+          left: 5px;
           height: auto;
           bottom: 0;
         }

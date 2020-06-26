@@ -21,7 +21,7 @@
       left: 0;
       width: 100%;
       height: 754px;
-      background: url('../assets/order-providers/providers-dots.svg') center no-repeat;
+      background: url('../assets/order-providers/providers-dots.svg') center / contain no-repeat;
     }
     h1 {
       margin: 0;
@@ -80,6 +80,31 @@
       &.right {
         .img-block {
           margin-left: 94px;
+        }
+      }
+    }
+  }
+}
+@media (max-width: $size-sm) {
+  .section {
+    &.order-providers-wrap {
+      &:after {
+        top: 230px;
+      }
+      .sub-paragraph {
+        margin-bottom: 220px;
+      }
+      .flex-block {
+        flex-flow: column nowrap;
+        &.left {
+          .img-block {
+            margin: 0 0 30px;
+          }
+        }
+        &.right {
+          .img-block {
+            margin: 0;
+          }
         }
       }
     }
