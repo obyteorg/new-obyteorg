@@ -1,5 +1,5 @@
 ---
-title: Chatbots
+title: Platform
 onpage_menu: false
 body_classes: ''
 content:

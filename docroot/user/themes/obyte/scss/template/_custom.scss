@@ -2,6 +2,7 @@
 @import 'custom/fonts';
 @import 'custom/variables';
 @import 'custom/general';
+@import 'custom/mixins';
 
 @import 'custom/header';
 @import 'custom/main-page';
@@ -23,3 +24,5 @@
 @import 'custom/privacy';
 @import 'custom/grants';
 @import 'custom/chatbots';
+@import 'custom/issue-tokens';
+@import 'custom/platform';

@@ -1,7 +1,7 @@
 .section {
-  &.chatbots-wrap {
+  &.issue-tokens-wrap {
     color: rgba(0, 0, 0, 0.87);
-    background: url('../assets/chatbots/chatbots-bg.jpg') center top no-repeat;
+    background: url('../assets/issue-tokens/issues-bg.jpg') center top no-repeat;
     &:before {
       content: '';
       position: absolute;
@@ -9,7 +9,7 @@
       width: 100%;
       top: 0;
       left: 0;
-      background: url('../assets/chatbots/chatbots-repeat-bg.jpg') center repeat-x;
+      background: url('../assets/issue-tokens/issues-repeat-bg.jpg') center top repeat-x;
       z-index: -1;
     }
     h1 {
@@ -42,35 +42,11 @@
     ul {
       margin: 0 0 0 18px;
     }
-    .flex-block {
-      position: relative;
-      display: flex;
-      align-items: flex-start;
-      .img-block {
-        flex-shrink: 0;
-        margin: 14px 74px 0 0;
-        img {
-          display: block;
-          max-width: 100%;
-        }
-        .mobile {
-          display: none;
-        }
-      }
-      &.left {
-        .img-block {
-          margin: 0 90px 0 -110px;
-        }
-        .info-block {
-          margin-top: 170px;
-        }
-      }
-      &.right {
-        margin-bottom: 42px;
-        .img-block {
-          margin: 0 30px 0 -45px;
-        }
-      }
+    .white-block {
+      margin-bottom: 16px;
+      padding: 22px 24px;
+      background-color: $white;
+      border-radius: 8px;
     }
     .dev-blog {
       margin-bottom: 16px;
@@ -112,58 +88,10 @@
 }
 @media (max-width: $size-sm) {
   .section {
-    &.chatbots-wrap {
+    &.issue-tokens-wrap {
       h1 {
         font-size: 34px;
-      }
-      .flex-list {
-        padding-left: 0;
-      }
-      .flex-block {
-        flex-flow: column nowrap;
-        margin-bottom: 20px;
-        padding: 20px 0 25px;
-        .img-block {
-          margin: 0 0 20px;
-          img {
-            display: none;
-            max-width: 100%;
-          }
-          .mobile {
-            display: block;
-          }
-        }
-        &.left, &.right {
-          .img-block {
-            margin: 0;
-          }
-        }
-        &.left {
-          .info-block {
-            margin-top: 20px;
-          }
-        }
-        &.right {
-          .img-block {
-            margin-bottom: 20px;
-            order: 1;
-          }
-          .info-block {
-            order: 2;
-          }
-        }
-      }
-      .fancy-list {
-        padding-left: 15px;
-        &:before {
-          top: 20px;
-          left: 20px;
-          height: auto;
-          bottom: 0;
-        }
-        .element-block {
-          padding-left: 38px;
-        }
+        line-height: normal;
       }
       .dev-blog {
         flex-flow: column nowrap;

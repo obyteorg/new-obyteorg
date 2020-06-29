@@ -65,6 +65,14 @@ h1 {
   font-family: 'Open Sans', sans-serif;
 }
 
+.all-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
 @media (max-width: $size-sm) {
   #page-wrapper {
     padding-top: 56px;

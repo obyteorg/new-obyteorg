@@ -1,0 +1,99 @@
+.section {
+  &.platform-wrap {
+    color: rgba(0, 0, 0, 0.87);
+    background: url('../assets/platform/platform-bg.jpg') center top no-repeat;
+    &:before {
+      content: '';
+      position: absolute;
+      height: 660px;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: url('../assets/platform/platform-repeat-bg.jpg') center top repeat-x;
+      z-index: -1;
+    }
+    h1 {
+      margin: 0;
+      padding: 102px 0 16px;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 48px;
+      font-weight: 600;
+      color: $link-color;
+    }
+    h2 {
+      margin: 0 0 7px;
+      font-weight: 300;
+      font-size: 36px;
+      color: $link-color;
+    }
+    p {
+      line-height: 28px;
+    }
+    .sub-block {
+      margin-bottom: 19px;
+      max-width: 600px;
+      font-size: 24px;
+      line-height: 33px;
+    }
+    .sub-text-block {
+      margin-bottom: 70px;
+      max-width: 512px;
+    }
+    .categories-list {
+      margin-left: -16px;
+      display: flex;
+      flex-flow: row wrap;
+    }
+    .category-block {
+      position: relative;
+      overflow: hidden;
+      width: calc(33.3% - 16px);
+      background-color: $white;
+      border-radius: 8px;
+      margin: 0 0 16px 16px;
+      .img-block {
+        @include aspect-ratio(16, 9, 'inner-wrap');
+        .inner-wrap {
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+      }
+      .title-block {
+        display: flex;
+        align-items: center;
+        min-height: 156px;
+        padding: 0 24px;
+        font-size: 36px;
+        line-height: 40px;
+        font-weight: 300;
+        color: $link-color;
+      }
+      .title {
+        flex-grow: 1;
+        text-align: center;
+      }
+    }
+  }
+}
+@media (max-width: $size-sm) {
+  .section {
+    &.platform-wrap {
+      h1 {
+        font-size: 34px;
+      }
+      .categories-list {
+        display: flex;
+        flex-flow: column nowrap;
+      }
+      .category-block {
+        width: 100%;
+        .title-block {
+          line-height: normal;
+          min-height: inherit;
+          padding: 24px;
+        }
+      }
+    }
+  }
+}
