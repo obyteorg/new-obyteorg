@@ -115,7 +115,3 @@ class: grants-wrap
     </div>
 </div>  
 
-
-
-
-

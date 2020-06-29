@@ -1,8 +1,6 @@
 ---
 title: Developers
 class: developers-wrap
-highlight:
-    theme: monokai
 ---
 
 #Obyte for developers
