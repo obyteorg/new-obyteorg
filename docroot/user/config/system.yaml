@@ -12,9 +12,9 @@ pages:
     twig: false
 
 cache:
-  enabled: false
+  enabled: true
   check:
-    method: none
+    method: file
   driver: auto
   prefix: 'g'
 
