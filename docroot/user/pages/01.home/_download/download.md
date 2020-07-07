@@ -11,16 +11,13 @@ programs:
     -
         imgLink: /user/themes/obyte/assets/svg/google-play-store.svg
         link: 'https://play.google.com/store/apps/details?id=org.byteball.wallet'
+    -
+        imgLink: /user/themes/obyte/assets/svg/microsoft-store.svg
+        link: 'https://obyte.org/downloads/Obyte-win64.exe'
 programs2:
     -
         title: 'Download for MacOS X'
         link: 'https://obyte.org/downloads/Obyte-osx64.dmg'
-    -
-        title: 'Windows 64bit'
-        link: 'https://obyte.org/downloads/Obyte-win64.exe'
-    -
-        title: 'Windows 32bit'
-        link: 'https://obyte.org/downloads/Obyte-win32.exe'
     -
         title: 'Linux 64bit'
         link: 'https://obyte.org/downloads/Obyte-linux64.zip'

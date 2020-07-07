@@ -3,7 +3,7 @@
 }
 .section {
   &.modular-hero {
-    padding: 100px 0 170px;
+    padding: 0 0 92px;
     background: linear-gradient(0.27deg, rgba(#f7f7f7, 0.235) 0.42%, #E0EEFF 125%);
     .text-block {
       max-width: 550px;
@@ -12,7 +12,7 @@
         color: $link-color;
         font-size: 48px;
         line-height: 65px;
-        font-weight: 300;
+        font-weight: 600;
       }
       p {
         margin-bottom: 38px;
@@ -135,9 +135,10 @@
     overflow: hidden;
     padding: 0;
     h1 {
-      margin: 0 0 12px;
+      margin: 0;
       font-size: 36px;
       font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
       color: $link-color;
     }
     p {
@@ -146,7 +147,7 @@
     }
     .text-block {
       max-width: 670px;
-      margin-bottom: 70px;
+      margin-bottom: 7px;
     }
     .swiper-outer-wrap {
       .inner-wrap {
@@ -271,6 +272,12 @@
       margin-bottom: 28px;
       img {
         display: block;
+        max-width: 100%;
+      }
+      a {
+        &:last-child {
+          margin-right: 0;
+        }
       }
     }
     .program-list {
@@ -319,11 +326,13 @@
       margin: 0 0 32px 32px;
       width: calc(25% - 32px);
       .img-block {
+        padding: 0 32px;
         img {
           display: block;
           width: 100%;
         }
       }
+      color: rgba(0, 0, 0, 0.6);
       .name {
         font-size: 20px;
         margin-bottom: 3px;

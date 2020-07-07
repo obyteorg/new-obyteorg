@@ -11,7 +11,6 @@ content:
             - _download
             - _team
             - _exchanges
-            - _community
 visible: false
 onpage_menu: false
 ---

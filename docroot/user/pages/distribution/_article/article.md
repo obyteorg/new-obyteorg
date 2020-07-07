@@ -1,12 +1,18 @@
 ---
 title: Distribution
+class: distribution-wrap
 ---
 
 # Distribution
 
-Obyte was launched in December of 2016 with the idea of distributing 99% of all Bytes and Blackbytes for free (1% reserved for the founder) in order to bootstrap its adoption.
-
-The initial 64.5% were distributed to BTC holders who chose to participate, and in later stages also to Byte holders, in proportion to their BTC and Byte balances. However, by August of 2017 it became clear that this method fails to bring real adoption while quickly draining the undistributed funds, and the team began introducing other distribution methods to replace it, with most of these methods being tied to usage or contribution to Obyte ecosystem. The majority of the new methods, as well as the initial one, are tried for the first time, without prior experience, and are largely experimental, hence high rate of failures is to be expected.
+<div class="sub-block">
+    Obyte was launched in December of 2016 with the idea of distributing 99% of all Bytes and Blackbytes for free (1% reserved for the founder) in order to bootstrap its adoption.
+</div>
+<div class="sub-text-block">
+    <p>
+        The initial 64.5% were distributed to BTC holders who chose to participate, and in later stages also to Byte holders, in proportion to their BTC and Byte balances. However, by August of 2017 it became clear that this method fails to bring real adoption while quickly draining the undistributed funds, and the team began introducing other distribution methods to replace it, with most of these methods being tied to usage or contribution to Obyte ecosystem. The majority of the new methods, as well as the initial one, are tried for the first time, without prior experience, and are largely experimental, hence high rate of failures is to be expected.
+    </p>
+</div>
 
 Today, most of the distribution happens in exchange for contribution to Obyte, such as through grants, to team members for their time, to companies for the services they provide to Obyte, prizes for contest participants, etc.
 

@@ -13,12 +13,12 @@ team:
         role: 'Partner and COO'
     -
         imgLink: /user/themes/obyte/assets/team/avatar3.png
-        name: 'Valerius Coppens'
-        role: 'Head of Strategy'
+        name: 'Luke Angell'
+        role: 'Events and Partnerships Manager'
     -
         imgLink: /user/themes/obyte/assets/team/avatar4.png
-        name: 'Paul Murray'
-        role: 'Head of Digital Content'
+        name: 'Casper Niebe'
+        role: 'User Acquisition Manager'
 ---
 
 # Team

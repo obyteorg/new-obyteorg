@@ -9,8 +9,8 @@ class: developers-wrap
 const objUnit = await storage.readUnit('Xrs9FcyJ6F/54BM2D4HCT1RQOoiXHCs/AlNRd/dNXoo=');
 const data = objUnit.messages.find(m => m.app === 'data').payload;
 ```
-and write to, for a fee equal to the size of data being written
-<br><br>
+<p class="bullet-padding">and write to, for a fee equal to the size of data being written</p>
+<br>
 ```js
 let unit = await sendData({ payload: { event: "Let there be light!", year: 0 } });
 ```
@@ -28,8 +28,8 @@ const response = await fetch('https://domain.com/some/paid/service', {
 	body: body
 });
 ```
-and the currency is also global, ownerless.
-<br><br>
+<p class="bullet-padding">and the currency is also global, ownerless.</p>
+<br>
 <p class="bullet">Imagine ownerless, shared, unstoppable apps that send/receive payments and read/write data strictly according to code</p>
 ```json
 {
@@ -42,4 +42,6 @@ and the currency is also global, ownerless.
 	}
 },
 ```
-This is the space Obyte developers work in. And there are lots of tools to navigate this space and lots of building blocks to build on it.
+<p class="bullet-padding">This is the space Obyte developers work in. And there are lots of tools to navigate this space and lots of building blocks to build on it.</p>
+<br>
+<br>

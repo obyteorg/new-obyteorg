@@ -12,17 +12,11 @@ exchanges:
         img: /user/themes/obyte/assets/exchanges/cryptox.png
         link: 'https://cryptox.pl/'
     -
-        img: /user/themes/obyte/assets/exchanges/bisq.png
-        link: 'https://bisq.network/'
-    -
         img: /user/themes/obyte/assets/exchanges/kaiserex.png
         link: 'https://www.kaiserex.com/'
     -
         img: /user/themes/obyte/assets/exchanges/cryptofacil.png
         link: 'https://cryptofacil.com/trading-view/147/BTC-GBYTE'
-    -
-        img: /user/themes/obyte/assets/exchanges/indacoin.png
-        link: 'https://indacoin.com/'
     -
         img: /user/themes/obyte/assets/exchanges/gdex.png
         link: 'https://www.gdex.io/market/GDEX.GBYTE_GDEX.BTC'
@@ -32,6 +26,24 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/bcbitcoin.png
         link: 'https://www.bcbitcoin.co.uk/'
+    -
+        img: /user/themes/obyte/assets/exchanges/bitz.png
+        link: 'https://www.bitz.so/'
+    -
+        img: /user/themes/obyte/assets/exchanges/bitladon.png
+        link: 'https://www.bitladon.com/'
+    -
+        img: /user/themes/obyte/assets/exchanges/simpleswap.png
+        link: 'https://simpleswap.io/'
+    -
+        img: /user/themes/obyte/assets/exchanges/godex.png
+        link: 'https://godex.io/'
+    -
+        img: /user/themes/obyte/assets/exchanges/swapspace.png
+        link: 'https://swapspace.co/'
+    -
+        img: /user/themes/obyte/assets/exchanges/swap.png
+        link: 'https://swapspace.co/'
 ---
 
 # Exchanges
