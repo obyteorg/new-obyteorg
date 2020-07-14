@@ -1,14 +1,21 @@
 ---
 title: 'World Community Grid'
+class: community-grid-wrap
 ---
 
 # Distribution through World Community Grid
-
-One of the longest running distribution methods is by donating computing power to the World Community Grid.
-
-[World Community Grid](https://www.worldcommunitygrid.org/?target=_blank) is an IBM sponsored philanthropic initiative running since 2004. WCG allows one to use idle time of one's computer to help scientists solve the world’s biggest problems in health and sustainability.
-
-For this help, Obyte rewards the contributors: $1.00 in Bytes for every 1,000,000 points contributed.
+<div class="sub-block">
+    One of the longest running distribution methods is by donating computing power to the World Community Grid.
+</div>
+<div class="sub-text-block">
+    <p>
+        <a target="_blank" href="https://www.worldcommunitygrid.org/?target=_blank">World Community Grid</a>
+         is an IBM sponsored philanthropic initiative running since 2004. WCG allows one to use idle time of one's 
+         computer to help scientists solve the world’s biggest problems in health and sustainability.
+    </p>
+</div>
+    
+For this help, Obyte rewards the contributors: <b>$1.00</b> in Bytes for every 1,000,000 points contributed.
 
 This is also a way to get a small amount of Bytes without having to buy them on an exchange. It is similar to mining but the computing power is used to solve real world problems.
 

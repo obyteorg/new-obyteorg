@@ -21,6 +21,11 @@
       font-weight: 600;
       color: $link-color;
     }
+    h2 {
+      font-weight: 300;
+      font-size: 36px;
+      color: $link-color;
+    }
     p {
       font-size: 16px;
       line-height: 28px;
@@ -33,6 +38,54 @@
     }
     .sub-text-block {
       max-width: 670px;
+    }
+    .distribution-block {
+      background-color: $white;
+      border-radius: 8px;
+      .info-block {
+        padding: 31px 28px 23px;
+        .title {
+          margin-bottom: 9px;
+        }
+      }
+    }
+    table {
+      width: 100%;
+      border-spacing: inherit;
+    }
+    thead {
+      tr {
+
+
+      }
+      th {
+        border-bottom: 1px solid #4A90E2;
+        text-align: left;
+        padding: 12px 14px;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 28px;
+        color: rgba(0, 0, 0, 0.87);
+        &:nth-child(2n),
+        &:nth-child(3n){
+          white-space: nowrap;
+        }
+      }
+    }
+    tbody {
+      tr {
+
+      }
+      td {
+        padding: 7px 14px;
+        border-bottom: 1px solid #E5E5EA;
+        &:nth-child(2n) {
+          white-space: nowrap;
+        }
+        &:nth-child(3n) {
+          text-align: right;
+        }
+      }
     }
   }
 }

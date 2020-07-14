@@ -1,27 +1,29 @@
 <div id="wechat_overlay" style="position: fixed; top:0;right:0;left:0;bottom:0; z-index: 9999; background: white; display: none; padding: 10px;">
 	To continue, open this page in system default browser (<b>"Open in <span class="browser">Safari</span>"</b>) by clicking <img src="img/dots.gif"/> in the upper right corner of this screen.
 </div>
-<div class="section clearfix open-sans-regular" id="textcoin" style="display: none;">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/VW9ZH-Uq97c?controls=0" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
-				<h3 class="m-t-30 m-b-30 open-sans-bold">You received money!</h3>
-				<p class="android" style="display: none;">
-					Click the button below to open or install O<sub>byte</sub> (Byteball) app on your device and claim your funds.
-				</p>
-				<p class="desktop">
-					<a href="#download">Download and install O<sub>byte</sub> (Byteball) Wallet</a> first, then Click the button below to open app on your device and claim your funds.
-				</p>
-				<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
-				<p>
-					If the button doesn't work, <a href="#download">install O<sub>byte</sub> (Byteball) Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
-					<b id="mnemonic"></b><br>
-				</p>
-			</div>
-			<div class="col-xs-12 col-md-5 col-md-offset-2 col-md-pull-7 text-center text-md-right order-md-1">
-				<img src="img/inphone/wallet.png?v2" style="display: inline; max-height: 547px; max-width: 100%" />
-			</div>
-		</div>
+<div class="section twelve-words-wrap" id="textcoin" style="display: none;">
+	<div class="container grid-xl">
+        <div class="flex-block">
+            <div class="img-block">
+                <img src="{{ url('theme://assets/textcoins/textcoin-mobile.png')  }}" alt="">
+            </div>
+            <div class="info-block">
+                <div class="iframe-wrap">
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VW9ZH-Uq97c?controls=0" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <h3 class="title">You received money!</h3>
+                <p class="android" style="display: none;">
+                    Click the button below to open or install Obyte (Byteball) app on your device and claim your funds.
+                </p>
+                <p class="desktop">
+                    <a href="#download">Download and install O<sub>byte</sub> (Byteball) Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+                </p>
+                <p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+                <p>
+                    If the button doesn't work, <a href="#download">install O<sub>byte</sub> (Byteball) Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+                    <b id="mnemonic"></b><br>
+                </p>
+            </div>
+        </div>
 	</div>
 </div>

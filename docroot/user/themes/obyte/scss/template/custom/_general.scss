@@ -73,8 +73,51 @@ h1 {
   bottom: 0;
 }
 
+.dev-blog {
+  margin-bottom: 16px;
+  display: flex;
+  padding: 36px 40px 35px;
+  background: rgba(74, 144, 226, 0.1);
+  border-radius: 8px;
+  .dev-img-block {
+    margin: 0 68px 0 0;
+    flex-shrink: 0;
+    img {
+      display: block;
+    }
+  }
+  .cat {
+    margin-bottom: 4px;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgba(21, 32, 43, 0.6);
+  }
+  .title {
+    margin-bottom: 16px;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: normal;
+    color: $link-color;
+  }
+  p {
+    margin-bottom: 0;
+    line-height: 28px;
+  }
+  &.white {
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF);
+  }
+}
+
 @media (max-width: $size-sm) {
   #page-wrapper {
     padding-top: 56px;
+  }
+  .dev-blog {
+    flex-flow: column nowrap;
+    .title {
+      font-size: 28px;
+    }
   }
 }

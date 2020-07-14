@@ -1,0 +1,132 @@
+.section {
+  &.blackbytes-wrap {
+    color: rgba(0, 0, 0, 0.87);
+    background: url('../assets/blackbytes/blackbytes-bg.jpg') center top / 100% auto #f7f7f7 no-repeat;
+    &:before {
+      content: '';
+      position: absolute;
+      height: 660px;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: url('../assets/blackbytes/blackbytes-repeatable-bg.jpg') center top repeat-x;
+      z-index: -1;
+    }
+    h1 {
+      margin: 0;
+      padding: 102px 0 19px;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 48px;
+      font-weight: 600;
+      color: $link-color;
+    }
+    h2 {
+      font-weight: 300;
+      font-size: 36px;
+      color: $link-color;
+    }
+    p {
+      font-size: 16px;
+      line-height: 28px;
+      max-width: 960px;
+    }
+    .sub-block {
+      max-width: 500px;
+      margin-bottom: 20px;
+      font-size: 24px;
+      line-height: 33px;
+    }
+    .sub-text-block {
+      max-width: 595px;
+    }
+    .flex-block {
+      display: flex;
+      .img-block {
+        margin: 20px 0 0 74px;
+        flex-shrink: 0;
+        img {
+          display: block;
+        }
+      }
+    }
+    .attestors-list {
+      padding-left: 28px;
+    }
+    .attestor-block {
+      margin-bottom: 46px;
+      display: flex;
+      .img-block {
+        margin-right: 64px;
+        flex-shrink: 0;
+        img {
+          display: block;
+          width: 158px;
+        }
+      }
+      h2 {
+        margin: 0 0 7px;
+      }
+    }
+    .blackbytes-details {
+      display: flex;
+      justify-content: space-between;
+    }
+    .blackbytes-block {
+      width: calc(50% - 38px);
+      .d-flex {
+        align-items: flex-start;
+      }
+      h3 {
+        margin: 0 0 11px;
+        font-weight: 600;
+        font-size: 24px;
+        color: $text-color2;
+      }
+      img {
+        margin-left: 36px;
+        flex-shrink: 0;
+        display: block;
+      }
+    }
+  }
+}
+
+
+@media (max-width: $size-sm) {
+  .section {
+    &.blackbytes-wrap {
+      h1 {
+        font-size: 34px;
+        line-height: normal;
+      }
+      .flex-block {
+        flex-flow: column nowrap;
+        margin-bottom: 20px;
+        padding: 20px 0 25px;
+        &.one {
+          .img-block {
+            order: 1;
+            margin: 20px auto;
+          }
+          .info-img {
+            order: 2;
+            margin: 20px auto;
+          }
+        }
+      }
+      .blackbytes-details {
+        flex-flow: column nowrap;
+      }
+      .blackbytes-block {
+        width: 100%;
+        margin-bottom: 35px;
+        .d-flex {
+          flex-flow: column nowrap;
+        }
+        img {
+          margin: 0 20px 0;
+        }
+      }
+    }
+  }
+}

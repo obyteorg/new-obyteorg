@@ -1,0 +1,107 @@
+.section {
+  &.oracles-wrap {
+    color: rgba(0, 0, 0, 0.87);
+    background: url('../assets/oracles/oracles-bg.jpg') center top no-repeat;
+    &:before {
+      content: '';
+      position: absolute;
+      height: 660px;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: url('../assets/oracles/oracles-repeatable-bg.jpg') center top repeat-x;
+      z-index: -1;
+    }
+    h1 {
+      margin: 0;
+      max-width: 550px;
+      padding: 102px 0 19px;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 48px;
+      font-weight: 600;
+      color: $link-color;
+    }
+    h2 {
+      font-weight: 300;
+      font-size: 36px;
+      color: $link-color;
+    }
+    p {
+      font-size: 16px;
+      line-height: 28px;
+      max-width: 960px;
+    }
+    .sub-block {
+      max-width: 500px;
+      margin-bottom: 20px;
+      font-size: 24px;
+      line-height: 33px;
+    }
+    .sub-text-block {
+      max-width: 660px;
+    }
+    .flex-block {
+      display: flex;
+      &.one {
+        margin-bottom: 40px;
+        align-items: flex-end;
+        justify-content: space-between;
+        .info-block {
+          max-width: 660px;
+        }
+        .img-block {
+          margin-right: 20px;
+          flex-shrink: 0;
+          img {
+            display: block;
+            box-shadow: 0 10px 24px rgba(74, 144, 226, 0.2);
+          }
+        }
+      }
+      &.two {
+        .img-block {
+          flex-shrink: 0;
+          margin: 0 90px 0 -125px;
+          img {
+            display: block;
+            max-width: 100%;
+          }
+          .mobile {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+@media (max-width: $size-sm) {
+  .section {
+    &.oracles-wrap {
+      h1 {
+        font-size: 34px;
+        line-height: normal;
+      }
+      .flex-block {
+        flex-flow: column nowrap;
+        margin-bottom: 20px;
+        padding: 20px 0 25px;
+        &.two {
+          .img-block {
+            margin: 0 0 20px;
+            img {
+              margin: 0 auto;
+              display: none;
+              max-width: 100%;
+            }
+            .mobile {
+              display: block;
+            }
+          }
+          .info-block {
+            margin-top: 20px;
+          }
+        }
+      }
+    }
+  }
+}

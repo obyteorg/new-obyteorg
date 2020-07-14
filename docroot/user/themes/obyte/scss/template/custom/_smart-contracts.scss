@@ -1,0 +1,132 @@
+.section {
+  &.smart-contracts-wrap {
+    color: rgba(0, 0, 0, 0.87);
+    background: url('../assets/smart-contracts/contracts-bg.jpg') center top no-repeat;
+    &:before {
+      content: '';
+      position: absolute;
+      height: 660px;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: url('../assets/smart-contracts/contracts-repeatable-bg.jpg') center top repeat-x;
+      z-index: -1;
+    }
+    h1 {
+      margin: 0;
+      max-width: 550px;
+      padding: 102px 0 19px;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 48px;
+      font-weight: 600;
+      color: $link-color;
+    }
+    h2 {
+      font-weight: 300;
+      font-size: 36px;
+      color: $link-color;
+    }
+    p {
+      font-size: 16px;
+      line-height: 28px;
+      max-width: 960px;
+    }
+    .sub-block {
+      max-width: 500px;
+      margin-bottom: 20px;
+      font-size: 24px;
+      line-height: 33px;
+    }
+    .sub-text-block {
+      max-width: 660px;
+    }
+    .flex-block {
+      display: flex;
+      .img-block {
+        flex-shrink: 0;
+      }
+      &.one {
+        margin-bottom: 48px;
+        align-items: flex-start;
+        justify-content: space-between;
+        .img-block {
+          margin-left: 55px;
+          img {
+            display: block;
+            box-shadow: 0 10px 24px rgba(74, 144, 226, 0.2);
+          }
+        }
+      }
+      &.two {
+        .info-block {
+          margin-top: 130px;
+        }
+        .img-block {
+          flex-shrink: 0;
+          margin: 0 90px 0 -125px;
+          img {
+            display: block;
+            max-width: 100%;
+          }
+          .mobile {
+            display: none;
+          }
+        }
+      }
+      &.three {
+        margin-bottom: 60px;
+        .info-block {
+          margin-top: 90px;
+        }
+        .img-block {
+          flex-shrink: 0;
+          margin: 0 -65px 0 90px;
+          img {
+            display: block;
+            max-width: 100%;
+          }
+          .mobile {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+@media (max-width: $size-sm) {
+  .section {
+    &.smart-contracts-wrap {
+      h1 {
+        font-size: 34px;
+        line-height: normal;
+      }
+      .flex-block {
+        flex-flow: column nowrap;
+        margin-bottom: 20px;
+        padding: 20px 0 25px;
+        &.one {
+          .img-block {
+            margin: 20px auto;
+          }
+        }
+        &.two,
+        &.three {
+          .img-block {
+            margin: 0 0 20px;
+            img {
+              margin: 0 auto;
+              display: none;
+              max-width: 100%;
+            }
+            .mobile {
+              display: block;
+            }
+          }
+          .info-block {
+            margin-top: 20px;
+          }
+        }
+      }
+    }
+  }
+}
