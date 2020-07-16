@@ -1,0 +1,78 @@
+.iot-wrap,
+.iot-wrap2 {
+  h1 {
+    margin: 0;
+    padding: 102px 0 19px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    color: $link-color;
+  }
+  h2 {
+    font-weight: 300;
+    font-size: 36px;
+    color: $link-color;
+  }
+  p {
+    font-size: 16px;
+    line-height: 28px;
+    max-width: 960px;
+  }
+  ul {
+    margin-left: 17px;
+  }
+  .sub-block {
+    max-width: 440px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .sub-text-block {
+    max-width: 550px;
+  }
+}
+
+.iot-wrap {
+  background: url('../assets/iot/iot-bg.jpg') center top #f7f7f7 no-repeat;
+  .top-block {
+    min-height: 560px;
+  }
+  &:before {
+    content: '';
+    position: absolute;
+    height: 660px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: url('../assets/iot/iot-repeatable-bg.jpg') center top repeat-x;
+    z-index: -1;
+  }
+  .event-block {
+    margin-bottom: 70px;
+    display: flex;
+    justify-content: center;
+    img {
+      display: block;
+    }
+    .img1 {
+      margin-right: 14px;
+    }
+  }
+}
+
+.iot-wrap2 {
+  color: rgba(0, 0, 0, 0.87);
+  .med-width {
+    max-width: 960px;
+  }
+
+}
+
+@media (max-width: $size-sm) {
+  .iot-wrap {
+    h1 {
+      font-size: 34px;
+      line-height: normal;
+    }
+  }
+}
