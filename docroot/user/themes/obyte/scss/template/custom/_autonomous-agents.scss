@@ -50,6 +50,12 @@
       .img-block {
         max-width: 100%;
         flex-shrink: 0;
+        img {
+          display: block;
+        }
+        .mobile {
+          display: none;
+        }
       }
       .info-block {
         padding-top: 22px;
@@ -90,6 +96,13 @@
         flex-flow: column nowrap;
         .img-block {
           order: 1;
+          img {
+            display: none;
+          }
+          .mobile {
+            margin: 0 auto;
+            display: block;
+          }
         }
         .info-block {
           order: 2;

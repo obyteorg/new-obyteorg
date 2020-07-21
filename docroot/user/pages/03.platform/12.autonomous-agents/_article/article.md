@@ -51,6 +51,7 @@ class: autonomous-agents-wrap
 <div class="flex-block two">
     <div class="img-block">
         <img src="/user/themes/obyte/assets/autonomous-agents/mobile.png" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/autonomous-agents/mobile2.png" alt="">
     </div>
     <div class="info-block">
         <h2>Agents, not contracts</h2>
