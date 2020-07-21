@@ -26,7 +26,7 @@ in this environment, IoT devices can have economic relations with each other and
         <div class="title">Byteduino</div>
         <p>
             For use in very small devices such as ESP32 and ESP8266, Obyte node was rewritten in C/C++ and ported to 
-            Arduino platform. <a target="_blank" href="">See Byteduino homepage on github</a>. 
+            Arduino platform. <a target="_blank" href="https://github.com/Papabyte/Byteduino">See Byteduino homepage on github</a>. 
         </p>
     </div>
 </div>

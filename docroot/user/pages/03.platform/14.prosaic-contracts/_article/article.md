@@ -21,6 +21,7 @@ class: prosaic-contracts-wrap
 <div class="content-wrap">
     <div class="img-block">
         <img src="/user/themes/obyte/assets/prosaic/mobile-img.png" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/prosaic/mobile-img2.png" alt="">
     </div>
     <div class="content-block">
         <div class="content-small">

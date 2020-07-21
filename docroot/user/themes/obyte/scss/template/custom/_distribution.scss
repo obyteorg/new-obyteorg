@@ -40,6 +40,7 @@
       max-width: 670px;
     }
     .distribution-block {
+      margin: 0 -1.4rem;
       background-color: $white;
       border-radius: 8px;
       .info-block {
@@ -95,6 +96,22 @@
       h1 {
         font-size: 34px;
         line-height: normal;
+      }
+      table {
+        thead {
+          th {
+            flex-grow: 1;
+          }
+        }
+        tr {
+          display: flex;
+          flex-flow: row wrap;
+          border-bottom: 1px solid #E5E5EA;
+          td {
+            flex-grow: 1;
+            border-bottom: none;
+          }
+        }
       }
     }
   }

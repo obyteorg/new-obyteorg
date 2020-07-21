@@ -124,6 +124,9 @@
           order: 2;
         }
       }
+      .flex-text {
+        flex-flow: column nowrap;
+      }
       .dev-blog {
         flex-flow: column nowrap;
         align-items: center;

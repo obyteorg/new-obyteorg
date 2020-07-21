@@ -7,7 +7,7 @@ class: developers-wrap
 <p class="bullet">Imagine a global, ownerless, shared database any app can freely read from</p>
 ```js
 const objUnit = await storage.readUnit('Xrs9FcyJ6F/54BM2D4HCT1RQOoiXHCs/AlNRd/dNXoo=');
-const data = objUnit.messages.find(m => m.app === 'data').payload;
+const data = objUnit.messages.find(1m => m.app === 'data').payload;
 ```
 <p class="bullet-padding">and write to, for a fee equal to the size of data being written</p>
 <br>

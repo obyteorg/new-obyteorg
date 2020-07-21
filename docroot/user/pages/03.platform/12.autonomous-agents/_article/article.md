@@ -55,7 +55,7 @@ class: autonomous-agents-wrap
     <div class="info-block">
         <h2>Agents, not contracts</h2>
         <p>
-            Autonomous Agents exist on equal terms with human actors: they are endpoints of interactions. Contracts, on the other hand, exist between humans or human-managed organizations, contracts are interactions. [image: a network of interconnected nodes, most of them are humans, some are AAs]
+            Autonomous Agents exist on equal terms with human actors: they are endpoints of interactions. Contracts, on the other hand, exist between humans or human-managed organizations, contracts are interactions.
         </p>
         <img src="/user/themes/obyte/assets/autonomous-agents/img2.svg" alt="">
         <p>
@@ -87,7 +87,7 @@ class: autonomous-agents-wrap
         <div class="title">Developer tools</div>
         <ul>
             <li>
-                <a target="_blank" href="https://oscript.org">Oscript Editor</a>: : a browser based editor for Oscript, it allows 
+                <a target="_blank" href="https://oscript.org">Oscript Editor</a>: a browser based editor for Oscript, it allows 
                 to write AA code in the browser, no installation required, and immediately deploy using Obyte wallet. 
                 The editor includes a few templates of AAs to start with.
             </li>

@@ -83,10 +83,12 @@
         font-size: 34px;
       }
       .categories-list {
+        margin: 0;
         display: flex;
         flex-flow: column nowrap;
       }
       .category-block {
+        margin: 0 0 16px 0;
         width: 100%;
         .title-block {
           line-height: normal;

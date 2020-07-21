@@ -1,6 +1,6 @@
 ---
 title: IoT
-class: iot-wrap
+class: section iot-wrap
 ---
 <div class="container grid-xl">
     <div class="top-block">

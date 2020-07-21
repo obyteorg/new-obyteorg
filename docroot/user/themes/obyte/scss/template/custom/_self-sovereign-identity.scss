@@ -89,6 +89,7 @@
 @media (max-width: $size-sm) {
   .section {
     &.identity-wrap {
+      background: url(../assets/identity/identity-bg.jpg) center top/ auto #f7f7f7 no-repeat;
       h1 {
         font-size: 34px;
         line-height: normal;
@@ -101,12 +102,24 @@
           .img-block {
             order: 1;
             margin: 20px auto;
+            img {
+              display: none;
+            }
+            .mobile {
+              display: block;
+            }
           }
           .info-block {
             order: 2;
             margin: 20px auto;
+            .info-img {
+              margin: 0;
+            }
           }
         }
+      }
+      .attestor-block {
+        flex-flow: column nowrap;
       }
     }
   }
