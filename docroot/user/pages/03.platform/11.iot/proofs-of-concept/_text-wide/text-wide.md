@@ -1,6 +1,6 @@
 ---
 title: 'Proofs of Concept'
-class: poc-wrap
+class: section poc-wrap
 ---
 
 <div class="top-block">

@@ -57,7 +57,14 @@
       .title {
         margin-bottom: 20px;
         font-size: 36px;
-        color: #15202B;
+        color: $text-color2;
+        a {
+          text-decoration: none;
+          color: $text-color2;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
       }
       .text {
         font-size: 16px;

@@ -7,20 +7,24 @@ blockTitle: <h1>Download your Obyte (Byteball) wallet</h1>
 programs:
     -
         imgLink: /user/themes/obyte/assets/svg/app-store.svg
-        link: 'https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&mt=8'
+        link: 'https://github.com/byteball/obyte-gui-wallet/'
     -
         imgLink: /user/themes/obyte/assets/svg/google-play-store.svg
-        link: 'https://play.google.com/store/apps/details?id=org.byteball.wallet'
+        link: 'https://play.google.com/store/apps/details?id=org.byteball.wallet.testnet'
+        
 programs2:
+    - 
+        title: 'Windows 64bit'
+        link: 'https://obyte.org/downloads/Obyte-test-win64.exe'
     -
         title: 'Download for MacOS X'
-        link: 'https://obyte.org/downloads/Obyte-osx64.dmg'
+        link: 'https://obyte.org/downloads/Obyte-test-osx64.dmg'
     -
         title: 'Linux 64bit'
-        link: 'https://obyte.org/downloads/Obyte-linux64.zip'
+        link: 'https://obyte.org/downloads/Obyte-test-linux64.zip'
     -
         title: 'GitHub releases'
-        link: 'https://github.com/byteball/obyte-gui-wallet/releases'
+        link: 'https://github.com/byteball/testnet-releases/releases'
 ---
 
 After installing, [click this link](obyte-tn:AxBxXDnPOzE/AxLHmidAjwLPFtQ6dK3k70zM0yKVeDzC@obyte.org/bb-test#0000) to receive free bytes from the faucet

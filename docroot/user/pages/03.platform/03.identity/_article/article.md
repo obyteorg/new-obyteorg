@@ -8,7 +8,7 @@ class: identity-wrap
     On Obyte, users have an option to get any information about themselves verified and easily proven to third parties.
 </div>
 <div class="sub-text-block">
-    For example, a user may opt to have their real name verified, with the personal information being stored in their wallet and nowhere else, then share this information with other users they choose, with other users being able to verify that this information is authentic using the Obyte DAG.
+    <p>For example, a user may opt to have their real name verified, with the personal information being stored in their wallet and nowhere else, then share this information with other users they choose, with other users being able to verify that this information is authentic using the Obyte DAG.</p>
 </div>
 
 Knowledge of a user's real-world identity might be necessary e.g. for signing prosaic <br> 

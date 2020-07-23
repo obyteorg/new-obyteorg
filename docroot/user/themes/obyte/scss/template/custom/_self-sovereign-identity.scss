@@ -1,7 +1,7 @@
 .section {
   &.identity-wrap {
     color: rgba(0, 0, 0, 0.87);
-    background: url('../assets/identity/identity-bg.jpg') center top / 100% auto #f7f7f7 no-repeat;
+    background: url('../assets/identity/identity-bg.jpg') center top  no-repeat;
     &:before {
       content: '';
       position: absolute;
@@ -32,7 +32,7 @@
     }
     .sub-block {
       max-width: 500px;
-      margin-bottom: 20px;
+      margin-bottom: 27px;
       font-size: 24px;
       line-height: 33px;
     }

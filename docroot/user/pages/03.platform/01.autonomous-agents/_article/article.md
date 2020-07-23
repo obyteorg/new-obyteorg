@@ -72,7 +72,7 @@ class: autonomous-agents-wrap
 </div>
 
 <div class="dev-blog">
-    <div class="img-block">
+    <div class="dev-img-block">
         <img src="/user/themes/obyte/assets/resources/resource5.svg" alt="">
     </div>
     <div class="info-block">
@@ -85,6 +85,7 @@ class: autonomous-agents-wrap
             Programming in Oscript is safer. Oscript syntax is easy to learn and will look familiar to those 
             developers who have experience in JavaScript, PHP, Java, and SQL.
         </p>
+        <br><br>
         <div class="title">Developer tools</div>
         <ul>
             <li>
@@ -108,7 +109,7 @@ class: autonomous-agents-wrap
     </div>
 </div>
 <div class="dev-blog white">
-    <div class="img-block">
+    <div class="dev-img-block">
         <img src="/user/themes/obyte/assets/autonomous-agents/img3.svg" alt="">
     </div>
     <div class="info-block">
