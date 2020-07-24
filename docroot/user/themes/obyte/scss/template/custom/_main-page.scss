@@ -3,7 +3,7 @@
 }
 .section {
   &.modular-hero {
-    padding: 0 0 92px;
+    padding: 0 1rem 92px;
     background: linear-gradient(0.27deg, rgba(#f7f7f7, 0.235) 0.42%, #E0EEFF 125%);
     .text-block {
       max-width: 550px;
@@ -149,7 +149,6 @@
       margin-bottom: 7px;
     }
     .swiper-outer-wrap {
-      margin: 0 -1.4rem;
       .inner-wrap {
         position: relative;
         flex-shrink: 0;
@@ -168,6 +167,7 @@
       }
     }
     .left-grad {
+      margin-left: -1.4rem;
       .grad {
         left: 0;
         right: 38px;
@@ -175,6 +175,7 @@
       }
     }
     .right-grad {
+      margin-right: -1.4rem;
       .grad {
         left: 0;
         right: 0;
@@ -475,12 +476,12 @@
   &.twelve-words-wrap {
     margin-bottom: -100px;
     padding: 102px 0 0;
-    background: url('../assets/textcoins/textcoin-bg.png') center top / 100% auto no-repeat #dfeeff;
+    background: url('../assets/textcoins/textcoin-bg.png') center top / cover no-repeat #dfeeff;
     .flex-block {
       padding-top: 50px;
       display: flex;
       .img-block {
-        margin-right: 64px;
+        margin-right: 5%;
         flex-shrink: 0;
         max-width: 50%;
         img {
@@ -489,7 +490,8 @@
       }
       .iframe-wrap {
         margin-bottom: 32px;
-        width: 482px;
+        max-width: 482px;
+        width: 100%;
         height: 330px;
       }
       .title {
