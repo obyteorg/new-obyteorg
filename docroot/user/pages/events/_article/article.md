@@ -117,4 +117,5 @@ media_order: 'Connectory Hackathon pic.jpeg,Japanese Blockchain Convention Jan 2
         </p>
         <img src="/user/themes/obyte/assets/events/img17.jpg" alt="">
     </div>
-</div>
+</div>ли )
+
