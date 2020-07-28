@@ -22,6 +22,15 @@ class: platform-wrap
     </div>
     <div class="category-block">
         <div class="img-block">
+            <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img4.png')"></div>
+        </div>
+        <div class="title-block">
+            <div class="title">Smart contracts</div>
+        </div>
+        <a class="all-link" href="/platform/smart-contracts"></a>
+    </div>
+    <div class="category-block">
+        <div class="img-block">
             <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img2.png')"></div>
         </div>
         <div class="title-block">
@@ -40,30 +49,12 @@ class: platform-wrap
     </div>
     <div class="category-block">
         <div class="img-block">
-            <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img4.png')"></div>
-        </div>
-        <div class="title-block">
-            <div class="title">Smart contracts</div>
-        </div>
-        <a class="all-link" href="/platform/smart-contracts"></a>
-    </div>
-    <div class="category-block">
-        <div class="img-block">
             <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img5.png')"></div>
         </div>
         <div class="title-block">
             <div class="title">Oracles</div>
         </div>
         <a class="all-link" href="/platform/oracles"></a>
-    </div>
-    <div class="category-block">
-        <div class="img-block">
-            <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img6.png')"></div>
-        </div>
-        <div class="title-block">
-            <div class="title">Textcoins</div>
-        </div>
-        <a class="all-link" href="/platform/textcoins"></a>
     </div>
     <div class="category-block">
         <div class="img-block">
@@ -85,12 +76,12 @@ class: platform-wrap
     </div>
     <div class="category-block">
         <div class="img-block">
-            <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img9.png')"></div>
+            <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img6.png')"></div>
         </div>
         <div class="title-block">
-            <div class="title">Chat and chatbots</div>
+            <div class="title">Textcoins</div>
         </div>
-        <a class="all-link" href="/platform/chatbots"></a>
+        <a class="all-link" href="/platform/textcoins"></a>
     </div>
     <div class="category-block">
         <div class="img-block">
@@ -100,5 +91,23 @@ class: platform-wrap
             <div class="title">Prosaic contracts</div>
         </div>
         <a class="all-link" href="/platform/prosaic-contracts"></a>
+    </div>
+    <div class="category-block">
+        <div class="img-block">
+            <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img9.png')"></div>
+        </div>
+        <div class="title-block">
+            <div class="title">Chat and chatbots</div>
+        </div>
+        <a class="all-link" href="/platform/chatbots"></a>
+    </div>
+    <div class="category-block">
+        <div class="img-block">
+            <div class="inner-wrap" style="background-image: url('/user/themes/obyte/assets/platform/img11.png')"></div>
+        </div>
+        <div class="title-block">
+            <div class="title">IoT</div>
+        </div>
+        <a class="all-link" href="/platform/iot"></a>
     </div>
 </div>

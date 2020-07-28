@@ -55,10 +55,6 @@
       border-spacing: inherit;
     }
     thead {
-      tr {
-
-
-      }
       th {
         border-bottom: 1px solid #4A90E2;
         text-align: left;
@@ -95,12 +91,25 @@
         line-height: normal;
       }
       table {
-        tr {
-          display: flex;
-          flex-flow: row wrap;
-          border-bottom: 1px solid #E5E5EA;
-          td {
-            border-bottom: none;
+        th,td {
+          padding: 7px 10px;
+          &:nth-child(1) {
+            width: 100px;
+          }
+          &:nth-child(2) {
+            width: 85px;
+          }
+          &:nth-child(3) {
+            width: 125px;
+            white-space: inherit;
+          }
+          //&:nth-child(4) {
+          //  width: 100%;
+          //}
+          &:nth-child(4) {
+            max-width: 25px;
+            overflow: hidden;
+            text-overflow: ellipsis;
           }
         }
       }
@@ -111,18 +120,12 @@
       }
       tbody {
         td {
-          &:nth-child(1) {
-            width: 50%;
-          }
-          &:nth-child(2) {
-            width: 25%;
-          }
-          &:nth-child(3) {
-            width: 25%;
-          }
-          &:nth-child(4) {
-            width: 100%;
-          }
+          //&:nth-child(1) {
+          //  width: 50%;
+          //}
+          //&:nth-child(2) {
+          //  width: 25%;
+          //}
         }
       }
     }
