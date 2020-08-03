@@ -75,7 +75,7 @@
                                 {% endblock %}
                             </nav>
                             {% include 'partials/lang-prefix.html.twig' %}
-                            <input type="button" class="btn btn-default" value="Download wallet">
+                            <a href="#download" class="btn btn-default">Download wallet</a>
                         </div>
 
                         {% if config.plugins.login.enabled and grav.user.username %}
@@ -125,7 +125,8 @@
                     {% include 'partials/navigation.html.twig' with {tree: true} %}
                 </nav>
                 <div class="d-flex flex-column align-items-center">
-                    <input type="button" class="btn btn-default wallet" value="Download wallet">
+                    <a href="#download" class="btn btn-default">Download wallet</a>
+
                     <ul class="other-menu">
                         <li><a href="">About Us</a></li>
                         <li><a href="">Contact</a></li>
