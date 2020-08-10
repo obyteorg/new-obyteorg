@@ -34,7 +34,7 @@ body.header-fixed.header-animated {
     margin-right: 16px;
     ul li {
       a {
-        padding: 12px 16px;
+        padding: 12px;
         font-weight: bold;
         font-size: 16px;
         color: $link-color;
@@ -75,7 +75,7 @@ body.header-fixed.header-animated {
 }
 
 .lang-block {
-  margin-right: 42px;
+  margin-right: 25px;
   font-size: 16px;
   font-weight: bold;
   a {
