@@ -84,6 +84,66 @@
       }
     }
   }
+  &.technology-wrap {
+    color: rgba(0, 0, 0, 0.87);
+    background: url('../assets/technology/technology-bg.jpg') center top no-repeat;
+    &:before {
+      content: '';
+      position: absolute;
+      height: 660px;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: url('../assets/technology/technology-repeatable-bg.jpg') center top repeat-x;
+      z-index: -1;
+    }
+    h1 {
+      margin: 0;
+      max-width: 550px;
+      padding: 102px 0 19px;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 48px;
+      font-weight: 600;
+      color: $link-color;
+    }
+    h2 {
+      font-weight: 300;
+      font-size: 36px;
+      color: $link-color;
+    }
+    p {
+      font-size: 16px;
+      line-height: 28px;
+      max-width: 960px;
+    }
+    .sub-block {
+      max-width: 560px;
+      margin-bottom: 0;
+      font-size: 24px;
+      line-height: 33px;
+    }
+    .sub-text-block {
+      max-width: 670px;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+    }
+    .d-flex {
+      .img-block {
+        width: 180px;
+        flex-shrink: 0;
+        margin-right: 40px;
+        img {
+          display: block;
+          max-width: 100%;
+        }
+      }
+      .info-block {
+        padding-top: 20px;
+      }
+    }
+  }
 }
 
 
@@ -138,6 +198,11 @@
         .more-link {
           font-size: 16px;
         }
+      }
+    }
+    &.technology-wrap {
+      .d-flex {
+        flex-flow: column nowrap;
       }
     }
   }
