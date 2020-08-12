@@ -28,7 +28,7 @@ class: blackbytes-wrap
         </p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/blackbytes/img1.png" alt="">
+        <img src="/user/themes/obyte/assets/blackbytes/img1.svg" alt="">
     </div>    
 </div>
 
