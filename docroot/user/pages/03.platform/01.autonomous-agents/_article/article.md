@@ -56,7 +56,7 @@ class: autonomous-agents-wrap
     <div class="info-block">
         <h2>Agents, not contracts</h2>
         <p>
-            Autonomous Agents exist on equal terms with human actors: they are endpoints of interactions. Contracts, on the other hand, exist <i>between</i> humans or human-managed organizations, contracts <i>are</i> interactions.
+            Autonomous Agents are <a href="https://en.wikipedia.org/wiki/Agent_(economics)" target="_blank">economic agents</a> when dealing with anything of value and they exist on equal terms with human actors: both are <i>endpoints</i> of interactions. Contracts, on the other hand, exist <i>between</i> humans or human-managed organizations, contracts <i>are</i> interactions.
         </p>
         <img src="/user/themes/obyte/assets/autonomous-agents/img2.svg" alt="">
         <p>
