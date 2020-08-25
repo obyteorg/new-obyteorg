@@ -57,6 +57,9 @@
           width: auto;
           color: $link-color;
           font-size: 24px;
+          font-family: 'Open Sans', sans-serif;
+          font-style: normal;
+          font-weight: 600;
           line-height: 33px;
         }
       }
@@ -91,6 +94,7 @@
       }
       .text {
         font-size: 16px;
+        font-style: italic;
         color: rgba($black, .6);
       }
     }
@@ -398,6 +402,20 @@
           filter: grayscale(0);
         }
       }
+    }
+  }
+  &.checkout-wrap {
+    .centered {
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: center;
+    }
+    h2 {
+      position: relative;
+      font-size: 36px;
+      font-weight: 300;
+      margin: 0 0 40px;
+      color: $link-color;
     }
   }
   &.community-wrap {
@@ -737,6 +755,13 @@
           margin: 0 0 12px 12px;
           width: calc(50% - 12px);
         }
+      }
+    }
+    &.checkout-wrap {
+      h2 {
+        font-size: 24px;
+        font-weight: 400;
+        margin: 0 0 24px;
       }
     }
     &.link {

@@ -11,6 +11,7 @@ content:
             - _download
             - _team
             - _exchanges
+            - _checkout
 visible: false
 onpage_menu: false
 ---
