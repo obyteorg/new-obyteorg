@@ -108,6 +108,5 @@ class: applications-wrap
     </div>
     <div class="img-block">
         <img src="/user/themes/obyte/assets/applications/img7.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img7-mobile.png" alt="">
     </div>
 </div>
