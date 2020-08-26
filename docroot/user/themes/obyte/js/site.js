@@ -71,12 +71,16 @@ function animationLogic () {
 
 function showHideMembers() {
   const membBtn = document.querySelector('.show-members');
-  const teamList = document.querySelector('.team-wrap .team-list');
+  const teamWrap = document.querySelector('.team-wrap');
+  const teamList = teamWrap.querySelector('.team-list');
+
+
   if (membBtn) {
     membBtn.addEventListener('click', (e) => {
       e.preventDefault();
       teamList.classList.toggle('show');
       membBtn.classList.toggle('show');
+      teamWrap.scrollIntoView(true);
     });
   }
 }
