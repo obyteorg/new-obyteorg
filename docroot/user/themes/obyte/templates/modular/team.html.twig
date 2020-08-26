@@ -16,14 +16,17 @@
                     </div>
                     <div class="hover-block">
                         {% for link in member.links %}
-                            <a class="{{ link.icon }}" href="{{ link.link }}"></a>
+                            <a class="zoom {{ link.icon }}" href="{{ link.link }}"></a>
                         {% endfor %}
                     </div>
                 </div>
             {% endfor %}
         </div>
         <div class="btn-block text-center">
-            <a href="{{ page.header.teamLink }}" class="btn btn-transparent">Show all members</a>
+            <a href="" class="show-members btn btn-transparent">
+                <span class="text">Show all members</span>
+                <span class="hide">Show less members</span>
+            </a>
         </div>
     </section>
 </section>

@@ -69,6 +69,16 @@ function animationLogic () {
   reload();
 }
 
+function showHideMembers() {
+  const membBtn = document.querySelector('.show-members');
+  const teamList = document.querySelector('.team-wrap .team-list');
+  membBtn.addEventListener('click', (e) => {
+    e.preventDefault();
+    teamList.classList.toggle('show');
+    membBtn.classList.toggle('show');
+  });
+}
+
 function mobileLang() {
   const langBtn = document.querySelector('.mobile-lang');
   const langMenu = document.querySelector('.lang-options-wrap');
@@ -129,4 +139,5 @@ jQuery(document).ready(function($){
     swiperMain();
     animationLogic();
     mobileLang();
+    showHideMembers();
 });

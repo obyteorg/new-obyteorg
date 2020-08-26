@@ -93,7 +93,7 @@ class: applications-wrap
         <p>If you want to bet against a bot, find Sports betting bot in the Bot Store in your wallet and browse the upcoming sports events. You can also be a bookmaker and create bets for others to accept.</p>
     </div>
 </div>
-<div class="flex-block right bottom seven">
+<div class="flex-block right center seven">
     <div class="info-block">
         <h2>ICO Platform</h2>
         <ul>
