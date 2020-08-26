@@ -72,12 +72,16 @@ function animationLogic () {
 function showHideMembers() {
   const membBtn = document.querySelector('.show-members');
   const teamList = document.querySelector('.team-wrap .team-list');
-  membBtn.addEventListener('click', (e) => {
-    e.preventDefault();
-    teamList.classList.toggle('show');
-    membBtn.classList.toggle('show');
-  });
+  if (membBtn) {
+    membBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      teamList.classList.toggle('show');
+      membBtn.classList.toggle('show');
+    });
+  }
 }
+
+
 
 function mobileLang() {
   const langBtn = document.querySelector('.mobile-lang');
@@ -141,3 +145,10 @@ jQuery(document).ready(function($){
     mobileLang();
     showHideMembers();
 });
+
+$(window).load(function(){
+  let iframes = document.getElementsByTagName("iframe");
+  for (let i = 0; i < iframes.length; i++) {
+    iframes[i].style.position = "static";
+  }
+})
