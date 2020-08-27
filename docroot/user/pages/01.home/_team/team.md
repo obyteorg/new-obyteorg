@@ -55,7 +55,7 @@ team:
                 icon: icon-github
                 link: https://github.com/xJeneKx
     -
-        imgLink: /user/themes/obyte/assets/team/artem.png
+        imgLink: /user/themes/obyte/assets/team/artem-n.png
         name: 'Artem Nagorny'
         role: 'Developer'
         links: 
@@ -113,6 +113,16 @@ team:
         imgLink: /user/themes/obyte/assets/team/jikun.png
         name: 'Jikun Liao'
         role: 'Frontend Engineer'
+        links:
+    -
+        imgLink: /user/themes/obyte/assets/team/andrii.jpg
+        name: 'Andrii Kaiurin'
+        role: 'Developer'
+        links:
+    -
+        imgLink: /user/themes/obyte/assets/team/alexander.jpg
+        name: 'Alexander Ponomarev'
+        role: 'Developer'
         links:
 ---
 
