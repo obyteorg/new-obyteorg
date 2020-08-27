@@ -7,8 +7,8 @@
         <div class="team-list">
             {% for member in page.header.team %}
                 <div class="member">
-                    <div class="img-block">
-                        <img src="{{ member.imgLink }}" alt="">
+                    <div class="img-block" style="background-image:url({{ member.imgLink }});">
+{#                        <img src="{{ member.imgLink }}" alt="">#}
                     </div>
                     <div class="text-center">
                         <div class="name">{{ member.name }}</div>
@@ -24,8 +24,8 @@
         </div>
         <div class="btn-block text-center">
             <a href="" class="show-members btn btn-transparent">
-                <span class="text">Show all members</span>
-                <span class="hide">Show less members</span>
+                <span class="text">Show all</span>
+                <span class="hide">Show less</span>
             </a>
         </div>
     </section>

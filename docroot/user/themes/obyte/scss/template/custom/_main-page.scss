@@ -343,7 +343,7 @@
     }
     .member {
       position: relative;
-      margin: 0 0 32px 32px;
+      margin: 0 0 48px 32px;
       width: calc(25% - 32px);
       display: flex;
       flex-flow: column nowrap;
@@ -361,15 +361,13 @@
         }
       }
       .img-block {
-        margin-bottom: 12px;
-        img {
-          margin: 0;
-          display: block;
-          width: 100%;
-          max-width: 220px;
-          max-height: 212px;
-          border-radius: 50%;
-        }
+        width: 192px;
+        height: 192px;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-bottom: 32px;
+        border-radius: 50%;
       }
       color: rgba(0, 0, 0, 0.6);
       .name {
@@ -805,6 +803,9 @@
         .member {
           width: auto;
           margin-left: 0;
+          .img-block {
+            margin-bottom: 15px;
+          }
           img {
             margin: 0 auto;
             display: block;

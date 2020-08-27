@@ -65,7 +65,7 @@ Free distribution through various methods continues too, albeit at a slower pace
     </tr>
     <tr>
         <td><a target="_blank" href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9">Steem attestation rewards</a></td>
-        <td>since 2018</td>
+        <td>2018-2020</td>
         <td><b>16,410</b></td>
         <td><a target="_blank" href="https://explorer.obyte.org/#YRMYMODDIYBPWYMKFF6HIPDTDVHLDXSF">YRMYMODDIYBPWYMKFF6HIPDTDVHLDXSF</a></td>
     </tr>
@@ -106,7 +106,7 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td><a target="_blank" href="https://explorer.obyte.org/#OP3XG7FP2Q3HAF4GR33YCFI7BHLAZMFW">OP3XG7FP2Q3HAF4GR33YCFI7BHLAZMFW</a></td>
     </tr>
     <tr>
-        <td>Grants, contractors, expenses, prizes, etc</td>
+        <td><a href="/grants">Grants</a>, contractors, expenses, prizes, etc</td>
         <td>since 2018</td>
         <td><b>50,400</b><small>.8</small></td>
         <td>
