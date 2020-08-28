@@ -37,7 +37,7 @@ Projects may also apply for [grants](/grants) from the Obyte Foundation.
     <div class="info-block">
         <div class="title">Existing projects</div>
         <p>
-            Over the years, many projects have been built by the community. Here are a few, for a more thorough list see  <a target="_blank" href="https://madeonobyte.org">Made On Obyte</a> website.
+            Over the years, many projects have been built by the community. Here are a few, for a more thorough list see <a target="_blank" href="https://madeonobyte.org">Made On Obyte</a> website.
         </p>
         <ul>
             <li>

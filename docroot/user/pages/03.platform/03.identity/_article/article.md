@@ -12,8 +12,8 @@ class: identity-wrap
 </div>
 
 Knowledge of a user's real-world identity might be necessary e.g. for signing prosaic <br> 
- contracts to know that the other party really is who they say they are, or for some apps <br> 
- to be compliant with KYC requirements or to prevent fraud.
+contracts to know that the other party really is who they say they are, or for some apps <br> 
+to be compliant with KYC requirements or to prevent fraud.
 
 When sharing private information with their counterparts, users have full control of what they share. For example, having verified a government issued ID that contains one's real name, ID number, date of birth, and expiry date, one can choose to share only the date of birth with an app that needs only to verify the user's age in order to allow access to age restricted goods or services.
 

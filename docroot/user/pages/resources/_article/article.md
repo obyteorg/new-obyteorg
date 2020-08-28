@@ -29,7 +29,7 @@ class: resources-wrap
         </div>
         <div class="info-block">
             <div class="title"><a href="https://medium.com/obyte" target="_blank">Blog</a></div>
-            <p>Blog where the biggest news  are published.</p>
+            <p>Blog where the biggest news are published.</p>
         </div>
     </div>
     <div class="resource-block">

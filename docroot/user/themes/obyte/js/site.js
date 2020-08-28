@@ -25,6 +25,7 @@ function swiperMain () {
             prevEl: '.control.left'
         }
     })
+    this.swiper.slideTo(this.swiper.slides.length);
 }
 
 function animationLogic () {
