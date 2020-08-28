@@ -14,20 +14,20 @@ programs:
 programs2:
     -
         title: 'Download for Windows 64bit'
-        link: 'https://obyte.org/downloads/Obyte-win64.exe'
+        link: '/downloads/Obyte-win64.exe'
     -
         title: 'Download for Windows 32bit'
-        link: 'https://obyte.org/downloads/Obyte-win32.exe'
+        link: '/downloads/Obyte-win32.exe'
     -
         title: 'Download for MacOS X'
-        link: 'https://obyte.org/downloads/Obyte-osx64.dmg'
+        link: '/downloads/Obyte-osx64.dmg'
     -
         title: 'Linux 64bit'
-        link: 'https://obyte.org/downloads/Obyte-x86_64.AppImage'
+        link: '/downloads/Obyte-x86_64.AppImage'
     -
         title: 'GitHub releases'
         link: 'https://github.com/byteball/obyte-gui-wallet/releases'
 ---
  
-View public transactions on the [DAG explorer](https://explorer.obyte.org/"). <br>
-Unofficial web wallet (partial functionality): [wallet.byteballtalk.com](https://wallet.byteballtalk.com/) ([source code](https://github.com/gcc2ge/ObyteWebWallet)).
+View public transactions on the official [DAG explorer](https://explorer.obyte.org/?target=_blank) or [obyte.io](https://obyte.io/?target=_blank). <br>
+Unofficial web wallet (partial functionality): [wallet.obytechina.org](https://wallet.obytechina.org/?target=_blank) ([source code](https://github.com/gcc2ge/ObyteWebWallet?target=_blank)).

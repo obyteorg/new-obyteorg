@@ -17,7 +17,7 @@ team:
     -
         imgLink: /user/themes/obyte/assets/team/steve.png
         name: 'Steve Safronoff'
-        role: 'Partner and COO'
+        role: 'COO'
         links:
             -
                 icon: icon-linkedin
@@ -55,7 +55,7 @@ team:
                 icon: icon-github
                 link: https://github.com/xJeneKx
     -
-        imgLink: /user/themes/obyte/assets/team/artem.png
+        imgLink: /user/themes/obyte/assets/team/artem-n.png
         name: 'Artem Nagorny'
         role: 'Developer'
         links: 
@@ -84,13 +84,16 @@ team:
         role: 'Area Representative, China'
         links: 
             -
-                icon: icon-github
+                icon: icon-linkedin
                 link: https://www.linkedin.com/in/%E5%B7%8D%E5%B3%BB-%E9%99%88-4b702b145/
     -
         imgLink: /user/themes/obyte/assets/team/vladimir.png
         name: 'Vladimir Glushkov'
         role: 'Developer'
         links:
+            -
+                icon: icon-github
+                link: https://github.com/fenrirheimr
     -
         imgLink: /user/themes/obyte/assets/team/igor.png
         name: 'Igor Pavlenko'
@@ -104,16 +107,41 @@ team:
         name: 'Artem Valyakin'
         role: 'Developer'
         links:
+            -
+                icon: icon-github
+                link: https://github.com/valyakin
     -
         imgLink: /user/themes/obyte/assets/team/alexey.png
         name: 'Alexey Gerasimov'
-        role: 'Developer'
+        role: 'Frontend Developer'
         links:
+            -
+                icon: icon-github
+                link: https://github.com/EddieBro
     -
         imgLink: /user/themes/obyte/assets/team/jikun.png
-        name: 'Jikun Liao'
-        role: 'Frontend Engineer'
+        name: 'Liao Jikun'
+        role: 'Frontend Developer'
         links:
+            -
+                icon: icon-github
+                link: https://github.com/liaojikunwork
+    -
+        imgLink: /user/themes/obyte/assets/team/andrii.jpg
+        name: 'Andrii Kaiurin'
+        role: 'Developer'
+        links:
+            -
+                icon: icon-github
+                link: https://github.com/kaiurin
+    -
+        imgLink: /user/themes/obyte/assets/team/alexander.jpg
+        name: 'Alexander Ponomarev'
+        role: 'Frontend Developer'
+        links:
+            -
+                icon: icon-github
+                link: https://github.com/Taump
 ---
 
 # Team

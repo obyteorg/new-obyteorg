@@ -69,18 +69,33 @@ function animationLogic () {
   reload();
 }
 
+function disableScroll() {
+  // Get the current page scroll position
+  scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+  scrollLeft = window.pageXOffset || document.documentElement.scrollLeft,
+
+    // if any scroll is attempted, set this to the previous value
+    window.onscroll = function() {
+      window.scrollTo(scrollLeft, scrollTop);
+    };
+}
+
+function enableScroll() {
+  window.onscroll = function() {};
+}
 function showHideMembers() {
   const membBtn = document.querySelector('.show-members');
-  const teamWrap = document.querySelector('.team-wrap');
-  const teamList = teamWrap.querySelector('.team-list');
-
-
   if (membBtn) {
+    const teamWrap = document.querySelector('.team-wrap');
+    const teamList = teamWrap.querySelector('.team-list');
     membBtn.addEventListener('click', (e) => {
       e.preventDefault();
+      disableScroll();
       teamList.classList.toggle('show');
       membBtn.classList.toggle('show');
-      teamWrap.scrollIntoView(true);
+      setTimeout(()=>{
+        enableScroll();
+      },50);
     });
   }
 }

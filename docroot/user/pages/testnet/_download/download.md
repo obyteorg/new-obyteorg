@@ -14,13 +14,13 @@ programs:
 programs2:
     -
         title: 'Windows 64bit'
-        link: 'https://obyte.org/downloads/Obyte-test-win64.exe'
+        link: '/downloads/Obyte-test-win64.exe'
     -
         title: 'Download for MacOS X'
-        link: 'https://obyte.org/downloads/Obyte-test-osx64.dmg'
+        link: '/downloads/Obyte-test-osx64.dmg'
     -
         title: 'Linux 64bit'
-        link: 'https://obyte.org/downloads/Obyte-test-linux64.zip'
+        link: '/downloads/Obyte-test-linux64.zip'
     -
         title: 'GitHub releases'
         link: 'https://github.com/byteball/testnet-releases/releases'
