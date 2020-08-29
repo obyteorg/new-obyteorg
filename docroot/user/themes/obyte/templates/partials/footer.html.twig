@@ -119,4 +119,19 @@
 
     ga('create', 'UA-83607123-1', 'auto');
     ga('send', 'pageview');
+
+    $(function() {
+        $('a[target="_blank"]').on('click', function(){
+            var href = $(this).attr('href');
+            var text = $(this).text().trim();
+            var goal = 0;
+            goal = href.substring(0, 'https://itunes.apple.com/'.length) == 'https://itunes.apple.com/' ? 1 : goal;
+            goal = href.substring(0, 'https://play.google.com/'.length) == 'https://play.google.com/' ? 1 : goal;
+            goal = href.substring(0, '/downloads/'.length) == '/downloads/' ? 1 : goal;
+            console.log('click', href, text, goal);
+            if (typeof ga !== 'undefined') {
+                ga('send', 'event', 'click', href, text, goal);
+            }
+        });
+    });
 </script>
