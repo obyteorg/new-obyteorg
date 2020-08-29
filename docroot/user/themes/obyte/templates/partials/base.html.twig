@@ -12,6 +12,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include 'partials/metadata.html.twig' %}
+    <meta property="og:title" content="{% if page.title and page.title != '-' %}{{ page.title|e('html') }} | {% endif %}{{ site.title|e('html') }}">
+    <meta property="og:image" content="https://obyte.org{{ url('theme://images/android-icon-192x192.png') }}">
     <meta property="og:url" content="https://obyte.org{{ page.url(false, true) }}">
 
     <link rel="shortcut icon" href="{{ url('theme://images/favicon.ico') }}" />

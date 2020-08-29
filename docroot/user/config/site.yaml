@@ -9,7 +9,6 @@ taxonomies:
 metadata:
   description: 'A ledger without middlemen. Block-free, miner-free, DAG based.'
   og:description: 'A ledger without middlemen. Block-free, miner-free, DAG based.'
-  og:image: 'https://obyte.org/user/themes/obyte/images/android-icon-192x192.png'
 summary:
   enabled: true
   format: short
