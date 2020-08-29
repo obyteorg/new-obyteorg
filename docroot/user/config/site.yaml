@@ -9,6 +9,7 @@ taxonomies:
 metadata:
   description: 'A ledger without middlemen. Block-free, miner-free, DAG based.'
   og:description: 'A ledger without middlemen. Block-free, miner-free, DAG based.'
+  og:type: 'website'
 summary:
   enabled: true
   format: short
