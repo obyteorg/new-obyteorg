@@ -16,6 +16,7 @@
     <meta property="og:image" content="https://obyte.org{{ url('theme://images/ms-icon-310x310.png') }}">
     <meta property="og:url" content="https://obyte.org{{ page.url(false, true) }}">
 
+    <link rel="canonical" href="https://obyte.org{{ page.url(false, true) }}" />
     <link rel="shortcut icon" href="{{ url('theme://images/favicon.ico') }}" />
     <link rel="apple-touch-icon" sizes="57x57" href="{{ url('theme://images/apple-icon-57x57.png') }}">
     <link rel="apple-touch-icon" sizes="60x60" href="{{ url('theme://images/apple-icon-60x60.png') }}">
@@ -34,7 +35,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="{{ url('theme://images/ms-icon-144x144.png') }}">
     <meta name="theme-color" content="#ffffff">
-    <link rel="canonical" href="https://obyte.org{{ page.url(false, true) }}" />
+
 {% endblock head %}
 
 {% block stylesheets %}
