@@ -1,17 +1,16 @@
 # Obyte Landing
 
-## Clone & Install
-
-### If PHP is configured on your host machine:
+## If PHP is configured on your host machine:
 
 ```
 git clone git@github.com:ipavlenko/org.obyte.landing.git
 ./bin/grav install
-chown -R www-data.www-data ./docroot/cache
-chown -R www-data.www-data ./docroot/user
+chown -R www-data:www-data ./docroot/cache
+chown -R www-data:www-data ./docroot/user
 ```
+and then setup Apache or Nginx to ./docroot
 
-### If PHP is not configured on your host machine:
+## If PHP is not configured on your host machine:
 
 Configure, Build, Start, go back to this section and execute from root folder:
 
@@ -35,29 +34,44 @@ exit
 Then execute:
 
 ```
-sudo chown -R www-data.www-data ./docroot
+sudo chown -R www-data:www-data ./docroot
 ```
 
-## Configure
+### Configure
 
 Prepare network:
 ```
 docker network create --driver=bridge --subnet=192.168.30.0/24 obyte
 ```
 
-## Build
+### Build
 
 ```
 yarn rebuild:obyte:landing
 ```
 
-## Start
+### Start
 
 ```
 yarn restart:obyte:landing
 ```
 
-## Network
+### Network
 
 Site IP:
 192.168.30.11
+
+
+## CSS-recompiling
+
+### Installing packages
+```
+cd docroot/user/themes/obyte/
+npm install
+
+```
+
+### Recompiling SCSS to CSS
+```
+npm run build
+```

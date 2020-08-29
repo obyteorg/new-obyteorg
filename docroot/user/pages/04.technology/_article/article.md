@@ -13,7 +13,7 @@ class: technology-wrap
     <br><br>
     <img src="/user/themes/obyte/assets/technology/svg1.svg" alt="">
     <br><br>
-    <p>After a new transaction is added to the DAG, it quickly gets children transactions that include its hash, then grandchildren, and the number of future transactions that include it directly or indirectly grows like snowball.</p>
+    <p>After a new transaction is added to the DAG, it quickly gets children transactions that include its hash, then grandchildren, and the number of future transactions that include it directly or indirectly grows like a snowball.</p>
     <img src="/user/themes/obyte/assets/technology/svg2.svg" alt="">
     <div class="d-flex">
         <div class="img-block">
@@ -33,11 +33,11 @@ class: technology-wrap
         </div>
     </div>
     <br><br><br><br>
-    <p>Like in other crypto networks, transactions are signed by user private keys and it is possible for a user to try to send two conflicting transactions that try spend the same money twice &mdash; a double spend. In blockchains, double spends are resolved by miners. In Obyte, there are rules that determine the order of transactions, all nodes follow these rules to arrive at the same order of transactions, and out of two doublespends, the one that comes earlier in this order, wins.</p>
+    <p>Like in other crypto networks, transactions are signed by user private keys and it is possible for a user to try to send two conflicting transactions that try to spend the same money twice &mdash; a double spend. In blockchains, double spends are resolved by miners. In Obyte, there are rules that determine the order of transactions, all nodes follow these rules to arrive at the same order of transactions, and out of two double-spends, the one that comes earlier in this order, wins.</p>
     <p>Some transactions are already ordered just because they are on a DAG and they are connected through one or more parent-child links.</p>
     <img src="/user/themes/obyte/assets/technology/svg3.svg" alt="">
     <p>Transactions that are not connected by parent-child links, are ordered around the so called <strong>Main Chain</strong>. The Main Chain is a chain on the DAG that gravitates to transactions authored by frequently posting users called <a href="/technology/order-providers">Order Providers</a> (formerly called Witnesses). The transactions that they regularly post serve as <strong>waypoints</strong> that allow all nodes to build the MC around these waypoints. All nodes run an algorithm that builds the MC based on the waypoints they see, and by running the same algorithm, they eventually arrive at the same result.</p>    
-    <p>Once the Main Chain is established, all transactions are ordered around it by assigning an index to each transaction on the MC and for all non-MC transactions finding the earliest MC index when this transaction gets included on the MC. [image similar to https://docs.google.com/presentation/d/1a1iG_DqNUPwhnBhGTwdeo_J-A2hFOyipMff0_7ZjxuA/edit#slide=id.p14 but without the lower part]</p>
+    <p>Once the Main Chain is established, all transactions are ordered around it by assigning an index to each transaction on the MC and for all non-MC transactions finding the earliest MC index when this transaction gets included on the MC.</p>
     <img src="/user/themes/obyte/assets/technology/svg4.svg" alt="">
     <p>The above is a brief overview of Obyte consensus algorithm. For more details, refer to the <a href="/Byteball.pdf">white paper</a>. Also, see what opportunities Obyte offers for <a href="developers">developers</a>.</p>
 </div>
