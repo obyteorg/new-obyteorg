@@ -11,7 +11,7 @@ animation:
         class: scene2
         data: ../../user/themes/obyte/assets/animation/scene2.svg
         title: 'Evolution of ledgers'
-        text: 'In blockchains, there are a few gatekeepers &mdash; miners (block producers) &mdash; who decide what gets into the ledger'
+        text: 'In blockchains, there are a few gatekeepers &mdash; miners &mdash; who decide what gets into the ledger'
     -
         class: scene3
         data: ../../user/themes/obyte/assets/animation/scene3.svg

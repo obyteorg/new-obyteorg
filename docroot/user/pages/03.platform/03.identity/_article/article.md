@@ -71,6 +71,15 @@ Verifications are usually performed by bots. Here are a few bots whose attestati
             <p>Verifies that the user qualifies as accredited investor according to the US law and SEC rules. This status enables the user to participate in Security Token Offerings (STOs).</p>
         </div>
     </div>
+    <div class="attestor-block">
+        <div class="img-block">
+            <img src="/user/themes/obyte/assets/identity/svg4.svg" alt="">
+        </div>
+        <div class="info-block">
+            <h2 class="title">Steem attestation bot</h2>
+            <p>This attestors is not available anymore, but their published data can be still used. It verified that a user had a Steem account and optionally published the user's Steem username and reputation. Applications may choose to offer some privileges to users with high Steem reputation. If the Steem username is published then other users can send payments to the attested user by typing "steem/username" instead of Obyte address.</p>
+        </div>
+    </div>
     <!--
     <div class="attestor-block">
         <div class="img-block">
@@ -82,20 +91,6 @@ Verifications are usually performed by bots. Here are a few bots whose attestati
         </div>
     </div>
     -->
-</div>
-## Discontinued attestors
-These attestors are not available anymore, but their published data can be still used:
-<br/>
-<div class="attestors-list">
-    <div class="attestor-block">
-        <div class="img-block">
-            <img src="/user/themes/obyte/assets/identity/svg4.svg" alt="">
-        </div>
-        <div class="info-block">
-            <h2 class="title">Steem attestation bot</h2>
-            <p>Verified that a user had a Steem account and optionally published the user's Steem username and reputation. Applications may choose to offer some privileges to users with high Steem reputation. If the Steem username is published then other users can send payments to the attested user by typing "steem/username" instead of Obyte address.</p>
-        </div>
-    </div>
 </div>
 
 Attestations can also be easily done manually by sending an attestation transaction from the attestor's wallet.
