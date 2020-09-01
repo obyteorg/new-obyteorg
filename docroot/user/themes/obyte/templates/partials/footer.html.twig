@@ -56,7 +56,7 @@
                     <a href="https://ico-platform.obyte.org" target="_blank" rel="noopener">ICO Platform</a>
                     <a href="https://obyte-for-merchants.com" target="_blank" rel="noopener">Merchants</a>
                     <a href="https://stats.obyte.org" target="_blank" rel="noopener">Stats</a>
-                    <a href="https://press.obyte.org" target="_blank" rel="noopener">Media Kit</a>
+                    <!--a href="https://press.obyte.org" target="_blank" rel="noopener">Media Kit</a-->
                     <a href="/contact">Contact</a>
                 </div>
             </div>
@@ -110,3 +110,28 @@
         <div class="copyright">© 2020 Obyte. All Rights Reserved</div>
     </section>
 </section>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-83607123-1', 'auto');
+    ga('send', 'pageview');
+
+    $(function() {
+        $('a[target="_blank"]').on('click', function(){
+            var href = $(this).attr('href');
+            var text = $(this).text().trim();
+            var goal = 0;
+            goal = href.substring(0, 'https://itunes.apple.com/'.length) == 'https://itunes.apple.com/' ? 1 : goal;
+            goal = href.substring(0, 'https://play.google.com/'.length) == 'https://play.google.com/' ? 1 : goal;
+            goal = href.substring(0, '/downloads/'.length) == '/downloads/' ? 1 : goal;
+            console.log('click', href, text, goal);
+            if (typeof ga !== 'undefined') {
+                ga('send', 'event', 'click', href, text, goal);
+            }
+        });
+    });
+</script>

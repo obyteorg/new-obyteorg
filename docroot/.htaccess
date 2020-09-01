@@ -27,6 +27,12 @@ RewriteRule ^downloads\/Byteball-linux64.zip https://github.com/byteball/obyte-g
 RewriteRule ^discord$ https://discordapp.com/invite/Qn6JWfT [R=303,L]
 RewriteRule ^coin_info.json https://stats.obyte.org/coin_info.json [R=303,L]
 
+RewriteRule ^terms.html https://obyte.org/legal/terms [R=303,L]
+RewriteRule ^privacy.html https://obyte.org/legal/privacy [R=303,L]
+RewriteRule ^testnet.html https://obyte.org/testnet [R=303,L]
+
+RewriteRule ^milan.* https://old.obyte.org/$0 [R=303,L]
+
 
 
 ## Begin RewriteBase

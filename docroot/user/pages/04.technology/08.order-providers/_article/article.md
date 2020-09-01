@@ -72,7 +72,7 @@ Having 12 positions in the Order Provider list allows to tolerate random failure
 
 ## What Order Providers can't do even if they collude
 * They can't rewrite history. What is added to the DAG, cannot be removed.
-* They can't steal money. They can't move funds without access to users' private keys and they can't rewrite history to insert a doublespend.
-* They can't censor transactions. To censor a single transaction, they would need to also censor all its children, grandchildren, etc added by non-colluding users. Since their number grows like snowball, the colluding Order Providers would have to censor the whole network, i.e. sabotage it, in order to block just one transaction.
+* They can't steal money. They can't move funds without access to users' private keys and they can't rewrite history to insert a double-spend.
+* They can't censor transactions. To censor a single transaction, they would need to also censor all its children, grandchildren, etc added by non-colluding users. Since their number grows like a snowball, the colluding Order Providers would have to censor the whole network, i.e. sabotage it, in order to block just one transaction.
 
 To avoid the possibility of Order Provider collusion, users and major stakeholders of the network in the first place, need to be always vigilant and replace the Order Providers that are likely to misbehave as soon as this becomes apparent, and also seek to introduce a better candidate into the list whenever such opportunity arises.

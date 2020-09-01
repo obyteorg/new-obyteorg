@@ -1,6 +1,6 @@
 {% set body_classes = body_class(['header-fixed', 'header-animated', 'header-dark', 'header-transparent', 'sticky-footer']) %}
 {% set grid_size = theme_var('grid-size') %}
-{% set compress = theme_var('production-mode') ? '.min.css' : '.css' %}
+{% set compress = theme_var('production-mode') ? '.min.css?v2' : '.css?v2' %}
 {% use 'blocks/base.html.twig' %}
 <!DOCTYPE html>
 <html lang="{{ grav.language.getActive ?: grav.config.site.default_lang }}">
@@ -12,8 +12,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include 'partials/metadata.html.twig' %}
+    <meta property="og:title" content="{% if page.title and page.title != '-' %}{{ page.title|e('html') }} | {% endif %}{{ site.title|e('html') }}">
+    <meta property="og:image" content="https://obyte.org{{ url('theme://assets/textcoins/textcoin-mobile.png') }}">
+    <meta property="og:url" content="https://obyte.org{{ page.url(false, true) }}">
 
-{#    <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}" />#}
+    <link rel="canonical" href="https://obyte.org{{ page.url(false, true) }}" />
+    <link rel="shortcut icon" href="{{ url('theme://images/favicon.ico') }}" />
     <link rel="apple-touch-icon" sizes="57x57" href="{{ url('theme://images/apple-icon-57x57.png') }}">
     <link rel="apple-touch-icon" sizes="60x60" href="{{ url('theme://images/apple-icon-60x60.png') }}">
     <link rel="apple-touch-icon" sizes="72x72" href="{{ url('theme://images/apple-icon-72x72.png') }}">
@@ -31,7 +35,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="{{ url('theme://images/ms-icon-144x144.png') }}">
     <meta name="theme-color" content="#ffffff">
-    <link rel="canonical" href="{{ page.url(true, true) }}" />
+
 {% endblock head %}
 
 {% block stylesheets %}
@@ -39,7 +43,7 @@
     {% if theme_var('spectre.exp') %}{% do assets.addCss('theme://css-compiled/spectre-exp'~compress)  %}{% endif %}
     {% if theme_var('spectre.icons') %}{%  do assets.addCss('theme://css-compiled/spectre-icons'~compress) %}{% endif %}
     {% do assets.addCss('theme://css-compiled/theme'~compress) %}
-    {% do assets.addCss('theme://css/custom.css') %}
+    {#% do assets.addCss('theme://css/custom.css') %#}
     {% do assets.addCss('theme://css/line-awesome.min.css') %}
     {% do assets.addCss('theme://css/swiper.min.css') %}
 {% endblock %}

@@ -14,7 +14,7 @@ class: resources-wrap
             <p>White paper is a technical document describing the design of Obyte DAG.</p>
         </div>
     </div>
-    <div class="resource-block">
+    <!--div class="resource-block">
         <div class="img-block">
             <img src="/user/themes/obyte/assets/resources/resource2.svg" alt="">
         </div>
@@ -22,14 +22,14 @@ class: resources-wrap
             <div class="title"><a href="https://press.obyte.org" target="_blank">Press kit</a></div>
             <p>A brief overview of Obyte for the media, logos, brand guide.</p>
         </div>
-    </div>
+    </div-->
     <div class="resource-block">
         <div class="img-block">
             <img src="/user/themes/obyte/assets/resources/resource3.svg" alt="">
         </div>
         <div class="info-block">
             <div class="title"><a href="https://medium.com/obyte" target="_blank">Blog</a></div>
-            <p>Blog where the biggest news  are published.</p>
+            <p>Blog where the biggest news are published.</p>
         </div>
     </div>
     <div class="resource-block">

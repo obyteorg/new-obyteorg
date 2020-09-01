@@ -142,6 +142,38 @@ team:
             -
                 icon: icon-github
                 link: https://github.com/Taump
+    -
+        imgLink: /user/themes/obyte/assets/team/travin.png
+        name: 'Travin Keith'
+        role: 'Advisor'
+        links:
+            -
+                icon: icon-linkedin
+                link: https://www.linkedin.com/in/travinkeith/
+    -
+        imgLink: /user/themes/obyte/assets/team/john.png
+        name: 'John McLeod'
+        role: 'PR'
+        links:
+            -
+                icon: icon-linkedin
+                link: https://www.linkedin.com/in/john-mcleod-a323799
+    -
+        imgLink: /user/themes/obyte/assets/team/fabiola.png
+        name: 'Fabiola Sandoval'
+        role: 'Marketing'
+        links:
+            -
+                icon: icon-linkedin
+                link: https://www.linkedin.com/in/fabiolasandoval/
+    -
+        imgLink: /user/themes/obyte/assets/team/yaroslav.png
+        name: 'Yaroslav Kozhukhov'
+        role: 'Community manager'
+        links:
+            -
+                icon: icon-linkedin
+                link: https://www.linkedin.com/in/yaroslav-kozhukhov-7a0238155/
 ---
 
 # Team

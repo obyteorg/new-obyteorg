@@ -31,7 +31,7 @@ Textcoins look like a sequence of 12 seemingly random words, for example:
 <div class="columns">
     <div class="column col-7 col-sm-12">
         <div class="video-block">
-            [plugin:youtube](https://youtu.be/ELKpFTOJtmU)
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ELKpFTOJtmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
     <div class="column col-5 col-sm-12">

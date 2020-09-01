@@ -7,7 +7,7 @@
         <div class="exchanges-list">
             {% for exchange in page.header.exchanges %}
                 <a class="exchange-block" href="{{ exchange.link }}">
-                    <img src="{{ exchange.img }}" alt="">
+                    <img src="{{ exchange.img }}" alt="" style="max-height:70px;">
                 </a>
             {% endfor %}
         </div>
