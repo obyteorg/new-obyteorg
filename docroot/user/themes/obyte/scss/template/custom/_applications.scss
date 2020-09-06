@@ -162,6 +162,14 @@
             order: 2;
           }
         }
+        &.first {
+          .info-block {
+            order: 1;
+          }
+          .img-block {
+            order: 2;
+          }
+        }
         &.second,
         &.seven {
           .img-block {
