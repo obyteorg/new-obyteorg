@@ -80,17 +80,15 @@ Verifications are usually performed by bots. Here are a few bots whose attestati
             <p>Verified that a user had a Steem account and optionally published the user's Steem username and reputation. Applications may choose to offer some privileges to users with high Steem reputation. If the Steem username is published then other users can send payments to the attested user by typing "steem/username" instead of Obyte address. This attestor was stopped and doesn't create new attestations since Steem forked in 2020 but its published data can be used by apps forever.</p>
         </div>
     </div>
-    <!--
     <div class="attestor-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/identity/svg4.svg" alt="">
+            <img src="/user/themes/obyte/assets/identity/github.svg" alt="">
         </div>
         <div class="info-block">
-            <h2 class="title">Github attestation bot</h2>
-            <p>Verifies that a user has a Github account and optionally publishes the user's or their organization's Github username. If the Github username is published then other users will be able to send payments to the attested user by typing "github/username" instead of Obyte address.</p>
+            <h2 class="title">GitHub attestation bot</h2>
+            <p>Verifies that a user has a GitHub account and optionally publishes the user's GitHub username and/or username of their organization. Other users can send payments to the attested user by typing "github/username" instead of Obyte address.</p>
         </div>
     </div>
-    -->
 </div>
 
 Attestations can also be easily done manually by sending an attestation transaction from the attestor's wallet.
