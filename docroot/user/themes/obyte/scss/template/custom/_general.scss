@@ -120,4 +120,12 @@ h1 {
       font-size: 28px;
     }
   }
+  .flex-block {
+    .img-block {
+      order: 2;
+    }
+    .info-block {
+      order: 1;
+    }
+  }
 }

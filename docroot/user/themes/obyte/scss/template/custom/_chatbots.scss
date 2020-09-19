@@ -134,7 +134,7 @@
         }
         &.left, &.right {
           .img-block {
-            margin: 0;
+            margin: 0 auto;
           }
         }
         &.left {
@@ -145,10 +145,6 @@
         &.right {
           .img-block {
             margin-bottom: 20px;
-            order: 1;
-          }
-          .info-block {
-            order: 2;
           }
         }
       }

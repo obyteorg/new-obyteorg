@@ -25,7 +25,9 @@ function swiperMain () {
             prevEl: '.control.left'
         }
     })
-    this.swiper.slideTo(this.swiper.slides.length);
+    if(swiper) {
+      this.swiper.slideTo(this.swiper.slides.length);
+    }
 }
 
 function animationLogic () {
