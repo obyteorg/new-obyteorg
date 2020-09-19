@@ -1,0 +1,20 @@
+{
+	"version": "1.0",
+	"description": "Bank AA. It stores user funds in various assets and allows to withdraw them at any time.",
+	"homepage_url": "https://github.com/byteball/bank-aa",
+	"source_url": "https://github.com/byteball/bank-aa",
+	"field_descriptions": {
+		"owner": "Address of the owner.",
+		"pubkey": "Public key that signed a transaction.",
+		"signature": "Signature to authorize the transaction.",
+		"nonce": "A unique number/string associated with this transaction.",
+		"withdraw": "Command to withdraw funds. Set the value to 1.",
+		"transfer": "Command to transfer funds to another user. Set the value to 1.",
+		"asset": "Asset ID (44 characters) to withdraw or transfer.",
+		"amount": "The amount you want to withdraw or transfer.",
+		"recipients": "Array of recipients to withdraw to or to deposit to.",
+		"to": "The address to receive a deposit or to withdraw/transfer funds to.",
+		"authorize": "Command to authorize a public key to sign on your behalf. Set the value to 1.",
+		"revoke": "Command to revoke a previously authorized public key. Set the value to 1."
+	}
+}
