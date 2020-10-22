@@ -38,6 +38,12 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/swap.png
         link: 'https://www.oswap.cc/'
+    -
+        img: /user/themes/obyte/assets/exchanges/oswap-io.png
+        link: 'https://oswap.io/'
+    -
+        img: /user/themes/obyte/assets/exchanges/odex.png
+        link: 'https://odex.ooo/'
 ---
 
 # Exchanges
