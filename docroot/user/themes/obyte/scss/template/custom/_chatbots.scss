@@ -51,10 +51,11 @@
         margin: 14px 74px 0 0;
         img {
           display: block;
-          max-width: 100%;
+          max-width: 495px;
         }
         .mobile {
           display: none;
+          max-width: 100%;
         }
       }
       &.left {
