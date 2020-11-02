@@ -14,8 +14,8 @@ class: chatbots-wrap
 </div>
 <div class="flex-block left">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/chatbots/mob1-shadow.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/chatbots/mob1.png" alt="">
+        <img src="/user/themes/obyte/assets/chatbots/mob1-shadow_new.png" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/chatbots/mob1_new.png" alt="">
     </div>
     <div class="info-block">
         <p>In addition to the standard text messaging functionality, the chat supports:</p>
