@@ -22,7 +22,7 @@ class: oracles-wrap
         </p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/oracles/img1_new.png" alt="">
+        <img src="/user/themes/obyte/assets/oracles/img1.png?v1" alt="">
     </div>
 </div>
 <div class="flex-block two">
