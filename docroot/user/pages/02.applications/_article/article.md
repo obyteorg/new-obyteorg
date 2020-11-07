@@ -11,11 +11,13 @@ class: applications-wrap
         </div>
         <br><br><br>
         <h2>Create and issue stablecoins</h2>
-        <p>Use <a href="https://ostable.org" target="_blank">ostable.org</a> website to issue stablecoins pegged to USD or BTC, or create new stablecoins pegged to any other asset or index.</p>
-        <p>
-            These stablecoins appreciate in value, you can earn interest by holding them.
-            You can also trade one stablecoin against another stablecoin if you know where the price will go.
-        </p>
+        <p>Use <a href="https://ostable.org" target="_blank" rel="noopener">Bonded Stablecoins</a> website to issue stablecoins pegged to USD or BTC, or create new stablecoins pegged to any other asset or index.</p>
+        <p>Along with stablecoins, you can also hold:</p>
+            <ul>
+                <li><b>stable+ coins</b> that programmatically appreciate in value, you can earn interest by holding them (e.g. 16% p.a. in USD);</li>
+                <li>governance tokens whose value grows as more stable+ coins are issued.</li>
+            </ul>
+        <p>You can also trade one stablecoin against another stablecoin if you know where the price will go.</p>
         <br><br><br>
     </div>
     <div class="img-block">

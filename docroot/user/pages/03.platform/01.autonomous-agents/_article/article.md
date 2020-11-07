@@ -21,16 +21,7 @@ class: autonomous-agents-wrap
         <li>synthetic assets;</li>
         <li>other derivatives;</li>
         <li>collateralized lending;</li>
-        <li>margin trading;</li>
-    </ul>
-    <ul>
-        <li>tradable shares  in prediction markets;</li>
-        <li>futures contracts;</li>
-        <li>algorithmic stable coins;</li>
-        <li>synthetic assets;</li>
-        <li>other derivatives;</li>
-        <li>collateralized lending;</li>
-        <li>margin trading;</li>
+        <li>margin trading.</li>
     </ul>
 </div>
 <div class="flex-block one">
