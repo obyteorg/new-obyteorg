@@ -31,12 +31,12 @@ Other information, such as email address or social media profiles, can also be v
         <p>
             If the verified information is saved privately in the user's wallet, the user can easily share it with interested parties using the built-in chat:
         </p>
-        <img class="info-img" src="/user/themes/obyte/assets/identity/img1-bot.png" alt="">
+        <img class="info-img" src="/user/themes/obyte/assets/identity/img1-bot.png?v1" alt="">
         <p>while choosing which fields to disclose.</p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/identity/img1.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/identity/img1-mob.png" alt="">
+        <img src="/user/themes/obyte/assets/identity/img1.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/identity/img1-mob.png?v1" alt="">
     </div>
 </div>
 

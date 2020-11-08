@@ -38,14 +38,14 @@ class: smart-contracts-wrap
         </ul>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/smart-contracts/img1.png" alt="">
+        <img src="/user/themes/obyte/assets/smart-contracts/img1.png?v1" alt="">
     </div>
 </div>
 
 <div class="flex-block two">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/smart-contracts/img2.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/smart-contracts/img2-mob.png" alt="">
+        <img src="/user/themes/obyte/assets/smart-contracts/img2.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/smart-contracts/img2-mob.png?v1" alt="">
     </div>
     <div class="info-block">
         <h2>Conditions</h2>
@@ -69,8 +69,8 @@ class: smart-contracts-wrap
         </p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/smart-contracts/img3.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/smart-contracts/img3-mob.png" alt="">
+        <img src="/user/themes/obyte/assets/smart-contracts/img3.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/smart-contracts/img3-mob.png?v1" alt="">
     </div>
 </div>
 

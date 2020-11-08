@@ -21,8 +21,8 @@ class: applications-wrap
         <br><br><br>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img1.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img1-mobile.png" alt="">
+        <img src="/user/themes/obyte/assets/applications/img1.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img1-mobile.png?v1" alt="">
     </div>
 </div>
 <div class="flex-block left center second">
@@ -51,8 +51,8 @@ class: applications-wrap
        <p>For example, you want to exchange 100 A-tokens for 10 B-tokens. You send 100 A-tokens to the peer and set a condition "the peer can receive A-tokens only once I receive 10 B-tokens". The A-tokens are temporarily locked on a smart contract that exists between you and the peer, and the peer can't take A-tokens before he fulfils his part of the deal. He sends B-tokens to you, then he is able to unlock A-tokens from the contract.</p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img3.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img3-mobile.png" alt="">
+        <img src="/user/themes/obyte/assets/applications/img3.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img3-mobile.png?v1" alt="">
     </div>
 </div>
 <div class="flex-block left center four">
@@ -78,14 +78,14 @@ class: applications-wrap
         <p>Learn more about <a target="_blank" href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527">P2P insurance</a>.</p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img5.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img5-mobile.png" alt="">
+        <img src="/user/themes/obyte/assets/applications/img5.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img5-mobile.png?v1" alt="">
     </div>
 </div>
 <div class="flex-block left center six">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img6.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img6-mobile.png" alt="">
+        <img src="/user/themes/obyte/assets/applications/img6.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img6-mobile.png?v1" alt="">
     </div>
     <div class="info-block">
         <h2>Prediction markets</h2>
