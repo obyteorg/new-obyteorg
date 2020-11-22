@@ -110,7 +110,7 @@ class: autonomous-agents-wrap
         </p>
         <ul>
             <li>
-                <a target="_blank" href="https://ostable.org">Discount Stablecoins</a>: issue or redeem stablecoins 
+                <a target="_blank" href="https://ostable.org">Bonded Stablecoins</a>: issue or redeem stablecoins 
                 pegged to any asset or index, or launch a new stablecoin.
             </li>
             <li>

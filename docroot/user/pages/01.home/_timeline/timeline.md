@@ -119,6 +119,12 @@ points:
     -
         date: 'Jul 2020'
         title: 'Full Decentralization: 7th independent order provider University of Nicosia'
+    -
+        date: 'Sep 2020'
+        title: 'Bonded stablecoins'
+    -
+        date: 'Oct 2020'
+        title: 'Liquidity mining'
 ---
 
 # Timeline
