@@ -40,7 +40,7 @@ var NativeAppLauncher = (function() {
 			// redirecting to the App Store will happen immediately. When not part of the UI thread however,
 			// the redirect will bring up an Open in App dialog. Unless there is already a dialog showing,
 			// in which case the redirect dialog will wait for the currently shown dialog to be dismissed.
-			
+
 			gotStoreURI && timers.push(window.setTimeout(function() {
 				storeLaunched = true;
 				window.top.location = storeURI;
@@ -48,7 +48,7 @@ var NativeAppLauncher = (function() {
 			isIOS() && timers.push(window.setTimeout(function() {
 				storeLaunched && window.location.reload()
 			}, 2000));
-			
+
 			window.location = deeplink;
 		},
 		// Get the deep link URI to the Obyte app in the store appropriate for the OS.
@@ -98,6 +98,12 @@ if (window.location.hash.indexOf("#textcoin?") == 0) {
 		if (/android/i.test(navigator.userAgent))
 			$('#wechat_overlay .browser').text('browser');
 		$('#wechat_overlay').show();
-	} else
-		NativeAppLauncher.init();
+	} else {
+	  const clip = document.querySelector('.clip-container');
+	  if (clip) {
+      const iframewrap = document.querySelector('.twelve-words-wrap .iframe-wrap');
+      iframewrap.innerHTML = `<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ELKpFTOJtmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+    }
+    NativeAppLauncher.init();
+  }
 }
