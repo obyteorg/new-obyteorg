@@ -18,7 +18,7 @@ class: events-wrap
         <div class="title">Obytetalks Webinar</div>
         <p>The first of our new Obyte Talks webinar series was held online at the end of April and focused on explaining everything that there is to know about Autonomous Agents and how to get started build one. Please see below for a replay of the event.</p>
         <div class="iframe-block">
-            <iframe src="https://player.vimeo.com/video/151901736" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="https://player.vimeo.com/video/151901736" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
         </div>
     </div>
     <div class="element-block">

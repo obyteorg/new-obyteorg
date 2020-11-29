@@ -21,16 +21,7 @@ class: autonomous-agents-wrap
         <li>synthetic assets;</li>
         <li>other derivatives;</li>
         <li>collateralized lending;</li>
-        <li>margin trading;</li>
-    </ul>
-    <ul>
-        <li>tradable shares  in prediction markets;</li>
-        <li>futures contracts;</li>
-        <li>algorithmic stable coins;</li>
-        <li>synthetic assets;</li>
-        <li>other derivatives;</li>
-        <li>collateralized lending;</li>
-        <li>margin trading;</li>
+        <li>margin trading.</li>
     </ul>
 </div>
 <div class="flex-block one">
@@ -50,8 +41,8 @@ class: autonomous-agents-wrap
 </div>
 <div class="flex-block two">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/autonomous-agents/mobile.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/autonomous-agents/mobile2.png" alt="">
+        <img src="/user/themes/obyte/assets/autonomous-agents/mobile.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/autonomous-agents/mobile2.png?v1" alt="">
     </div>
     <div class="info-block">
         <h2>Agents, not contracts</h2>
@@ -119,7 +110,7 @@ class: autonomous-agents-wrap
         </p>
         <ul>
             <li>
-                <a target="_blank" href="https://ostable.org">Discount Stablecoins</a>: issue or redeem stablecoins 
+                <a target="_blank" href="https://ostable.org">Bonded Stablecoins</a>: issue or redeem stablecoins 
                 pegged to any asset or index, or launch a new stablecoin.
             </li>
             <li>

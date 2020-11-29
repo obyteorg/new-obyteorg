@@ -39,6 +39,7 @@
       .img-block {
         flex-shrink: 0;
         margin: 0 60px 0 -110px;
+        max-width: 495px;
         .mobile {
           display: none;
         }
@@ -52,6 +53,7 @@
       .content-small {
         img {
           margin: 0 0 30px -24px;
+          max-width: 396px;
           display: block;
         }
         .title {
@@ -125,6 +127,9 @@
           .mobile {
             display: block;
           }
+        }
+        .content-small img {
+          max-width: inherit;
         }
       }
       .dev-blog {

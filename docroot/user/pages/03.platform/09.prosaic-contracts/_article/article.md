@@ -20,8 +20,8 @@ class: prosaic-contracts-wrap
 </div>
 <div class="content-wrap">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/prosaic/mobile-img.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/prosaic/mobile-img2.png" alt="">
+        <img src="/user/themes/obyte/assets/prosaic/mobile-img.png?v1" alt="">
+        <img class="mobile" src="/user/themes/obyte/assets/prosaic/mobile-img2.png?v1" alt="">
     </div>
     <div class="content-block">
         <div class="content-small">
@@ -31,7 +31,7 @@ class: prosaic-contracts-wrap
                 <a href="/platform/identity">real world identities linked to their wallet addresses</a> in order to prove who they are.
             </p>
             <div class="content-img">
-                <img src="/user/themes/obyte/assets/prosaic/insert-private-profile.png" alt="">
+                <img src="/user/themes/obyte/assets/prosaic/insert-private-profile.png?v1" alt="">
             </div>
         </div>
         <div class="content-small">

@@ -54,7 +54,7 @@
           flex-shrink: 0;
           img {
             display: block;
-            box-shadow: 0 10px 24px rgba(74, 144, 226, 0.2);
+            max-width: 330px;
           }
         }
       }
@@ -85,6 +85,13 @@
         flex-flow: column nowrap;
         margin-bottom: 20px;
         padding: 20px 0 25px;
+        &.one {
+          .img-block {
+            img {
+              max-width: 100%;
+            }
+          }
+        }
         &.two {
           .img-block {
             margin: 0 0 20px;

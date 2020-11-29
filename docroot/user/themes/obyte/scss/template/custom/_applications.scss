@@ -155,19 +155,9 @@
         &.right {
           .img-block {
             margin: 0 auto 30px;
-            order: 1;
           }
           .info-block {
             margin: 0;
-            order: 2;
-          }
-        }
-        &.first {
-          .info-block {
-            order: 1;
-          }
-          .img-block {
-            order: 2;
           }
         }
         &.second,
