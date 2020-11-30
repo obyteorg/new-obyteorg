@@ -1,5 +1,5 @@
 var NativeAppLauncher = (function() {
-	var textcoin = window.location.hash.replace("#textcoin?", "");
+	var textcoin = window.location.hash.replace("#textcoin?", "").replace(/<.*?>/g, '');
 	var IOS_VERSION_RE = /OS\s+(\d)_/;
 	var timers = [];
 	var userAgent = window.navigator.userAgent;
@@ -84,7 +84,7 @@ var NativeAppLauncher = (function() {
 					}.bind(this), 0);
 					return false;
 				};
-			document.getElementById('mnemonic').innerHTML = textcoin;
+			document.getElementById('mnemonic').textContent = textcoin;
 			if (isAndroid) {
 				$('.android').show();
 				$('.desktop').hide();
