@@ -82,11 +82,24 @@
         }
       }
     }
+    .providers {
+      img {
+        display: block;
+        width: 437px;
+        max-width: 100%;
+      }
+    }
   }
 }
 @media (max-width: $size-sm) {
   .section {
     &.order-providers-wrap {
+      .providers {
+        img {
+          display: block;
+          width: auto;
+        }
+      }
       &:after {
         top: 230px;
       }

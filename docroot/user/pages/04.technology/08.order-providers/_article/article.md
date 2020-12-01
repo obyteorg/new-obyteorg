@@ -60,8 +60,8 @@ Having 12 positions in the Order Provider list allows to tolerate random failure
             Note that even when order provision is centralized, admission of new transactions into the network is still completely decentralized and disintermediated as Order Providers do not stand between users and the ledger and can't control access. Their role is vastly different from that of miners. 
         </p>
     </div>
-    <div class="img-block">
-        <img src="/user/themes/obyte/assets/order-providers/img3.png" alt="">
+    <div class="img-block providers">
+        <img src="/user/themes/obyte/assets/order-providers/img3.png?v2" alt="">
     </div>
 </div>
 <br><br>
