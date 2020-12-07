@@ -6,9 +6,6 @@ exchanges:
         img: /user/themes/obyte/assets/exchanges/bittrex.png
         link: 'https://bittrex.com/Market/Index?MarketName=BTC-GBYTE'
     -
-        img: /user/themes/obyte/assets/exchanges/upbit.png
-        link: 'https://upbit.com/exchange?code=CRIX.UPBIT.BTC-GBYTE'
-    -
         img: /user/themes/obyte/assets/exchanges/cryptox.png
         link: 'https://cryptox.pl/GBYTE-BTC.html'
     -
