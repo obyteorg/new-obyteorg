@@ -187,12 +187,15 @@ class: faq-wrap
     <p>
         Absolutely! There are several ways in which you can help Obyte grow and become even better. You can help by providing translation of the wallet, by actively answering questions from other users on the social media platforms and community servers. You can keep an eye out for projects that might benefit from using the features provided by Obyte and generally be an active community member.
     </p>
+    <p>
+        Some tasks we are seeking help with are listed in a google doc <a href="https://docs.google.com/document/d/1gIU6L0rP_5lPVVRAlYDKW2oBJFHFLLOmFrlxuPZM58s/edit#" target="_blank" rel="noopener">Ask not what Obyte can do for you, ask what you can do for Obyte</a>, the doc is updated as tasks are progressing or new ones appear.
+    </p>
 </div>
 
 <div class="white-block">
     <h4>Are there any open positions with Obyte?</h4>
     <p>
-        Not directly, but when the right person shows up, there will always be room for more brilliant minds.
+        See <a href="/careers">careers</a>. Even if your desired position is not listed, feel free to reach out &mdash; when the right person shows up, there will always be room for more brilliant minds.
     </p>
 </div>
 
