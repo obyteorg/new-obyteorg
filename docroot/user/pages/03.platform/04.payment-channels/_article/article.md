@@ -5,7 +5,7 @@ class: payment-channels-wrap
 
 # Payment channels
 <div class="sub-block">
-    Payment channels allow to organize a sream of micropayments between two parties.
+    Payment channels allow to organize a stream of micropayments between two parties.
 </div>
 <div class="sub-text-block">
     <p>

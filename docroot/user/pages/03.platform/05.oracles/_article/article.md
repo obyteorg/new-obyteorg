@@ -46,7 +46,7 @@ class: oracles-wrap
             <li>
                 <b>Continuous posting of Merkle roots of large data sets</b>. Like above, but the data set is so large and 
                 each data point used so infrequently that posting the whole data set would be impractical. Merkle 
-                path proving any particular data point can be provided by the oracle on demand or recontructed 
+                path proving any particular data point can be provided by the oracle on demand or reconstructed 
                 independently. This Merkle path can later be used in smart contracts or AAs. <a href="https://explorer.obyte.org/#FOPUBEUPBC6YLIQDLKL6EW775BMV7YOH" target="_blank">Bitcoin oracle</a> works 
                 in this mode and it allows to prove that a particular transaction has occured on Bitcoin blockchain 
                 to enable safe peer-to-peer exchange. <a href="https://medium.com/obyte/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Learn more about Bitcoin oracle</a>.
