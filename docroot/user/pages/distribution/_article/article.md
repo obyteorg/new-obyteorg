@@ -40,12 +40,6 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td><a target="target=_blank" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88">Draw airdrop</a></td>
-        <td>2018-2019</td>
-        <td><b>13,200</b></td>
-        <td><a target="_blank" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
-    </tr>
-    <tr>
         <td><a target="_blank" href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173">Cashback</a></td>    
         <td>since 2017</td>    
         <td><b>4,475</b></td>    
@@ -104,6 +98,36 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td>since 2018</td>
         <td><b>5,861</b></td>
         <td><a target="_blank" href="https://explorer.obyte.org/#OP3XG7FP2Q3HAF4GR33YCFI7BHLAZMFW">OP3XG7FP2Q3HAF4GR33YCFI7BHLAZMFW</a></td>
+    </tr>
+    <tr>
+        <td><a target="_blank" href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88">Draw airdrop</a></td>
+        <td>2018-2019</td>
+        <td><b>13,200</b></td>
+        <td><a target="_blank" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
+    </tr>
+    <tr>
+        <td><a target="_blank" href="https://medium.com/obyte/distribution-to-buyers-of-bonded-stablecoins-4854b4570a03">Fee reimbursement for buyers of bonded stablecoins</a></td>
+        <td>since 2020</td>
+        <td><b>10</b></td>
+        <td><a target="_blank" href="https://explorer.obyte.org/#HRBJJA5UDOZPUPK5WGUDOJWYCISK4BD5">HRBJJA5UDOZPUPK5WGUDOJWYCISK4BD5</a></td>
+    </tr>
+    <tr>
+        <td><a target="_blank" href="https://medium.com/obyte/introducing-referral-program-for-bonded-stablecoins-b5455f189c1c">Referral rewards for bonded stablecoins</a></td>
+        <td>since 2020</td>
+        <td><b>1,700</b></td>
+        <td><a target="_blank" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
+    </tr>
+    <tr>
+        <td><a target="_blank" href="https://medium.com/obyte/liquidity-mining-8cce2bf3722e">Liquidity mining</a></td>
+        <td>since 2020</td>
+        <td><b>1,601</b></td>
+        <td><a target="_blank" href="https://explorer.obyte.org/#THNPSCCVMBQTEMVNGL33PNOIZXJ26C2N">THNPSCCVMBQTEMVNGL33PNOIZXJ26C2N</a></td>
+    </tr>
+    <tr>
+        <td><a target="_blank" href="https://medium.com/obyte/obyte-trading-rewards-c7abf1086518">Trading rewards</a></td>
+        <td>since 2021</td>
+        <td><b>801</b></td>
+        <td><a target="_blank" href="https://explorer.obyte.org/#YCBUUQKH3NQJQGLMOSYG4LSRXGA27BZM">YCBUUQKH3NQJQGLMOSYG4LSRXGA27BZM</a></td>
     </tr>
     <tr>
         <td><a href="/grants">Grants</a>, contractors, expenses, prizes, etc</td>
