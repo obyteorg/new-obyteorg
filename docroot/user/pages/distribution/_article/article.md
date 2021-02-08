@@ -124,7 +124,7 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td><a target="_blank" href="https://explorer.obyte.org/#THNPSCCVMBQTEMVNGL33PNOIZXJ26C2N">THNPSCCVMBQTEMVNGL33PNOIZXJ26C2N</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" href="https://medium.com/obyte/obyte-trading-rewards-c7abf1086518">Trading rewards</a></td>
+        <td><a target="_blank" href="https://trade.obyte.org">Trading rewards</a></td>
         <td>since 2021</td>
         <td><b>801</b></td>
         <td><a target="_blank" href="https://explorer.obyte.org/#YCBUUQKH3NQJQGLMOSYG4LSRXGA27BZM">YCBUUQKH3NQJQGLMOSYG4LSRXGA27BZM</a></td>
