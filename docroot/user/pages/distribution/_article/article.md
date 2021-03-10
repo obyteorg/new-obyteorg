@@ -21,7 +21,7 @@ Free distribution through various methods continues too, albeit at a slower pace
 <div class="distribution-block">
     <div class="info-block">
         <h2>Main distribution methods</h2>
-        <p>Here is a summary of the main distribution methods as of May 2020. All except the last one are free. 746,729 GB are already distributed, which is 74.67% of the total supply of 1,000,000 GB.</p>
+        <p>Here is a summary of the main distribution methods as of March 2021. All except the last one are free. 770,677 GB are already distributed, which is 77.07% of the total supply of 1,000,000 GB.</p>
     </div>
     <table>
     <thead>
