@@ -106,7 +106,7 @@ points:
         title: '5th independent order provider Bind Creative'
     -
         date: 'Apr 2020'
-        title: 'Discount stablecoins'
+        title: 'Discount stablecoins using multidimensional bonding curves'
     -
         date: 'Apr 2020'
         title: 'ODEX decentralized exchange'
@@ -124,7 +124,19 @@ points:
         title: 'Bonded stablecoins'
     -
         date: 'Oct 2020'
-        title: 'Liquidity mining'
+        title: 'Liquidity mining for Oswap.io pools'
+    -
+        date: 'Nov 2020'
+        title: 'Referral Program for Bonded stablecoins'
+    -
+        date: 'Dec 2020'
+        title: 'State tracking (aabot) library for Autonomous Agents'
+    -
+        date: 'Jan 2021'
+        title: 'Trading Rewards on Bitrrex and BitZ'
+    -
+        date: 'Feb 2021'
+        title: 'User interface improvements for Bonded stablecoins'
 ---
 
 # Timeline
