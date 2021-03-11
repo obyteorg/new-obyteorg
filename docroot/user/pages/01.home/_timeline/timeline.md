@@ -121,7 +121,7 @@ points:
         title: 'Full Decentralization: 7th independent order provider University of Nicosia'
     -
         date: 'Sep 2020'
-        title: 'Bonded stablecoins'
+        title: 'Bonded stablecoins on ostable.org'
     -
         date: 'Oct 2020'
         title: 'Liquidity mining for Oswap.io pools'
@@ -129,14 +129,8 @@ points:
         date: 'Nov 2020'
         title: 'Referral Program for Bonded stablecoins'
     -
-        date: 'Dec 2020'
-        title: 'State tracking (aabot) library for Autonomous Agents'
-    -
         date: 'Jan 2021'
         title: 'Trading Rewards on Bitrrex and BitZ'
-    -
-        date: 'Feb 2021'
-        title: 'User interface improvements for Bonded stablecoins'
 ---
 
 # Timeline
