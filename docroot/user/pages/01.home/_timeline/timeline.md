@@ -121,10 +121,10 @@ points:
         title: 'Full Decentralization: 7th independent order provider University of Nicosia'
     -
         date: 'Sep 2020'
-        title: 'Bonded stablecoins on ostable.org'
+        title: 'Bonded stablecoins'
     -
         date: 'Oct 2020'
-        title: 'Liquidity mining for Oswap.io pools'
+        title: 'Liquidity mining'
     -
         date: 'Nov 2020'
         title: 'Referral Program for Bonded stablecoins'
