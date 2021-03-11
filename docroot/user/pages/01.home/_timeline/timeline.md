@@ -106,7 +106,7 @@ points:
         title: '5th independent order provider Bind Creative'
     -
         date: 'Apr 2020'
-        title: 'Discount stablecoins using multidimensional bonding curves'
+        title: 'Discount stablecoins'
     -
         date: 'Apr 2020'
         title: 'ODEX decentralized exchange'
