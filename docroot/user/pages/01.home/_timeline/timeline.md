@@ -125,6 +125,12 @@ points:
     -
         date: 'Oct 2020'
         title: 'Liquidity mining'
+    -
+        date: 'Nov 2020'
+        title: 'Referral Program for Bonded stablecoins'
+    -
+        date: 'Jan 2021'
+        title: 'Trading Rewards on Bitrrex and BitZ'
 ---
 
 # Timeline
