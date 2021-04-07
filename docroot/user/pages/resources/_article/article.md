@@ -28,7 +28,7 @@ class: resources-wrap
             <img src="/user/themes/obyte/assets/resources/resource3.svg" alt="">
         </div>
         <div class="info-block">
-            <div class="title"><a href="https://medium.com/obyte" target="_blank">Blog</a></div>
+            <div class="title"><a href="https://blog.obyte.org" target="_blank">Blog</a></div>
             <p>Blog where the biggest news are published.</p>
         </div>
     </div>
