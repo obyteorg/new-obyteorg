@@ -102,6 +102,9 @@ points:
         date: 'Feb 2020'
         title: 'Fourth independent order provider PolloPollo'
     -
+        date: 'Feb 2020'
+        title: 'Autonomous Agents activated on mainnet'
+    -
         date: 'Apr 2020'
         title: '5th independent order provider Bind Creative'
     -
