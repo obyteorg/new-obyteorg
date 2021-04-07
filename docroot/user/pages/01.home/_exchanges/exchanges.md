@@ -23,15 +23,15 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/bitladon.png
         link: 'https://www.bitladon.com/obyte'
-    -
-        img: /user/themes/obyte/assets/exchanges/simpleswap.png
-        link: 'https://simpleswap.io/coins/obyte'
-    -
-        img: /user/themes/obyte/assets/exchanges/godex.png
-        link: 'https://godex.io/?coin_from=btc&coin_to=gbyte'
-    -
-        img: /user/themes/obyte/assets/exchanges/swapspace.png
-        link: 'https://swapspace.co/?from=btc&to=gbyte&amount=1'
+    # -
+    #     img: /user/themes/obyte/assets/exchanges/simpleswap.png
+    #     link: 'https://simpleswap.io/coins/obyte'
+    # -
+    #     img: /user/themes/obyte/assets/exchanges/godex.png
+    #     link: 'https://godex.io/?coin_from=btc&coin_to=gbyte'
+    # -
+    #     img: /user/themes/obyte/assets/exchanges/swapspace.png
+    #     link: 'https://swapspace.co/?from=btc&to=gbyte&amount=1'
     -
         img: /user/themes/obyte/assets/exchanges/swap.png
         link: 'https://www.oswap.cc/'
