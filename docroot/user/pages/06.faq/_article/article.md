@@ -86,14 +86,14 @@ class: faq-wrap
 <div class="white-block">
     <h4>There are so many things and buttons in the wallet, do you have a guide for the wallet?</h4>
     <p>
-        For things that are not self-explanatry, there are plenty of articles, examples and even videos explaining how to use the wallet. Simply search for them using your favorite search engine or check out <a href="https://medium.com/obyte-help" target="_blank">Obyte Tutorials</a>.
+        For things that are not self-explanatory, there are plenty of articles, examples and even videos explaining how to use the wallet. Simply search for them using your favorite search engine or check out <a href="https://medium.com/obyte-help" target="_blank">Obyte Tutorials</a>.
     </p>
 </div>
 
 <div class="white-block">
     <h4>Where is my seed? How do I back up?</h4>
     <p>
-        There are two backup options that you ca find in the wallet's settings (under burger menu): backup of wallet 
+        There are two backup options that you can find in the wallet's settings (under burger menu): backup of wallet 
         seed and full backup. Backup of wallet seed allows to recover only single-sig wallets while a full backup 
         recovers everything including <a href="/platform/blackbytes">Blackbytes</a>, multi-sig wallets, <a href="/platform-smart-contracts">smart contracts</a>, 
         <a href="/platform/identity">private identity profiles</a>, and <a href="/platform/chatbots">chat</a> history and contacts.
