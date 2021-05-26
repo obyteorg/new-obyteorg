@@ -134,6 +134,9 @@ points:
     -
         date: 'Jan 2021'
         title: 'Trading Rewards on Bitrrex and BitZ'
+    -
+        date: 'Apr 2021'
+        title: 'Bonded stablecoins v2'
 ---
 
 # Timeline
