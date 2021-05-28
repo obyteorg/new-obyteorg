@@ -1,6 +1,7 @@
 ---
 title: Checkout
 class: checkout-wrap
+visible: false
 ---
 <h2 class="section-heading text-center">Buy Bytes with credit card or bank transfer</h3>
 <div class="centered iframe-fixed">
