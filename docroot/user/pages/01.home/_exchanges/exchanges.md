@@ -43,12 +43,8 @@ exchanges:
         link: 'https://odex.ooo/'
 ---
 
-# Exchanges
 <!--
-You can buy or sell bytes without leaving the wallet by [chatting with a trading bot](obyte:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000). 
-You can also trade on the exchanges listed below.
+You can buy or sell bytes without leaving the wallet by [chatting with a trading bot](obyte:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000).
 -->
 
 To buy or sell blackbytes, use [Blackbytes.io](https://blackbytes.io/?target=_blank) or exchange peer-to-peer using [bound (conditional) payments](https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a?target=_blank) with other users from our [Discord](https://discord.obyte.org/?target=_blank) community.
-
-You can trade GBYTE on the exchanges listed below.

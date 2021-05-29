@@ -3,7 +3,7 @@ title: Checkout
 class: checkout-wrap
 visible: false
 ---
-<h2 class="section-heading text-center">Buy Bytes with credit card or bank transfer</h3>
+<h2 class="section-heading text-center">Buy Bytes with credit card or bank transfer</h2>
 <div class="centered iframe-fixed">
     <iframe src="https://checkout.cryptocoin.pro/order/obyte?iframe=true&amp;parent=true" style="max-width: 600px;" width="100%" height="650" frameborder="0"></iframe>
 </div>
