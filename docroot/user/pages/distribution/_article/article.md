@@ -41,8 +41,8 @@ Free distribution through various methods continues too, albeit at a slower pace
     </tr>
     <tr>
         <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173">Cashback</a></td>    
-        <td>since 2017</td>    
-        <td><b>4,475</b></td>    
+        <td>2017-2021</td>    
+        <td><b>5,675</b></td>    
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#TU3Q44S6H2WXTGQO6BZAGWFKKJCF7Q3W">TU3Q44S6H2WXTGQO6BZAGWFKKJCF7Q3W</a></td>    
     </tr>
     <tr>
