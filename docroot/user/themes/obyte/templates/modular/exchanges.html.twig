@@ -1,15 +1,15 @@
 {% set grid_size = theme_var('grid-size') %}
 <section class="section {{ page.header.class}}">
     <section class="container {{ grid_size }}">
-        <div class="text-block">
-            {{ content|raw }}
-        </div>
         <div class="exchanges-list">
             {% for exchange in page.header.exchanges %}
                 <a class="exchange-block" href="{{ exchange.link }}" target="_blank" rel="noopener">
                     <img src="{{ exchange.img }}" alt="" style="max-height:70px;">
                 </a>
             {% endfor %}
+        </div>
+        <div class="text-block">
+            {{ content|raw }}
         </div>
     </section>
 </section>
