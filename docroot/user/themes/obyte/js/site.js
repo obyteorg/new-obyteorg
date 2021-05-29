@@ -110,6 +110,7 @@ function mobileLang() {
   const langMenu = document.querySelector('.lang-options-wrap');
   const langBack = document.querySelector('.lang-options-wrap .back');
   const langLinks = document.querySelectorAll('.lang-options-wrap .lang-list a');
+  if (!langBtn || !langMenu || !langBack) return false;
   langBtn.addEventListener('click', (e) => {
     e.preventDefault();
     langMenu.classList.toggle('d-none');
