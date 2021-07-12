@@ -137,6 +137,9 @@ points:
     -
         date: 'Apr 2021'
         title: 'Bonded stablecoins v2'
+    -
+        date: 'Jul 2021'
+        title: 'Counterstake bridge for cross-chain transfers'
 ---
 
 # Timeline
