@@ -11,6 +11,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-markdown-notices
         path: user/plugins/markdown-notices
         branch: master
+    sitemap:
+        url: https://github.com/getgrav/grav-plugin-sitemap
+        path: user/plugins/sitemap
+        branch: release/2.0.2
     quark:
         url: https://github.com/getgrav/grav-theme-quark
         path: user/themes/quark
@@ -27,6 +31,10 @@ links:
     markdown-notices:
         src: grav-plugin-markdown-notices
         path: user/plugins/markdown-notices
+        scm: github
+    sitemap:
+        src: grav-plugin-sitemap
+        path: user/plugins/sitemap
         scm: github
     quark:
         src: grav-theme-quark
