@@ -1,5 +1,8 @@
 ---
 title: Applications
+metadata:
+    description: Stablecoins, trading, conditional payments, secure donations, P2P insurance, prediction markets, ICO platform.
+    'og:description': Stablecoins, trading, conditional payments, secure donations, P2P insurance, prediction markets, ICO platform.
 content:
     items: '@self.modular'
     order:

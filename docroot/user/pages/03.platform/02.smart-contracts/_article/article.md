@@ -5,7 +5,7 @@ class: smart-contracts-wrap
 
 # Smart Contracts
 <div class="sub-block">
-    Smart contracts on Obyte are contracts whose conditions are enforced by code rather than law.
+    Smart contracts on Obyte are discreet contracts whose conditions are enforced by code rather than law.
 </div>
 <div class="sub-text-block">
     <p>

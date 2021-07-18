@@ -12,7 +12,7 @@ class: section poc-wrap
                     Over the last 2 years Obyte has developed a strong relationship with the <a href="https://www.stuttgartconnectory.com" target="_blank">Bosch Connectory in Stuttgart</a>, which has led to numerous collaborations. We exhibited together at the Blockchain Future Festival in Stuttgart in February 2019, and Obyte has been a key technology supplier to the 2 annual Bosch Connectory Hackathons in May 2018 and September 2019. In December 2019, the Connectory became an independent Order Provider on the Obyte public network.
                 </p>
                 <p class="w-670">
-                    In the first Connectory Hackathon in May of 2018 Bosch developed the first coffee machine powered by cryto, which sells coffee for Bosch coins (a token created on the Obyte platform). Later in September of 2018 Obyte and Bosch used similar technology to put a 3D printer onto the Obyte ledger and which was managed remotely and also powered by Bosch Coins.
+                    In the first Connectory Hackathon in May of 2018 Bosch developed the first coffee machine powered by cryptocurrency wallet, which sells coffee for Bosch coins (a token created on the Obyte platform). Later in September of 2018 Obyte and Bosch used similar technology to put a 3D printer onto the Obyte ledger and which was managed remotely and also powered by Bosch Coins.
                 </p>
                 <p class="w-745">
                     In September 2019, Obyte participated in the Second Connectory Hackathon and assisted the attendees (Bosch employees and special guests) in developing the following
