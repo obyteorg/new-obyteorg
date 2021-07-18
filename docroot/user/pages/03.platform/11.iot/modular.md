@@ -1,5 +1,8 @@
 ---
 title: IoT
+metadata:
+    description: Internet of Things. Thanks to low energy consumption and relatively small memory requirements, Obyte is well suited for IoT applications.
+    'og:description': Internet of Things. Thanks to low energy consumption and relatively small memory requirements, Obyte is well suited for IoT applications.
 onpage_menu: false
 content:
     items: '@self.modular'

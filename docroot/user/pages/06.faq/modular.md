@@ -1,5 +1,8 @@
 ---
 title: FAQ
+metadata:
+    description: DAG based Distributed Ledger Technology is a novel technology and therefore a lot of questions are asked.
+    'og:description': DAG based Distributed Ledger Technology is a novel technology and therefore a lot of questions are asked.
 onpage_menu: false
 content:
     items: '@self.modular'
