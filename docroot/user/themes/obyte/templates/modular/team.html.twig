@@ -16,7 +16,7 @@
                     </div>
                     <div class="hover-block">
                         {% for link in member.links %}
-                            <a target="_blank" rel="noopener" class="zoom {{ link.icon }}" href="{{ link.link }}" alt="{{ link.icon }}"></a>
+                            <a target="_blank" rel="noopener" class="zoom {{ link.icon }}" href="{{ link.link }}" aria-label="{{ member.name }}"></a>
                         {% endfor %}
                     </div>
                 </div>
