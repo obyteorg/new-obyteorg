@@ -31,7 +31,7 @@ assets:
   js_pipeline: false
   js_minify: true
   collections:
-    jquery: https://code.jquery.com/jquery-3.6.0.min.js
+    jquery: https://code.jquery.com/jquery-3.6.0.slim.min.js
 
 errors:
   display: true
