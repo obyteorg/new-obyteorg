@@ -16,6 +16,6 @@ class: 'section iot-wrap'
 </div>
 
 <div class="event-block">
-    <img class="img1" src="/user/themes/obyte/assets/iot/img1.jpg" alt="tony & tony">
+    <img class="img1" src="/user/themes/obyte/assets/iot/img1.jpg" alt="toni & tony">
     <img class="img2" src="/user/themes/obyte/assets/iot/img2.jpg" alt="bosch connectory 2nd hackathon">
 </div>
