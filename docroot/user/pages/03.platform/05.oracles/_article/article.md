@@ -22,13 +22,13 @@ class: oracles-wrap
         </p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/oracles/img1.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/oracles/img1.png?v1" alt="oracle data feed">
     </div>
 </div>
 <div class="flex-block two">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/oracles/img2.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/oracles/img2-mob.png" alt="">
+        <img src="/user/themes/obyte/assets/oracles/img2.png" alt="manually posted data feed">
+        <img class="mobile" src="/user/themes/obyte/assets/oracles/img2-mob.png" alt="manually posted data feed">
     </div>
     <div class="info-block">
         <h2 class="title">How oracles work</h2>
@@ -41,21 +41,21 @@ class: oracles-wrap
             <li>
                 <b>Continuous posting of data</b>. Such oracles post new data points periodically and do so on their own, 
                 without any requests for this data. This mode is suitable for data that is realtively small, easy to 
-                obtain, and frequently used, for example, price data. <a href="https://explorer.obyte.org/#JPQKPRI5FMTQRJF4ZZMYZYDQVRD55OTC" target="_blank">Price oracle</a> works in this mode.
+                obtain, and frequently used, for example, price data. <a href="https://explorer.obyte.org/#JPQKPRI5FMTQRJF4ZZMYZYDQVRD55OTC" target="_blank" rel="noopener">Price oracle</a> works in this mode.
             </li>
             <li>
                 <b>Continuous posting of Merkle roots of large data sets</b>. Like above, but the data set is so large and 
                 each data point used so infrequently that posting the whole data set would be impractical. Merkle 
                 path proving any particular data point can be provided by the oracle on demand or reconstructed 
-                independently. This Merkle path can later be used in smart contracts or AAs. <a href="https://explorer.obyte.org/#FOPUBEUPBC6YLIQDLKL6EW775BMV7YOH" target="_blank">Bitcoin oracle</a> works 
+                independently. This Merkle path can later be used in smart contracts or AAs. <a href="https://explorer.obyte.org/#FOPUBEUPBC6YLIQDLKL6EW775BMV7YOH" target="_blank" rel="noopener">Bitcoin oracle</a> works 
                 in this mode and it allows to prove that a particular transaction has occured on Bitcoin blockchain 
-                to enable safe peer-to-peer exchange. <a href="https://medium.com/obyte/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Learn more about Bitcoin oracle</a>.
+                to enable safe peer-to-peer exchange. <a href="https://medium.com/obyte/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank" rel="noopener">Learn more about Bitcoin oracle</a>.
             </li>
             <li>
                 <b>Posting data on demand</b>. This type of oracle posts data only when requested to do so and this mode 
                 makes sense when the data is paid, too large, or infrequently used. Such oracle can also charge a fee 
                 for its service. Flight delays oracle and sports oracle work in this mode. 
-                <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">Learn more about flight delays oracle</a>.
+                <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank" rel="noopener">Learn more about flight delays oracle</a>.
             </li>
         </ul>
         <p>Data can also be posted manually, Obyte wallet allows to easily do so. This makes sense for rare or one-off events.</p>
@@ -75,14 +75,14 @@ data_feed[[oracles=$oracle_address, feed_name=$data_feed_name]]
 <br>
 <div class="dev-blog">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="">
+        <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="documentation">
     </div>
     <div class="info-block">
         <div class="cat">Developers</div>
         <div class="title">Using Oracles in your apps</div>
         <p>
             Developers, see the developer docs to learn more about <a href="https://developer.obyte.org/payments/data#key-value-data-feed" target="_blank">posting data feeds</a>, 
-            <a href="https://developer.obyte.org/contracts/reference#in-data-feed" target="_blank">using oracle data in smart contracts</a>, and <a href="https://developer.obyte.org/autonomous-agents/oscript-language-reference#data_feed" target="_blank">using oracle data in AAs</a>.
+            <a href="https://developer.obyte.org/contracts/reference#in-data-feed" target="_blank" rel="noopener">using oracle data in smart contracts</a>, and <a href="https://developer.obyte.org/autonomous-agents/oscript-language-reference#data_feed" target="_blank" rel="noopener">using oracle data in AAs</a>.
         </p>
     </div>
 </div>

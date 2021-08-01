@@ -3,7 +3,7 @@
     <section class="container {{ grid_size }}">
         <div class="d-flex justify-content-between">
             <div class="img-block">
-                <img src="{{ url(page.header.bigImg) }}" alt="">
+                <img src="{{ url(page.header.bigImg) }}" alt="downloads">
             </div>
             <div class="content-block">
                 <div class="text-block">
@@ -11,19 +11,19 @@
                 </div>
                 <div class="img-block mobile">
                     <div class="shadow-block">
-                        <img src="{{ url(page.header.smallImg) }}" alt="">
+                        <img src="{{ url(page.header.smallImg) }}" alt="downloads">
                     </div>
                 </div>
                 <div class="app-list d-flex">
                     {% for program in page.header.programs %}
-                        <a href="{{program.link}}" target="_blank">
-                            <img src="{{ url(program.imgLink) }}" alt="">
+                        <a href="{{program.link}}" target="_blank" rel="noopener">
+                            <img src="{{ url(program.imgLink) }}" alt="app">
                         </a>
                     {% endfor %}
                 </div>
                 <div class="program-list d-flex flex-column">
                     {% for program in page.header.programs2 %}
-                        <a target="_blank" href="{{ program.link }}">{{program.title}}</a>
+                        <a target="_blank" rel="noopener" href="{{ program.link }}">{{program.title}}</a>
                     {% endfor %}
                 </div>
                 <div class="other-block">

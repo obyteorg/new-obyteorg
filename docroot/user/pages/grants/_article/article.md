@@ -10,11 +10,11 @@ class: grants-wrap
 <div class="sub-text-block">
     <p>
         Some of the important parts of Obyte ecosystem were created by independent contributors and funded as grants. 
-        For example, <a href="https://obytejs.com" target="_blank">obyte.js</a> library was funded as a grant, many IoT related works were funded 
-        as grants, <a target="_blank" href="https://oswap.io">oswap.io</a> was grant funded,
-        <a target="_blank" href="https://wcg.report">World Community Grid distribution bot</a> 
-        <a target="_blank" href="https://github.com/Papabyte/byteduino">Byteduino library</a>
-        <a target="_blank" href="https://pollopollo.org">PolloPollo</a> were all created under Obyte Grants Program 
+        For example, <a href="https://obytejs.com" target="_blank" rel="noopener">obyte.js</a> library was funded as a grant, many IoT related works were funded 
+        as grants, <a target="_blank" rel="noopener" href="https://oswap.io">oswap.io</a> was grant funded,
+        <a target="_blank" rel="noopener" href="https://wcg.report">World Community Grid distribution bot</a> 
+        <a target="_blank" rel="noopener" href="https://github.com/Papabyte/byteduino">Byteduino library</a>
+        <a target="_blank" rel="noopener" href="https://pollopollo.org">PolloPollo</a> were all created under Obyte Grants Program 
         which has been running since 2017.
     </p>
     <p>
@@ -27,7 +27,7 @@ class: grants-wrap
 </div> 
 <div class="flex-block">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/grants/grants.svg" alt="">
+        <img src="/user/themes/obyte/assets/grants/grants.svg" alt="grants">
     </div>
     <div class="info-block">
         <h2>Obyte Grants</h2>
@@ -54,7 +54,7 @@ class: grants-wrap
         <p>Proposals and pre-proposals have the same content requirements, the difference being only that pre-proposals are submitted to the community for public discussion and can be amended many times to incorporate feedback from the community, while proposals are final formal documents that necessarily trigger the grant committee vote.</p>
         <p>It’s up to the applicant(s) to decide when their pre-proposal has matured to be submitted as a finished proposal but at least a week of public discussion is recommended.</p>
         <p>Applicant(s) can withdraw their pre-proposal at any time for any reason.</p>
-        <p>Proposals and pre-proposals should be published as an online document (google doc, etc) and a link to the document, as well as its summary, should be published in <a target="_blank" href="https://discord.obyte.org">Discord</a> channel #grants.</p>
+        <p>Proposals and pre-proposals should be published as an online document (google doc, etc) and a link to the document, as well as its summary, should be published in <a target="_blank" rel="noopener" href="https://discord.obyte.org">Discord</a> channel #grants.</p>
     </div>
     <div class="element-block">
         <h2>Content of (pre)proposal</h2>
@@ -91,7 +91,7 @@ class: grants-wrap
 </div>
 <div class="flex-block blue">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/grants/guidelines.svg" alt="">
+        <img src="/user/themes/obyte/assets/grants/guidelines.svg" alt="guidelines">
     </div>
     <div class="info-block">
         <h2>Acceptance guidelines</h2>
@@ -107,11 +107,11 @@ class: grants-wrap
 </div>
 <div class="google-block d-inline-flex">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/grants/calendar.svg" alt="">
+        <img src="/user/themes/obyte/assets/grants/calendar.svg" alt="calendar">
     </div>
     <div class="info-block">
         All grants are tracked in this <br>
-        <a target="_blank" href="https://docs.google.com/spreadsheets/d/149vV-dc6p8rscmBA4TOCK0s12TJToBCuct0D-2SHuDQ/edit#gid=0">Google spreadsheet</a> 
+        <a target="_blank" rel="noopener" href="https://docs.google.com/spreadsheets/d/149vV-dc6p8rscmBA4TOCK0s12TJToBCuct0D-2SHuDQ/edit#gid=0">Google spreadsheet</a> 
     </div>
 </div>  
 

@@ -9,7 +9,7 @@ class: section poc-wrap
         <div class="flex-block right">
             <div class="info-block">
                 <p class="w-550">
-                    Over the last 2 years Obyte has developed a strong relationship with the <a href="https://www.stuttgartconnectory.com" target="_blank">Bosch Connectory in Stuttgart</a>, which has led to numerous collaborations. We exhibited together at the Blockchain Future Festival in Stuttgart in February 2019, and Obyte has been a key technology supplier to the 2 annual Bosch Connectory Hackathons in May 2018 and September 2019. In December 2019, the Connectory became an independent Order Provider on the Obyte public network.
+                    Over the last 2 years Obyte has developed a strong relationship with the <a href="https://www.stuttgartconnectory.com" target="_blank" rel="noopener">Bosch Connectory in Stuttgart</a>, which has led to numerous collaborations. We exhibited together at the Blockchain Future Festival in Stuttgart in February 2019, and Obyte has been a key technology supplier to the 2 annual Bosch Connectory Hackathons in May 2018 and September 2019. In December 2019, the Connectory became an independent Order Provider on the Obyte public network.
                 </p>
                 <p class="w-670">
                     In the first Connectory Hackathon in May of 2018 Bosch developed the first coffee machine powered by crypto, which sells coffee for Bosch coins (a token created on the Obyte platform). Later in September of 2018 Obyte and Bosch used similar technology to put a 3D printer onto the Obyte ledger and which was managed remotely and also powered by Bosch Coins.
@@ -19,11 +19,11 @@ class: section poc-wrap
                 </p>
             </div>
             <div class="img-block">
-                <img class="img1" src="/user/themes/obyte/assets/poc/img1.jpg" alt="">
+                <img class="img1" src="/user/themes/obyte/assets/poc/img1.jpg" alt="bosch connectory coffee and printer">
             </div>
         </div>
         <div class="flex-block">
-            <img class="img1" src="/user/themes/obyte/assets/poc/img2.jpg" alt="">
+            <img class="img1" src="/user/themes/obyte/assets/poc/img2.jpg" alt="bosch connectory 2nd hackathon">
         </div>
         <div class="flex-block right">
             <div class="info-block">
@@ -42,12 +42,12 @@ class: section poc-wrap
                 </p>
             </div>
             <div class="img-block">
-                <img class="img1" src="/user/themes/obyte/assets/poc/img3.jpg" alt="">
+                <img class="img1" src="/user/themes/obyte/assets/poc/img3.jpg" alt="dutch auction">
             </div>
         </div>
         <div class="flex-block left">
             <div class="img-block">
-                <img class="img1" src="/user/themes/obyte/assets/poc/img4.jpg" alt="">
+                <img class="img1" src="/user/themes/obyte/assets/poc/img4.jpg" alt="energy trading">
             </div>
             <div class="info-block">
                 <h2>Energy trading</h2>
@@ -55,7 +55,7 @@ class: section poc-wrap
                     Obyte integrated with smart home app for Pay-by-Use/Streaming Payments. One party is producing surplus energy (Producer) via solar panels and wants to sell it to another party (Buyer) with a minimum risk of not getting paid for electricity delivered.
                 </p>
                 <p>
-                    Obyte <a href="/platfor/payment-channels">Streaming Payments</a> are used via <a href="https://github.com/BIoTws/biot-core" target="_blank">BIoT library</a> and wallet to manage these transactions. A payment channel is opened between the wallets of the 2 parties and frequent microtransactions are used to ensure that both parties incur the minimum risk and that the Buyer is charged for only what has been actually consumed.
+                    Obyte <a href="/platfor/payment-channels">Streaming Payments</a> are used via <a href="https://github.com/BIoTws/biot-core" target="_blank" rel="noopener">BIoT library</a> and wallet to manage these transactions. A payment channel is opened between the wallets of the 2 parties and frequent microtransactions are used to ensure that both parties incur the minimum risk and that the Buyer is charged for only what has been actually consumed.
                 </p>
                 <p>
                     Depending on the usage requirements of the Buyer, i.e. how many electric devices are in operation, the Buyer pays the Producer every 15 seconds for the amount of energy consumed. Once the transaction is complete the payment channels are closed, or in the case of ongoing usage the amount of the transactions fluctuates in real time with the amount of energy used.
@@ -73,12 +73,12 @@ class: section poc-wrap
                 </p>
             </div>
             <div class="img-block">
-                <img class="img1" src="/user/themes/obyte/assets/poc/img5.jpg" alt="">
+                <img class="img1" src="/user/themes/obyte/assets/poc/img5.jpg" alt="powertool vending machine">
             </div>
         </div>
         <div class="flex-block left">
             <div class="img-block">
-                <img class="img1" src="/user/themes/obyte/assets/poc/img6.jpg" alt="">
+                <img class="img1" src="/user/themes/obyte/assets/poc/img6.jpg" alt="consumer goods marketplace">
             </div>
             <div class="info-block">
                 <h2>Consumer goods marketplace</h2>
@@ -106,7 +106,7 @@ class: section poc-wrap
                 <p>In order to distribute Bosch Coins, they also developed an Autonomous Agent to keep track for Bosch Coin allowances for each department, which allows more efficient distribution and avoids purchasing more Bosch Coins than the department needs.</p>
             </div>
             <div class="img-block">
-                <img class="img1" src="/user/themes/obyte/assets/poc/img7.jpg" alt="">
+                <img class="img1" src="/user/themes/obyte/assets/poc/img7.jpg" alt="booking with bosch coins">
             </div>
         </div>
     </div>

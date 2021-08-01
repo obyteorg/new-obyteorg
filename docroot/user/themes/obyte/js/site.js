@@ -169,7 +169,7 @@ jQuery(document).ready(function($){
     showHideMembers();
 });
 
-$(window).load(function(){
+$( document ).ready(function() {
   let iframes = document.getElementsByTagName("iframe");
   for (let i = 0; i < iframes.length; i++) {
     iframes[i].style.position = "static";

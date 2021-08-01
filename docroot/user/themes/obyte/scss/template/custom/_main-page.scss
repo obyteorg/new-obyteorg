@@ -205,14 +205,14 @@
       position: relative;
       padding-right: 32px;
       width: 260px;
-      border-top: 5px solid rgba($blue2, 0.2);
+      border-top: 5px solid rgba($link-color, 0.2);
       .dot {
         position: absolute;
         top: -15px;
         left: 0;
         width: 14px;
         height: 14px;
-        background-color: $blue2;
+        background-color: $link-color;
         border: 5px solid $white;
         box-shadow: 0 6px 20px rgba(74, 144, 226, 0.12);
         border-radius: 50%;
@@ -222,7 +222,7 @@
         font-weight: bold;
         font-size: 12px;
         line-height: 16px;
-        color: $blue2;
+        color: $link-color;
       }
       .event {
         font-weight: normal;
@@ -787,7 +787,8 @@
       .program-list {
         margin-bottom: 27px;
         align-items: center;
-        font-size: 16px;
+        font-size: 20px;
+        line-height: 48px;
       }
       .other-block {
         text-align: center;
@@ -809,10 +810,9 @@
       }
       .team-list {
         margin: 0 0 32px;
-        flex-flow: column wrap;
         width: 100%;
         .member {
-          width: auto;
+          width: 50%;
           margin-left: 0;
           .img-block {
             margin-bottom: 15px;
@@ -893,6 +893,26 @@
         .iframe-wrap {
           margin: 0 auto 25px;
           width: 100%;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: $size-xs) {
+  .section {
+    &.exchanges-wrap {
+      .exchanges-list {
+        .exchange-block {
+          width: 100%;
+        }
+      }
+    }
+    &.team-wrap {
+      .team-list {
+        flex-flow: column wrap;
+        .member {
+          width: auto;
         }
       }
     }

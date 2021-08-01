@@ -11,12 +11,12 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/kaiserex.png
         link: 'https://www.kaiserex.com/'
-    -
-        img: /user/themes/obyte/assets/exchanges/stealthex.png
-        link: 'https://stealthex.io/?to=gbyte&start=true'
-    -
-        img: /user/themes/obyte/assets/exchanges/bcbitcoin.png
-        link: 'https://www.bcbitcoin.co.uk/'
+    #-
+    #    img: /user/themes/obyte/assets/exchanges/stealthex.png
+    #    link: 'https://stealthex.io/?to=gbyte&start=true'
+    #-
+    #    img: /user/themes/obyte/assets/exchanges/bcbitcoin.png
+    #    link: 'https://www.bcbitcoin.co.uk/'
     -
         img: /user/themes/obyte/assets/exchanges/bitz.png
         link: 'https://www.bitz.so/en/exchange/gbyte_btc'
@@ -47,4 +47,4 @@ exchanges:
 You can buy or sell bytes without leaving the wallet by [chatting with a trading bot](obyte:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000).
 -->
 
-To buy or sell blackbytes, use [Blackbytes.io](https://blackbytes.io/?target=_blank) or exchange peer-to-peer using [bound (conditional) payments](https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a?target=_blank) with other users from our [Discord](https://discord.obyte.org/?target=_blank) community.
+To buy or sell blackbytes, use [Blackbytes.io](https://blackbytes.io/?target=_blank&rel=noopener) or exchange peer-to-peer using [bound (conditional) payments](https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a?target=_blank&rel=noopener) with other users from our [Discord](https://discord.obyte.org/?target=_blank&rel=noopener) community.

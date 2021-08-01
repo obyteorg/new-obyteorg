@@ -1,6 +1,6 @@
 {% set body_classes = body_class(['header-fixed', 'header-animated', 'header-dark', 'header-transparent', 'sticky-footer']) %}
 {% set grid_size = theme_var('grid-size') %}
-{% set compress = theme_var('production-mode') ? '.min.css?v4' : '.css?v4' %}
+{% set compress = theme_var('production-mode') ? '.min.css?v5' : '.css?v5' %}
 {% use 'blocks/base.html.twig' %}
 <!DOCTYPE html>
 <html lang="{{ grav.language.getActive ?: grav.config.site.default_lang }}">
@@ -51,7 +51,7 @@
 {% block javascripts %}
     {% do assets.addJs('jquery', 101) %}
     {% do assets.addJs('theme://js/jquery.treemenu.js', {group:'bottom'}) %}
-    {% do assets.addJs('theme://js/site.js', {group:'bottom'}) %}
+    {% do assets.addJs('theme://js/site.js?v2', {group:'bottom'}) %}
     {% do assets.addJs('theme://js/swiper.min.js', {group:'bottom'}) %}
     {% do assets.addJs('theme://js/textcoin.js', {group:'bottom'}) %}
 {% endblock %}

@@ -38,14 +38,14 @@ class: smart-contracts-wrap
         </ul>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/smart-contracts/img1.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/smart-contracts/img1.png?v1" alt="smart-contracts">
     </div>
 </div>
 
 <div class="flex-block two">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/smart-contracts/img2.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/smart-contracts/img2-mob.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/smart-contracts/img2.png?v1" alt="conditions">
+        <img class="mobile" src="/user/themes/obyte/assets/smart-contracts/img2-mob.png?v1" alt="conditions">
     </div>
     <div class="info-block">
         <h2>Conditions</h2>
@@ -69,8 +69,8 @@ class: smart-contracts-wrap
         </p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/smart-contracts/img3.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/smart-contracts/img3-mob.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/smart-contracts/img3.png?v1" alt="shared wallets">
+        <img class="mobile" src="/user/themes/obyte/assets/smart-contracts/img3-mob.png?v1" alt="shared wallets">
     </div>
 </div>
 
@@ -86,7 +86,7 @@ While Smart Contracts enable fully trustless conditional payments, it is worth m
 
 <div class="dev-blog">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="">
+        <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="documentation">
     </div>
     <div class="info-block">
         <div class="cat">Developers</div>

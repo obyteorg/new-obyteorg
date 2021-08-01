@@ -8,7 +8,7 @@
             {% for member in page.header.team %}
                 <div class="member">
                     <div class="img-block" style="background-image:url({{ member.imgLink }});">
-{#                        <img src="{{ member.imgLink }}" alt="">#}
+{#                        <img src="{{ member.imgLink }}" alt="member">#}
                     </div>
                     <div class="text-center">
                         <div class="name">{{ member.name }}</div>
@@ -16,14 +16,14 @@
                     </div>
                     <div class="hover-block">
                         {% for link in member.links %}
-                            <a target="_blank" class="zoom {{ link.icon }}" href="{{ link.link }}"></a>
+                            <a target="_blank" rel="noopener" class="zoom {{ link.icon }}" href="{{ link.link }}" alt="{{ link.icon }}"></a>
                         {% endfor %}
                     </div>
                 </div>
             {% endfor %}
         </div>
         <div class="btn-block text-center">
-            <a href="" class="show-members btn btn-transparent">
+            <a href="#" class="show-members btn btn-transparent">
                 <span class="text">Show all</span>
                 <span class="hide">Show less</span>
             </a>

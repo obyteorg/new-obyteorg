@@ -15,7 +15,7 @@ class: order-providers-wrap
 </p>
 <div class="flex-block left">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/order-providers/img1.png" alt="">
+        <img src="/user/themes/obyte/assets/order-providers/img1.png" alt="example order providers">
     </div>
     <div class="info-block">
         <p>
@@ -41,7 +41,7 @@ class: order-providers-wrap
         </p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/order-providers/img2.png" alt="">
+        <img src="/user/themes/obyte/assets/order-providers/img2.png" alt="example order provider change">
     </div>
 </div>
 
@@ -61,7 +61,7 @@ Having 12 positions in the Order Provider list allows to tolerate random failure
         </p>
     </div>
     <div class="img-block providers">
-        <img src="/user/themes/obyte/assets/order-providers/img3.png?v2" alt="">
+        <img src="/user/themes/obyte/assets/order-providers/img3.png?v2" alt="current order providers">
     </div>
 </div>
 <br><br>

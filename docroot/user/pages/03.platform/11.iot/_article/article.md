@@ -18,14 +18,14 @@ in this environment, IoT devices can have economic relations with each other and
 
 <div class="dev-blog">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/iot/svg1.svg" alt="">
+        <img src="/user/themes/obyte/assets/iot/svg1.svg" alt="iot">
     </div>
     <div class="info-block">
         <div class="cat">Developers</div>
         <div class="title">Byteduino</div>
         <p>
             For use in very small devices such as ESP32 and ESP8266, Obyte node was rewritten in C/C++ and ported to 
-            Arduino platform. <a target="_blank" href="https://github.com/Papabyte/Byteduino">See Byteduino homepage on github</a>. 
+            Arduino platform. <a target="_blank" rel="noopener" href="https://github.com/Papabyte/Byteduino">See Byteduino homepage on github</a>. 
         </p>
     </div>
 </div>

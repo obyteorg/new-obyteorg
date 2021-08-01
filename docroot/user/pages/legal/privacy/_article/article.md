@@ -15,7 +15,7 @@ class: privacy-wrap
 <div class="flex-list">
     <div class="flex-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/privacy/img1.svg" alt="">
+            <img src="/user/themes/obyte/assets/privacy/img1.svg" alt="personal information">
         </div>
         <div class="info-block">
             <h2>What is “personally identifiable information?”</h2>
@@ -29,7 +29,7 @@ class: privacy-wrap
     </div>
     <div class="flex-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/privacy/img2.svg" alt="">
+            <img src="/user/themes/obyte/assets/privacy/img2.svg" alt="information collected">
         </div>
         <div class="info-block">
             <h2>What information we collect</h2>
@@ -42,7 +42,7 @@ class: privacy-wrap
     </div>
     <div class="flex-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/privacy/img3.svg" alt="">
+            <img src="/user/themes/obyte/assets/privacy/img3.svg" alt="use of camera">
         </div>
         <div class="info-block">
             <h2>Use of camera</h2>
@@ -54,7 +54,7 @@ class: privacy-wrap
     </div>
     <div class="flex-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/privacy/img4.svg" alt="">
+            <img src="/user/themes/obyte/assets/privacy/img4.svg" alt="crash reports">
         </div>
         <div class="info-block">
             <h2>Crash reports</h2>
@@ -68,7 +68,7 @@ class: privacy-wrap
     </div>
     <div class="flex-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/privacy/img5.svg" alt="">
+            <img src="/user/themes/obyte/assets/privacy/img5.svg" alt="policy changes">
         </div>
         <div class="info-block">
             <h2>Changes to this policy</h2>

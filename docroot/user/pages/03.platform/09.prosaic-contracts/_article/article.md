@@ -20,8 +20,8 @@ class: prosaic-contracts-wrap
 </div>
 <div class="content-wrap">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/prosaic/mobile-img.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/prosaic/mobile-img2.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/prosaic/mobile-img.png?v1" alt="prosaic contract">
+        <img class="mobile" src="/user/themes/obyte/assets/prosaic/mobile-img2.png?v1" alt="prosaic contract">
     </div>
     <div class="content-block">
         <div class="content-small">
@@ -31,7 +31,7 @@ class: prosaic-contracts-wrap
                 <a href="/platform/identity">real world identities linked to their wallet addresses</a> in order to prove who they are.
             </p>
             <div class="content-img">
-                <img src="/user/themes/obyte/assets/prosaic/insert-private-profile.png?v1" alt="">
+                <img src="/user/themes/obyte/assets/prosaic/insert-private-profile.png?v1" alt="insert private profile">
             </div>
         </div>
         <div class="content-small">
@@ -44,7 +44,7 @@ class: prosaic-contracts-wrap
             </p>
             <p>
                 Smart contracts that do lock funds to guarantee contract execution and also have a prosaic part 
-                attached, are currently <a target="_blank" href="https://medium.com/obyte/whats-next-for-obyte-contracts-with-arbiter-7e625e05811a">being developed</a>.
+                attached, are currently <a target="_blank" rel="noopener" href="https://medium.com/obyte/whats-next-for-obyte-contracts-with-arbiter-7e625e05811a">being developed</a>.
             </p>
         </div>
     </div>
@@ -52,15 +52,15 @@ class: prosaic-contracts-wrap
 
 <div class="dev-blog">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/resources/resource5.svg" alt="">
+        <img src="/user/themes/obyte/assets/resources/resource5.svg" alt="documentation">
     </div>
     <div class="info-block">
         <div class="cat">Developers</div>
         <div class="title">Integrate prosaic contracts in your apps</div>
         <p>
             The process of offering and acceptance of prosaic contracts can be automated using Obyte chatbots,
-            <a target="_blank" href="https://developer.obyte.org/contracts/prosaic-contracts">see developer documentation about prosaic contracts</a>.
+            <a target="_blank" rel="noopener" href="https://developer.obyte.org/contracts/prosaic-contracts">see developer documentation about prosaic contracts</a>.
         </p>
-        <p>Learn more about prosaic contracts in our <a target="_blank" href="https://medium.com/obyte/introducing-prosaic-contracts-5d3564638a20">introductory blog post</a>.</p>
+        <p>Learn more about prosaic contracts in our <a target="_blank" rel="noopener" href="https://medium.com/obyte/introducing-prosaic-contracts-5d3564638a20">introductory blog post</a>.</p>
     </div>
 </div>

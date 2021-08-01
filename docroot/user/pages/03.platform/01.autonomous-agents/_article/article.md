@@ -36,20 +36,20 @@ class: autonomous-agents-wrap
         </p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/autonomous-agents/img1.svg" alt="">
+        <img src="/user/themes/obyte/assets/autonomous-agents/img1.svg" alt="dag">
     </div>    
 </div>
 <div class="flex-block two">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/autonomous-agents/mobile.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/autonomous-agents/mobile2.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/autonomous-agents/mobile.png?v1" alt="autonomous agents">
+        <img class="mobile" src="/user/themes/obyte/assets/autonomous-agents/mobile2.png?v1" alt="autonomous agents">
     </div>
     <div class="info-block">
         <h2>Agents, not contracts</h2>
         <p>
-            Autonomous Agents are <a href="https://en.wikipedia.org/wiki/Agent_(economics)" target="_blank">economic agents</a> when dealing with anything of value and they exist on equal terms with human actors: both are <i>endpoints</i> of interactions. Contracts, on the other hand, exist <i>between</i> humans or human-managed organizations, contracts <i>are</i> interactions.
+            Autonomous Agents are <a href="https://en.wikipedia.org/wiki/Agent_(economics)" target="_blank" rel="noopener">economic agents</a> when dealing with anything of value and they exist on equal terms with human actors: both are <i>endpoints</i> of interactions. Contracts, on the other hand, exist <i>between</i> humans or human-managed organizations, contracts <i>are</i> interactions.
         </p>
-        <img src="/user/themes/obyte/assets/autonomous-agents/img2.svg" alt="">
+        <img src="/user/themes/obyte/assets/autonomous-agents/img2.svg" alt="autonomous agents">
         <p>
             Unlike humans though, AAs are governed by immutable code, not by free will.
         </p>
@@ -64,7 +64,7 @@ class: autonomous-agents-wrap
 
 <div class="dev-blog">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/resources/resource5.svg" alt="">
+        <img src="/user/themes/obyte/assets/resources/resource5.svg" alt="developers">
     </div>
     <div class="info-block">
         <div class="cat">Developers</div>
@@ -80,28 +80,28 @@ class: autonomous-agents-wrap
         <div class="title">Developer tools</div>
         <ul>
             <li>
-                <a target="_blank" href="https://oscript.org">Oscript Editor</a>: a browser based editor for Oscript, it allows 
+                <a target="_blank" rel="noopener" href="https://oscript.org">Oscript Editor</a>: a browser based editor for Oscript, it allows 
                 to write AA code in the browser, no installation required, and immediately deploy using Obyte wallet. 
                 The editor includes a few templates of AAs to start with.
             </li>
             <li>
-                <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=obyte.oscript-vscode-plugin">Visual Studio Code plugin for Oscript</a>
+                <a target="_blank" rel="noopener" href="https://marketplace.visualstudio.com/items?itemName=obyte.oscript-vscode-plugin">Visual Studio Code plugin for Oscript</a>
                 also allows to edit and deploy, plus it includes a testkit for running tests.
             </li>
             <li>
-                <a target="_blank" href="https://github.com/valyakin/aa-testkit">AA Testkit</a>
+                <a target="_blank" rel="noopener" href="https://github.com/valyakin/aa-testkit">AA Testkit</a>
                 for running tests and making sure your AA operates correctly in various scenarios of its usage.
             </li>
         </ul>
         <p>
             <br>
-            See the full <a href="https://developer.obyte.org/autonomous-agents" target="_blank">developer documentation about Autonomous Agents</a>.
+            See the full <a href="https://developer.obyte.org/autonomous-agents" target="_blank" rel="noopener">developer documentation about Autonomous Agents</a>.
         </p>
     </div>
 </div>
 <div class="dev-blog white">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/autonomous-agents/img3.svg" alt="">
+        <img src="/user/themes/obyte/assets/autonomous-agents/img3.svg" alt="examples">
     </div>
     <div class="info-block">
         <div class="title">Try AAs now</div>
@@ -110,19 +110,19 @@ class: autonomous-agents-wrap
         </p>
         <ul>
             <li>
-                <a target="_blank" href="https://ostable.org">Bonded Stablecoins</a>: issue or redeem stablecoins 
+                <a target="_blank" rel="noopener" href="https://ostable.org">Bonded Stablecoins</a>: issue or redeem stablecoins 
                 pegged to any asset or index, or launch a new stablecoin.
             </li>
             <li>
-                <a target="_blank" href="https://odex.ooo">ODEX decentralized exchange</a>: 
+                <a target="_blank" rel="noopener" href="https://odex.ooo">ODEX decentralized exchange</a>: 
                 trade any tokens issued on Obyte with fast order execution, user experience is similar to that of centralized exchanges.
             </li>
             <li>
-                <a target="_blank" href="https://oswap.io">Oswap automated market maker</a>: 
+                <a target="_blank" rel="noopener" href="https://oswap.io">Oswap automated market maker</a>: 
                 quickly exchange one token for another in just a few clicks.
             </li>
             <li>
-                <a target="_blank" href="https://tokens.ooo">Decentralized token registry</a>: assign ticker symbols to tokens on Obyte.            
+                <a target="_blank" rel="noopener" href="https://tokens.ooo">Decentralized token registry</a>: assign ticker symbols to tokens on Obyte.            
             </li>
         </ul>
     </div>
