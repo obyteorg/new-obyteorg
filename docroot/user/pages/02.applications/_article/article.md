@@ -51,8 +51,8 @@ class: applications-wrap
        <p>For example, you want to exchange 100 A-tokens for 10 B-tokens. You send 100 A-tokens to the peer and set a condition "the peer can receive A-tokens only once I receive 10 B-tokens". The A-tokens are temporarily locked on a smart contract that exists between you and the peer, and the peer can't take A-tokens before he fulfils his part of the deal. He sends B-tokens to you, then he is able to unlock A-tokens from the contract.</p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img3.png?v1" alt="condiitonal payments">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img3-mobile.png?v1" alt="condiitonal payments">
+        <img src="/user/themes/obyte/assets/applications/img3.png?v1" alt="conditional payments">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img3-mobile.png?v1" alt="conditional payments">
     </div>
 </div>
 <div class="flex-block left center four">
