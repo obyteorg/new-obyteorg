@@ -10,10 +10,10 @@ class: faq-wrap
 </div>
 
 <p class="sub-text-block">
-    Usually, the answers to most questions can be found in the various online material like this website, the <a target="_blank" href="https://developer.obyte.org">Obyte Developer Site</a> and the 
-    <a target="_blank" href="https://wiki.obyte.org">Obyte Wiki</a>. Even though most answers can be found on those sites, users often find 
-    it faster to simply ask their questions to the communities on <a target="_blank" href="https://discord.obyte.org">Discord</a> or 
-    <a target="_blank" href="https://t.me/obyteorg">Telegram</a>. Below, we have compiled a list of the most frequently asked questions and the answers.
+    Usually, the answers to most questions can be found in the various online material like this website, the <a target="_blank" rel="noopener" href="https://developer.obyte.org">Obyte Developer Site</a> and the 
+    <a target="_blank" rel="noopener" href="https://wiki.obyte.org">Obyte Wiki</a>. Even though most answers can be found on those sites, users often find 
+    it faster to simply ask their questions to the communities on <a target="_blank" rel="noopener" href="https://discord.obyte.org">Discord</a> or 
+    <a target="_blank" rel="noopener" href="https://t.me/obyteorg">Telegram</a>. Below, we have compiled a list of the most frequently asked questions and the answers.
 </p>
 
 <div class="white-block">
@@ -43,7 +43,7 @@ class: faq-wrap
 
 <div class="white-block">
     <h4>Where can I read more about Obyte?</h4>
-    <p>The best way is to start on the <a target="_blank" href="/">official website</a> which you are already doing. Here, you will find links to various other sources about specific topics.</p>
+    <p>The best way is to start on the <a href="/">official website</a> which you are already doing. Here, you will find links to various other sources about specific topics.</p>
 </div>
 
 <div class="white-block">
@@ -58,7 +58,7 @@ class: faq-wrap
     <p>First, make sure you have the latest version of the wallet. If it prompts you to replace order 
     providers/witnesses on startup, you should replace any old addresses as you might not be able to transact from 
     light wallets if your list of Order Providers differs too much from the hub that your wallet is connected to. 
-    If you still experience problems, head over to the <a target="_blank" href="https://discord.obyte.org">Obyte Discord</a> and provide details of the problem in the #helpdesk channel.</p>
+    If you still experience problems, head over to the <a target="_blank" rel="noopener" href="https://discord.obyte.org">Obyte Discord</a> and provide details of the problem in the #helpdesk channel.</p>
 </div>
 
 <div class="white-block">
@@ -86,7 +86,7 @@ class: faq-wrap
 <div class="white-block">
     <h4>There are so many things and buttons in the wallet, do you have a guide for the wallet?</h4>
     <p>
-        For things that are not self-explanatory, there are plenty of articles, examples and even videos explaining how to use the wallet. Simply search for them using your favorite search engine or check out <a href="https://medium.com/obyte-help" target="_blank">Obyte Tutorials</a>.
+        For things that are not self-explanatory, there are plenty of articles, examples and even videos explaining how to use the wallet. Simply search for them using your favorite search engine or check out <a href="https://medium.com/obyte-help" target="_blank" rel="noopener">Obyte Tutorials</a>.
     </p>
 </div>
 
@@ -103,7 +103,7 @@ class: faq-wrap
 <div class="white-block">
     <h4>Can Obyte be mined or staked?</h4>
     <p>
-        No, all Bytes were issued in the <a href="https://explorer.obyte.org/#oj8yEksX9Ubq7lLc+p6F2uyHUuynugeVq4+ikT67X6E=" target="_blank">Genesis Unit</a>. The total supply of Bytes was created in that and no more can ever be created.
+        No, all Bytes were issued in the <a href="https://explorer.obyte.org/#oj8yEksX9Ubq7lLc+p6F2uyHUuynugeVq4+ikT67X6E=" target="_blank" rel="noopener">Genesis Unit</a>. The total supply of Bytes was created in that and no more can ever be created.
     </p>
 </div>
 

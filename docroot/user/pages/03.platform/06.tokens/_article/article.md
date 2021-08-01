@@ -43,7 +43,7 @@ When a new token type is defined, its properties can be tailored to the environm
 
 <div class="dev-blog">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/issue-tokens/doc.svg" alt="">
+        <img src="/user/themes/obyte/assets/issue-tokens/doc.svg" alt="documentation">
     </div>
     <div class="info-block">
         <div class="cat">Developers</div>

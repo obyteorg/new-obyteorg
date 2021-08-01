@@ -14,8 +14,8 @@ class: chatbots-wrap
 </div>
 <div class="flex-block left">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/chatbots/mob1-shadow.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/chatbots/mob1.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/chatbots/mob1-shadow.png?v1" alt="chat interface">
+        <img class="mobile" src="/user/themes/obyte/assets/chatbots/mob1.png?v1" alt="chat interface">
     </div>
     <div class="info-block">
         <p>In addition to the standard text messaging functionality, the chat supports:</p>
@@ -46,20 +46,20 @@ class: chatbots-wrap
         <br>
         <div class="dev-blog">
             <div class="dev-img-block">
-                <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="">
+                <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="documentation">
             </div>
             <div class="info-block">
                 <div class="cat">Developers</div>
                 <div class="title">Integrate chatbots in your apps</div>
                 <p>
-                    Developers, see the <a target="_blank" href="https://developer.obyte.org/#simple-chatbot">documentation about chatbots</a> 
+                    Developers, see the <a target="_blank" rel="noopener" href="https://developer.obyte.org/#simple-chatbot">documentation about chatbots</a> 
                     on our developer website.
                 </p>
             </div>
         </div>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/chatbots/mob2-shadow.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/chatbots/mob2.png" alt="">
+        <img src="/user/themes/obyte/assets/chatbots/mob2-shadow.png" alt="chatbot store">
+        <img class="mobile" src="/user/themes/obyte/assets/chatbots/mob2.png" alt="chatbot store">
     </div>
 </div>

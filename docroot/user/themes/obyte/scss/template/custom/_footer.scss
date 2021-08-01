@@ -126,14 +126,15 @@
       margin-right: 0;
       width: calc(50% - 32px);
       max-width: inherit;
-      min-width: 130px;
+      min-width: 160px;
       .title {
         margin-bottom: 24px;
         font-size: 20px;
         font-weight: normal;
       }
       a {
-        font-size: 14px;
+        font-size: 16px;
+        line-height: 48px;
       }
     }
     .community-list {

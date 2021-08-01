@@ -2,7 +2,7 @@
 <a href="{{ home_url }}" class="navbar-brand mr-10">
 {% if logo %}
   {% set logo_file = (logo|first).name %}
-  <img src="{{ url('theme://assets/svg/obyte_logo.svg')  }}" alt="{{ site.name }}" />
+  <img src="{{ url('theme://assets/svg/obyte_logo.svg')  }}" alt="{{ site.name }}" alt="logo" />
 {% else %}
   {% include('@images/grav-logo.svg') %}
 {% endif %}

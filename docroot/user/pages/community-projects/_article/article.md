@@ -17,11 +17,11 @@ class: community-projects-wrap
 <div class="flex-block">
     <div class="info-block">
         <h2>Made On Obyte - Project Directory</h2>
-        <p>As it might not always be obvious what technology is under the hood of a specific project or use case, a project was launched aiming to gather an overview of all the various projects built on the Obyte platform. It is called <a target="_blank" href="https://madeonobyte.org">Made On Obyte</a> &mdash; plain and simple. Here, you will find a repository of community projects that in one way or another utilizes one or more features of Obyte.</p>
-        <p>Made On Obyte recently introduced a <a target="_blank" href="https://madeonobyte.org/crowdfunding">crowdfunding feature</a>, allowing community projects to launch campaigns to raise funding for their project or startup. So with Obyte, every community project has a full set of tools covering the entire journey from initial inception of an idea all the way to a final product. So regardless of whether you prefer a traditional crowdfunding campaign or want to run an ICO to fund your project, all the features are already on Obyte, ready to be used.</p>
+        <p>As it might not always be obvious what technology is under the hood of a specific project or use case, a project was launched aiming to gather an overview of all the various projects built on the Obyte platform. It is called <a target="_blank" rel="noopener" href="https://madeonobyte.org">Made On Obyte</a> &mdash; plain and simple. Here, you will find a repository of community projects that in one way or another utilizes one or more features of Obyte.</p>
+        <p>Made On Obyte recently introduced a <a target="_blank" rel="noopener" href="https://madeonobyte.org/crowdfunding">crowdfunding feature</a>, allowing community projects to launch campaigns to raise funding for their project or startup. So with Obyte, every community project has a full set of tools covering the entire journey from initial inception of an idea all the way to a final product. So regardless of whether you prefer a traditional crowdfunding campaign or want to run an ICO to fund your project, all the features are already on Obyte, ready to be used.</p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/community/img1.png" alt="">    
+        <img src="/user/themes/obyte/assets/community/img1.png" alt="project directory">    
     </div>
 </div>
 
@@ -32,41 +32,41 @@ Projects may also apply for [grants](/grants) from the Obyte Foundation.
 
 <div class="dev-blog">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/community/svg1.svg" alt="">
+        <img src="/user/themes/obyte/assets/community/svg1.svg" alt="community projects">
     </div>
     <div class="info-block">
         <div class="title">Existing projects</div>
         <p>
-            Over the years, many projects have been built by the community. Here are a few, for a more thorough list see <a target="_blank" href="https://madeonobyte.org">Made On Obyte</a> website.
+            Over the years, many projects have been built by the community. Here are a few, for a more thorough list see <a target="_blank" rel="noopener" href="https://madeonobyte.org">Made On Obyte</a> website.
         </p>
         <ul>
             <li>
-                <a target="_blank" href="https://obytejs.com">obyte.js</a>: a pure and powerful JavaScript Obyte library, it is used by almost every dApp on Obyte
+                <a target="_blank" rel="noopener" href="https://obytejs.com">obyte.js</a>: a pure and powerful JavaScript Obyte library, it is used by almost every dApp on Obyte
             </li>
             <li>
-                <a target="_blank" href="https://obyte.io">obyte.io</a>: a data explorer for Obyte
+                <a target="_blank" rel="noopener" href="https://obyte.io">obyte.io</a>: a data explorer for Obyte
             </li>
             <li>
-                <a target="_blank" href="https://pollopollo.org">PolloPollo</a>: a charity platform that enables direct, safe, and transparent donations based on Obyte <a target="_blank" href="/platform/smart-contracts">smart contracts</a>
+                <a target="_blank" rel="noopener" href="https://pollopollo.org">PolloPollo</a>: a charity platform that enables direct, safe, and transparent donations based on Obyte <a href="/platform/smart-contracts">smart contracts</a>
             </li>
             <li>
-                <a target="_blank" href="https://asset.obyte.app">Asset registry</a>: allows to issue assets and register human readable names for them
+                <a target="_blank" rel="noopener" href="https://asset.obyte.app">Asset registry</a>: allows to issue assets and register human readable names for them
             </li>
             <li>
-                <a target="_blank" href="https://blackbytes.io">Blackbytes.io</a>: a <a target="_blank" href="/platform/blackbytes">Blackbytes</a> exchange
+                <a target="_blank" rel="noopener" href="https://blackbytes.io">Blackbytes.io</a>: a <a href="/platform/blackbytes">Blackbytes</a> exchange
             </li>
             <li>
-                <a target="_blank" href="https://github.com/Papabyte/Byteduino">Byteduino</a>: a lightweight C/C++ implementation of Obyte node for Arduino ESP8266 and ESP32
+                <a target="_blank" rel="noopener" href="https://github.com/Papabyte/Byteduino">Byteduino</a>: a lightweight C/C++ implementation of Obyte node for Arduino ESP8266 and ESP32
             </li>
             <li>
-                <a target="_blank" href="https://orider.obyte.app">Orider</a>: a ride sharing app built on Obyte <a target="_blank" href="/platform/smart-contracts">smart contracts</a>
+                <a target="_blank" rel="noopener" href="https://orider.obyte.app">Orider</a>: a ride sharing app built on Obyte <a href="/platform/smart-contracts">smart contracts</a>
             </li>
             <li>
-                <a target="_blank" href="https://cryptoshare.cc">Cryptoshare.cc</a>: a web wallet with publishing capability
+                <a target="_blank" rel="noopener" href="https://cryptoshare.cc">Cryptoshare.cc</a>: a web wallet with publishing capability
             </li>
         </ul>
         <p>
-            See more projects on <a target="_blank" href="https://madeonobyte.org">Made On Obyte</a>.
+            See more projects on <a target="_blank" rel="noopener" href="https://madeonobyte.org">Made On Obyte</a>.
         </p>
     </div>
 </div>

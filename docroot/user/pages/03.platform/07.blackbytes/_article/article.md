@@ -13,7 +13,7 @@ class: blackbytes-wrap
     and most other cryptocurrencies.
 </div>
 
-##How it works
+## How it works
 
 <div class="flex-block">
     <div class="info-block">
@@ -28,11 +28,11 @@ class: blackbytes-wrap
         </p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/blackbytes/img1.svg" alt="">
+        <img src="/user/themes/obyte/assets/blackbytes/img1.svg" alt="p2p private payments">
     </div>    
 </div>
 
-##Using Blackbytes
+## Using Blackbytes
 Since private payloads have to be sent along with each payment, Blackbytes payments are different from payments with public assets. There are two ways to send Blackbytes:
 
 <div class="blackbytes-details">
@@ -48,29 +48,29 @@ Since private payloads have to be sent along with each payment, Blackbytes payme
             <p>
                 The sender selects Blackbytes as the asset they want to send, chooses “share via message” option, and saves a textcoin file that is created as a result of the payment. Then, they send this file to the recipient over any communication channel and the recipient double-clicks the file in order to receive the payment.
             </p>
-            <img src="/user/themes/obyte/assets/blackbytes/img2.png" alt="">
+            <img src="/user/themes/obyte/assets/blackbytes/img2.png" alt="private textcoins">
         </div>
     </div>
 </div>
 
-##Trading blackbytes
-Blackbytes can be traded on <a target="_blank" href="https://blackbytes.io/">blackbytes.io</a> exchange.
+## Trading blackbytes
+Blackbytes can be traded on <a target="_blank" rel="noopener" href="https://blackbytes.io/">blackbytes.io</a> exchange.
 <br><br>
 
-##Creating other privacy tokens on Obyte
+## Creating other privacy tokens on Obyte
 Blackbytes is just one privacy token on Obyte which is special only in that it was distributed along with Bytes during the initial distribution, thus there are thousands of holders of this token. Other similar tokens can be created mimicking the features of Blackbytes if such privacy levels are desired for the new token. During token creation, when the attributes “is_private” and “fixed_denominations” are designated as “true”, then the token can replicate the privacy feature.
 <br><br>
 
 <div class="dev-blog">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="">
+        <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="documentation">
     </div>
     <div class="info-block">
         <div class="cat">Developers</div>
         <div class="title">Using Smart Contracts in your apps</div>
         <p>
             For developers interested in creating a privacy token on Obyte, see the documentation about 
-            <a href="https://developer.obyte.org/issuing-assets-on-byteball" target="_blank">token creation</a>, including creation of privacy tokens, on the developer resource portal.
+            <a href="https://developer.obyte.org/issuing-assets-on-byteball" target="_blank" rel="noopener">token creation</a>, including creation of privacy tokens, on the developer resource portal.
         </p>
     </div>
 </div>

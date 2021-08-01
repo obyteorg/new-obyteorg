@@ -37,7 +37,7 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td>BTC airdrop</td>
         <td>2016-2017</td>
         <td><b>645,341</b><small>.799</small></td>
-        <td><a target="target=_blank" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
+        <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
     </tr>
     <tr>
         <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173">Cashback</a></td>    
@@ -52,7 +52,7 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#RJIUGYIVHM5TAZHU3ZPNTNZL5JF4JUTN">RJIUGYIVHM5TAZHU3ZPNTNZL5JF4JUTN</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e?target=_blank">Email attestation rewards</a></td>
+        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e">Email attestation rewards</a></td>
         <td>since 2018</td>
         <td><b>930</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#UOYYSPEE7UUW3KJAB5F4Y4AWMYMDDB4Y">UOYYSPEE7UUW3KJAB5F4Y4AWMYMDDB4Y</a></td>
@@ -88,7 +88,7 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#5M72ELJMTZ2NHZVYMZ4CDJSKJO2QXIPK">5M72ELJMTZ2NHZVYMZ4CDJSKJO2QXIPK</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997?target=_blank">Telegram quiz</a></td>
+        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">Telegram quiz</a></td>
         <td>since 2018</td>
         <td><b>70</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#XPOQYAPM5NDYTVRV763C2G557GMKRZXL">XPOQYAPM5NDYTVRV763C2G557GMKRZXL</a></td>

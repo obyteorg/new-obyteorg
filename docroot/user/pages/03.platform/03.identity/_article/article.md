@@ -31,12 +31,12 @@ Other information, such as email address or social media profiles, can also be v
         <p>
             If the verified information is saved privately in the user's wallet, the user can easily share it with interested parties using the built-in chat:
         </p>
-        <img class="info-img" src="/user/themes/obyte/assets/identity/img1-bot.png?v1" alt="">
+        <img class="info-img" src="/user/themes/obyte/assets/identity/img1-bot.png?v1" alt="insert private profile">
         <p>while choosing which fields to disclose.</p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/identity/img1.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/identity/img1-mob.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/identity/img1.png?v1" alt="profile info sharing">
+        <img class="mobile" src="/user/themes/obyte/assets/identity/img1-mob.png?v1" alt="profile info sharing">
     </div>
 </div>
 
@@ -46,7 +46,7 @@ Verifications are usually performed by bots. Here are a few bots whose attestati
 <div class="attestors-list">
     <div class="attestor-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/identity/svg1.svg" alt="">
+            <img src="/user/themes/obyte/assets/identity/svg1.svg" alt="real name kyc">
         </div>
         <div class="info-block">
             <h2 class="title">Real name attestation bot</h2>
@@ -55,7 +55,7 @@ Verifications are usually performed by bots. Here are a few bots whose attestati
     </div>
     <div class="attestor-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/identity/svg2.svg" alt="">
+            <img src="/user/themes/obyte/assets/identity/svg2.svg" alt="email">
         </div>
         <div class="info-block">
             <h2 class="title">Email attestation bot</h2>
@@ -64,7 +64,7 @@ Verifications are usually performed by bots. Here are a few bots whose attestati
     </div>
     <div class="attestor-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/identity/svg3.svg" alt="">
+            <img src="/user/themes/obyte/assets/identity/svg3.svg" alt="accredited investor ">
         </div>
         <div class="info-block">
             <h2 class="title">Accredited investor attestation bot</h2>
@@ -73,7 +73,7 @@ Verifications are usually performed by bots. Here are a few bots whose attestati
     </div>
     <div class="attestor-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/identity/svg4.svg" alt="">
+            <img src="/user/themes/obyte/assets/identity/svg4.svg" alt="steem username">
         </div>
         <div class="info-block">
             <h2 class="title">Steem attestation bot</h2>
@@ -82,7 +82,7 @@ Verifications are usually performed by bots. Here are a few bots whose attestati
     </div>
     <div class="attestor-block">
         <div class="img-block">
-            <img src="/user/themes/obyte/assets/identity/github.svg" alt="">
+            <img src="/user/themes/obyte/assets/identity/github.svg" alt="github username">
         </div>
         <div class="info-block">
             <h2 class="title">GitHub attestation bot</h2>
@@ -95,7 +95,7 @@ Attestations can also be easily done manually by sending an attestation transact
 
 <div class="dev-blog">
     <div class="dev-img-block">
-        <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="">
+        <img src="/user/themes/obyte/assets/chatbots/doc.svg" alt="documentation">
     </div>
     <div class="info-block">
         <div class="cat">Developers</div>

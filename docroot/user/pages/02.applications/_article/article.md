@@ -21,19 +21,19 @@ class: applications-wrap
         <br><br><br>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img1.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img1-mobile.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/applications/img1.png?v1" alt="applications">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img1-mobile.png?v1" alt="applications">
     </div>
 </div>
 <div class="flex-block left center second">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img2.png" alt="">
+        <img src="/user/themes/obyte/assets/applications/img2.png" alt="trade">
     </div>
     <div class="info-block">
         <h2>Trade</h2>
         <p>
-            Use <a target="_blank" href="https://odex.ooo">ODEX decentralized exchange</a> or 
-            <a target="_blank" href="https://oswap.io">Oswap automated market maker</a> to trade tokens issued on 
+            Use <a target="_blank" rel="noopener" href="https://odex.ooo">ODEX decentralized exchange</a> or 
+            <a target="_blank" rel="noopener" href="https://oswap.io">Oswap automated market maker</a> to trade tokens issued on 
             Obyte against each other.
         </p>
        <p>ODEX uses off-chain order matching and is as fast as a centralized exchange.</p>
@@ -45,25 +45,25 @@ class: applications-wrap
     <div class="info-block">
         <h2>Risk-free conditional payments</h2>
         <p>
-            Obyte allows you to do something that traditional currencies can't: <a target="_blank" href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a">conditional payments</a>.
+            Obyte allows you to do something that traditional currencies can't: <a target="_blank" rel="noopener" href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a">conditional payments</a>.
             You set a condition when the payee receives the money. If the condition is not met, you get your money back.
         </p>
        <p>For example, you want to exchange 100 A-tokens for 10 B-tokens. You send 100 A-tokens to the peer and set a condition "the peer can receive A-tokens only once I receive 10 B-tokens". The A-tokens are temporarily locked on a smart contract that exists between you and the peer, and the peer can't take A-tokens before he fulfils his part of the deal. He sends B-tokens to you, then he is able to unlock A-tokens from the contract.</p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img3.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img3-mobile.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/applications/img3.png?v1" alt="conditional payments">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img3-mobile.png?v1" alt="conditional payments">
     </div>
 </div>
 <div class="flex-block left center four">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img4.png" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img4-mobile.png" alt="">
+        <img src="/user/themes/obyte/assets/applications/img4.png" alt="secure donations">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img4-mobile.png" alt="secure donations">
     </div>
     <div class="info-block">
         <h2>Secure donations</h2>
         <p>
-            <a target="_blank" href="https://pollopollo.org">PolloPollo</a> allows to donate directly to people in need and be confident that your donation reaches the destination.
+            <a target="_blank" rel="noopener" href="https://pollopollo.org">PolloPollo</a> allows to donate directly to people in need and be confident that your donation reaches the destination.
         </p>
        <p>Your money is locked on a smart contract, and it gets unlocked to the producer as soon as the recipient confirms the receipt of the product. The recipients are not exposed to crypto, they only receive a product for free while the producers are paid by donors.</p>
     </div>
@@ -75,17 +75,17 @@ class: applications-wrap
         <p>Insurance is just a simple smart contract that can be unlocked by the insured — if the event in question did occur, or by the insurer — otherwise.</p>
         <p>Creating a contract is available in Obyte wallet, no programming skills are required. Chat with the peer, click his address in chat, select "offer a contract", and fill a form. This is what human-readable/human-writable smart contract looks like. The peer will be able to view the contract and accept it with one click.</p>
         <p>If you want to buy flight delay insurance from a bot, find the corresponding bot in the Bot Store in the wallet and the bot will guide you through the process of smart contract creation.</p>
-        <p>Learn more about <a target="_blank" href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527">P2P insurance</a>.</p>
+        <p>Learn more about <a target="_blank" rel="noopener" href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527">P2P insurance</a>.</p>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img5.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img5-mobile.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/applications/img5.png?v1" alt="p2p insurance">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img5-mobile.png?v1" alt="p2p insurance">
     </div>
 </div>
 <div class="flex-block left center six">
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img6.png?v1" alt="">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img6-mobile.png?v1" alt="">
+        <img src="/user/themes/obyte/assets/applications/img6.png?v1" alt="prediction markets">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/img6-mobile.png?v1" alt="prediction markets">
     </div>
     <div class="info-block">
         <h2>Prediction markets</h2>
@@ -101,14 +101,14 @@ class: applications-wrap
         <ul>
             <li>The only ICO platform on the market that offers a compliant sale of security tokens out of the box.</li>
             <li>Sell unregistered securities to accredited investors using built-in investor accreditation.</li>
-            <li>Optionally require KYC using the built-in <a target="_blank" href="/platform/identity">real name verification</a>.</li>
+            <li>Optionally require KYC using the built-in <a href="/platform/identity">real name verification</a>.</li>
             <li>Sell for Bytes, BTC, ETH.</li>
             <li>Display stats in real time.</li>
         </ul>
-        <p>Learn more about <a target="_blank" href="https://ico-platform.obyte.org">launching an ICO</a> on Obyte platform.</p>
+        <p>Learn more about <a target="_blank" rel="noopener" href="https://ico-platform.obyte.org">launching an ICO</a> on Obyte platform.</p>
         <br><br>
     </div>
     <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img7.png" alt="">
+        <img src="/user/themes/obyte/assets/applications/img7.png" alt="ico platform">
     </div>
 </div>
