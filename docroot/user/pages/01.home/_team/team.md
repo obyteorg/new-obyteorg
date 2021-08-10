@@ -21,7 +21,7 @@ team:
         links:
             -
                 icon: icon-linkedin
-                link: https://www.linkedin.com/in/vyacheslav-safronov-5607a04b/
+                link: https://www.linkedin.com/in/steve-safronoff-5607a04b/
     -
         imgLink: /user/themes/obyte/assets/team/luke.png
         name: 'Luke Angell'
@@ -118,14 +118,6 @@ team:
             -
                 icon: icon-github
                 link: https://github.com/EddieBro
-    -
-        imgLink: /user/themes/obyte/assets/team/jikun.png
-        name: 'Liao Jikun'
-        role: 'Frontend Developer'
-        links:
-            -
-                icon: icon-github
-                link: https://github.com/liaojikunwork
     -
         imgLink: /user/themes/obyte/assets/team/andrii.jpg
         name: 'Andrii Kaiurin'
