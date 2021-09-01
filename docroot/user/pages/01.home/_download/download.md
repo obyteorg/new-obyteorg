@@ -30,4 +30,4 @@ programs2:
 ---
  
 View public transactions on the official [DAG explorer](https://explorer.obyte.org/?target=_blank&rel=noopener) or [obyte.io](https://obyte.io/?target=_blank&rel=noopener). <br>
-Unofficial web wallet (partial functionality): [404monster.obytechina.org/](https://404monster.obytechina.org/?target=_blank&rel=noopener).
+Unofficial web wallet (partial functionality): [404monster.obytechina.org](https://404monster.obytechina.org/?target=_blank&rel=noopener).
