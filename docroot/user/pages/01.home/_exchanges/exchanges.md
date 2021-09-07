@@ -50,6 +50,9 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/odex.png
         link: 'https://odex.ooo/'
+    -
+        img: /user/themes/obyte/assets/exchanges/getmeinto-obyte.png
+        link: 'https://getmein.ooo/'
 ---
 
 <!--
