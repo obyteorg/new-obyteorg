@@ -7,7 +7,7 @@ blockTitle: <h1>Download your Obyte (Byteball) wallet</h1>
 programs:
     -
         imgLink: /user/themes/obyte/assets/svg/app-store.svg
-        link: 'https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&mt=8'
+        link: 'https://apps.apple.com/us/app/byteball/id1147137332#?platform=iphone'
     -
         imgLink: /user/themes/obyte/assets/svg/google-play-store.svg
         link: 'https://play.google.com/store/apps/details?id=org.byteball.wallet'
