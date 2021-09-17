@@ -480,49 +480,12 @@
         }
       }
     }
-  }
-  &.checkout-wrap {
-    .centered {
-      margin-bottom: 20px;
-      display: flex;
-      justify-content: center;
-      &.iframe-fixed {
-        iframe {
-          position: fixed;
-        }
-      }
-    }
-    h2 {
-      position: relative;
-      font-size: 36px;
-      font-weight: 300;
-      margin: 0 0 40px;
-      color: $link-color;
-    }
-  }
-  &.community-wrap {
-    padding: 72px 0 84px;
-    background: url('../assets/community-bg.png') center / auto 100% repeat-x;
-    .text-block {
-      margin: 0 auto;
-      max-width: 625px;
-    }
-    h2 {
-      margin: 0 0 12px;
-      font-size: 36px;
-      font-weight: 300;
-      color: $link-color;
-    }
-    p {
-      margin-bottom: 32px;
-      color: $text-color;
-    }
-    .community-list {
+    .coin-list {
       display: flex;
       flex-flow: row wrap;
       justify-content: center;
     }
-    .community-block {
+    .coin-block {
       margin: 0 8px 8px;
       flex-shrink: 0;
       width: 48px;
@@ -541,38 +504,26 @@
             display: block;
           }
         }
-        /*
-        .icon {
-          &.icon-discord {
-
-          }
-          &.icon-weechat {
-
-          }
-          &.icon-telegram {
-
-          }
-          &.icon-medium {
-
-          }
-          &.icon-reddit {
-
-          }
-          &.icon-bitcoin {
-
-          }
-          &.icon-twitter {
-
-          }
-          &.icon-facebook {
-
-          }
-          &.icon-youtube {
-
-          }
-        }
-        */
       }
+    }
+  }
+  &.checkout-wrap {
+    .centered {
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: center;
+      &.iframe-fixed {
+        iframe {
+          position: fixed;
+        }
+      }
+    }
+    h2 {
+      position: relative;
+      font-size: 36px;
+      font-weight: 300;
+      margin: 0 0 40px;
+      color: $link-color;
     }
   }
   &.twelve-words-wrap {
