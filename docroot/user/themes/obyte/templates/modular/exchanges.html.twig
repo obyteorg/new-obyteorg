@@ -14,5 +14,13 @@
         <div class="text-block">
             {{ content|raw }}
         </div>
+        <div class="coin-list" style="text-align:center;">
+            {% for list in page.header.lists %}
+                <a class="coin-block" href="{{ list.link }}" target="_blank" rel="noopener">
+                    <img src="{{ list.img }}" alt="coin list">
+                    <img class="hover" src="{{ list.imgHover }}" alt="coin list">
+                </a>
+            {% endfor %}
+        </div>
     </section>
 </section>
