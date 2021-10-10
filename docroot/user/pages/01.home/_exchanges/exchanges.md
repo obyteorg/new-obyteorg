@@ -17,9 +17,9 @@ exchanges:
     #-
     #    img: /user/themes/obyte/assets/exchanges/bcbitcoin.png
     #    link: 'https://www.bcbitcoin.co.uk/'
-    -
-        img: /user/themes/obyte/assets/exchanges/bitz.png
-        link: 'https://www.bitz.so/en/exchange/gbyte_btc'
+    #-
+    #    img: /user/themes/obyte/assets/exchanges/bitz.png
+    #    link: 'https://www.bitz.so/en/exchange/gbyte_btc'
     -
         img: /user/themes/obyte/assets/exchanges/bitladon.png
         link: 'https://www.bitladon.com/obyte'
