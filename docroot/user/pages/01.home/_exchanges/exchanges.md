@@ -5,9 +5,9 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/bittrex.png
         link: 'https://bittrex.com/Market/Index?MarketName=BTC-GBYTE'
-    -
-        img: /user/themes/obyte/assets/exchanges/cryptox.png
-        link: 'https://cryptox.pl/GBYTE-BTC.html'
+    #-
+    #    img: /user/themes/obyte/assets/exchanges/cryptox.png
+    #    link: 'https://cryptox.pl/GBYTE-BTC.html'
     -
         img: /user/themes/obyte/assets/exchanges/kaiserex.png
         link: 'https://www.kaiserex.com/'
@@ -40,13 +40,13 @@ exchanges:
         link: 'https://oswap.io/'
     -
         img: /user/themes/obyte/assets/exchanges/uniswap.png
-        link: 'https://app.uniswap.org/#/swap?inputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&outputCurrency=0x31f69de127c8a0ff10819c0955490a4ae46fcc2a'
+        link: 'https://app.uniswap.org/#/swap?outputCurrency=0x31f69de127c8a0ff10819c0955490a4ae46fcc2a'
     -
         img: /user/themes/obyte/assets/exchanges/pancakeswap.png
-        link: 'https://pancakeswap.finance/swap?inputCurrency=0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c&outputCurrency=0xeb34de0c4b2955ce0ff1526cdf735c9e6d249d09'
+        link: 'https://pancakeswap.finance/swap?outputCurrency=0xeb34de0c4b2955ce0ff1526cdf735c9e6d249d09'
     -
         img: /user/themes/obyte/assets/exchanges/quickswap.png
-        link: 'https://quickswap.exchange/#/swap?inputCurrency=0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6&outputCurrency=0xab5f7a0e20b0d056aed4aa4528c78da45be7308b'
+        link: 'https://quickswap.exchange/#/swap?outputCurrency=0xab5f7a0e20b0d056aed4aa4528c78da45be7308b'
     -
         img: /user/themes/obyte/assets/exchanges/odex.png
         link: 'https://odex.ooo/'
