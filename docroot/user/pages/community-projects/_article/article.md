@@ -64,6 +64,9 @@ Projects may also apply for [grants](/grants) from the Obyte Foundation.
             <li>
                 <a target="_blank" rel="noopener" href="https://cryptoshare.cc">Cryptoshare.cc</a>: a web wallet with publishing capability
             </li>
+            <li>
+                <a target="_blank" rel="noopener" href="https://cryptothings.gallery">Cryptothings</a>: a NFT marketplace and licensing solution
+            </li>
         </ul>
         <p>
             See more projects on <a target="_blank" rel="noopener" href="https://madeonobyte.org">Made On Obyte</a>.
