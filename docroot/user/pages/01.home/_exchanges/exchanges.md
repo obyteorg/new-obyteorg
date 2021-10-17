@@ -23,6 +23,9 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/bitladon.png
         link: 'https://www.bitladon.com/obyte'
+    -
+        img: /user/themes/obyte/assets/exchanges/coinspot.png
+        link: 'https://www.coinspot.com.au/buy/gbyte'
     # -
     #     img: /user/themes/obyte/assets/exchanges/simpleswap.png
     #     link: 'https://simpleswap.io/coins/obyte'
@@ -67,10 +70,10 @@ lists:
         img: /user/themes/obyte/assets/coin-lists/nomics.png
         imgHover: /user/themes/obyte/assets/coin-lists/hover/nomics.png
         link: 'https://nomics.com/assets/gbyte-obyte-gigabytes'
-    -
-        img: /user/themes/obyte/assets/coin-lists/messari.png
-        imgHover: /user/themes/obyte/assets/coin-lists/hover/messari.png
-        link: 'https://messari.io/asset/byteball'
+    #-
+    #    img: /user/themes/obyte/assets/coin-lists/messari.png
+    #    imgHover: /user/themes/obyte/assets/coin-lists/hover/messari.png
+    #    link: 'https://messari.io/asset/byteball'
 ---
 
 <!--
