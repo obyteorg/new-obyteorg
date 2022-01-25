@@ -140,6 +140,9 @@ points:
     -
         date: 'Jul 2021'
         title: 'Counterstake bridge for cross-chain transfers'
+    -
+        date: 'Jan 2022'
+        title: 'Kivach — cascading donations for Github'
 ---
 
 # Timeline
