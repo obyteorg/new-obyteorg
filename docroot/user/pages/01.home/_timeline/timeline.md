@@ -143,6 +143,9 @@ points:
     -
         date: 'Jan 2022'
         title: 'Kivach — cascading donations for Github'
+    -
+        date: 'Feb 2022'
+        title: 'Oswap v2: leveraged trading and more income for LPs'
 ---
 
 # Timeline
