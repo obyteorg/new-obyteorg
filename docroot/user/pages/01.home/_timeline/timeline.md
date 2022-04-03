@@ -146,6 +146,9 @@ points:
     -
         date: 'Feb 2022'
         title: 'Oswap v2: leveraged trading and more income for LPs'
+    -
+        date: 'Mar 2022'
+        title: 'Counterstake audit completed'
 ---
 
 # Timeline

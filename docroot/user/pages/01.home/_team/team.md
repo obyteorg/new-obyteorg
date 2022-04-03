@@ -17,7 +17,7 @@ team:
     -
         imgLink: /user/themes/obyte/assets/team/steve.png
         name: 'Steve Safronoff'
-        role: 'COO'
+        role: 'Partner relations'
         links:
             -
                 icon: icon-linkedin
