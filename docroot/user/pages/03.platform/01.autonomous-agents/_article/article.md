@@ -118,7 +118,7 @@ class: autonomous-agents-wrap
                 trade any tokens issued on Obyte with fast order execution, user experience is similar to that of centralized exchanges.
             </li>
             <li>
-                <a target="_blank" rel="noopener" href="https://oswap.io">Oswap automated market maker</a>: 
+                <a target="_blank" rel="noopener" href="https://v2.oswap.io">Oswap automated market maker</a>: 
                 quickly exchange one token for another in just a few clicks.
             </li>
             <li>

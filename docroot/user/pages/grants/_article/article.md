@@ -11,7 +11,7 @@ class: grants-wrap
     <p>
         Some of the important parts of Obyte ecosystem were created by independent contributors and funded as grants. 
         For example, <a href="https://obytejs.com" target="_blank" rel="noopener">obyte.js</a> library was funded as a grant, many IoT related works were funded 
-        as grants, <a target="_blank" rel="noopener" href="https://oswap.io">oswap.io</a> was grant funded,
+        as grants, <a target="_blank" rel="noopener" href="https://v2.oswap.io">oswap.io</a> was grant funded,
         <a target="_blank" rel="noopener" href="https://wcg.report">World Community Grid distribution bot</a> 
         <a target="_blank" rel="noopener" href="https://github.com/Papabyte/byteduino">Byteduino library</a>
         <a target="_blank" rel="noopener" href="https://pollopollo.org">PolloPollo</a> were all created under Obyte Grants Program 

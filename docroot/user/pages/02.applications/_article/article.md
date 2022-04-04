@@ -33,7 +33,7 @@ class: applications-wrap
         <h2>Trade</h2>
         <p>
             Use <a target="_blank" rel="noopener" href="https://odex.ooo">ODEX decentralized exchange</a> or 
-            <a target="_blank" rel="noopener" href="https://oswap.io">Oswap automated market maker</a> to trade tokens issued on 
+            <a target="_blank" rel="noopener" href="https://v2.oswap.io">Oswap automated market maker</a> to trade tokens issued on 
             Obyte against each other.
         </p>
        <p>ODEX uses off-chain order matching and is as fast as a centralized exchange.</p>

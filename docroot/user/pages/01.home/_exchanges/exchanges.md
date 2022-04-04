@@ -40,7 +40,7 @@ exchanges:
         link: 'https://www.oswap.cc/'
     -
         img: /user/themes/obyte/assets/exchanges/oswap-io.png
-        link: 'https://oswap.io/'
+        link: 'https://v2.oswap.io/'
     -
         img: /user/themes/obyte/assets/exchanges/uniswap.png
         link: 'https://app.uniswap.org/#/swap?outputCurrency=0x31f69de127c8a0ff10819c0955490a4ae46fcc2a'
