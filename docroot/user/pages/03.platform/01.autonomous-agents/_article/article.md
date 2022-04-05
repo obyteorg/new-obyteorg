@@ -124,6 +124,9 @@ class: autonomous-agents-wrap
             <li>
                 <a target="_blank" rel="noopener" href="https://tokens.ooo">Decentralized token registry</a>: assign ticker symbols to tokens on Obyte.            
             </li>
+            <li>
+                <a target="_blank" rel="noopener" href="https://kivach.org">Kivach cascading donations</a>: donate to open-source projects and let them share the donations with other open-source projects they depend upon.            
+            </li>
         </ul>
     </div>
 </div>
