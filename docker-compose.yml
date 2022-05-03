@@ -1,0 +1,16 @@
+volumes:
+  grav-data:
+    driver: local
+    driver_opts:
+      type: none
+      device: $PWD/docroot
+      o: bind
+
+services:
+  grav:
+    container_name: obyte.landing
+    build: ./
+    ports:
+      - 8080:80
+    volumes:
+      - grav-data:/var/www/html

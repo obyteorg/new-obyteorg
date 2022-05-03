@@ -12,14 +12,19 @@ and then setup Apache or Nginx to ./docroot
 
 ## If PHP is not configured on your host machine:
 
-Configure, Build, Start, go back to this section and execute from root folder:
+Install Docker, then run:
 
+```
+docker-compose up -d
+```
+
+Navigate to http://localhost:8080 to see the results.
+
+To connect to your running container, execute:
 ```
 docker exec -it obyte.landing /bin/bash
 ```
-
-This command shall connect you to your container. Then execute:
-
+To install grav dependencies inside the container:
 ```
 cd /var/www/html
 ./bin/grav install
@@ -31,36 +36,11 @@ Wait until the end of installation process, then exit from the container shell u
 exit
 ```
 
-Then execute:
+To stop the container:
 
 ```
-sudo chown -R www-data:www-data ./docroot
+docker-compose down
 ```
-
-### Configure
-
-Prepare network:
-```
-docker network create --driver=bridge --subnet=192.168.30.0/24 obyte
-```
-
-### Build
-
-```
-yarn rebuild:obyte:landing
-```
-
-### Start
-
-```
-yarn restart:obyte:landing
-```
-
-### Network
-
-Site IP:
-192.168.30.11
-
 
 ## CSS-recompiling
 
