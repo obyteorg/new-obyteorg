@@ -112,3 +112,21 @@ class: applications-wrap
         <img src="/user/themes/obyte/assets/applications/img7.png" alt="ico platform">
     </div>
 </div>
+<div class="flex-block left center six">
+    <div class="img-block">
+        <img src="/user/themes/obyte/assets/applications/kivach.png?v1" alt="donations platform">
+        <img class="mobile" src="/user/themes/obyte/assets/applications/kivach-mobile.png?v1" alt="donations platform">
+    </div>
+    <div class="info-block">
+        <h2>Donations to Open Source Projects</h2>
+        <p>Support open-source projects with donations in crypto, and they will automatically forward a part of your donation to other open-source projects that made them possible.</p>
+        <ul>
+            <li>Cascading donations to github repositories.</li>
+            <li>Donate using any Obyte token or even tokens from other networks: ETH, BSC, etc.</li>
+            <li>You can support ANY existing Github repository.</li>
+            <li>Repository owners can claim donations at any time.</li>
+        </ul>
+        <p>Learn more at <a target="_blank" rel="noopener" href="https://kivach.org">kivach.org</a>.</p>
+        <br><br>
+    </div>
+</div>
