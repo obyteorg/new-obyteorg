@@ -1,8 +1,4 @@
 {
   "name": "org.obyte.landing",
-  "version": "1.0.0",
-  "scripts": {
-    "rebuild:obyte:landing": "/bin/bash ./bin/rebuild-obyte-landing",
-    "restart:obyte:landing": "/bin/bash ./bin/restart-obyte-landing"
-  }
+  "version": "1.0.0"
 }

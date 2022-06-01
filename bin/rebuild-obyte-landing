@@ -1,4 +1,0 @@
-docker build \
-  --tag obyte-landing \
-  --file ./setup/obyte.landing/Dockerfile \
-  --no-cache .
