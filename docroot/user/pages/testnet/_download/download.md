@@ -16,8 +16,11 @@ programs2:
         title: 'Windows 64bit'
         link: '/downloads/Obyte-test-win64.exe'
     -
-        title: 'Download for MacOS X'
+        title: 'Download for macOS (Intel based)'
         link: '/downloads/Obyte-test-osx64.dmg'
+    -
+        title: 'Download for macOS (M1 processors)'
+        link: '/downloads/Obyte-test-arm64.dmg'
     -
         title: 'Linux 64bit'
         link: '/downloads/Obyte-test-linux64.zip'
