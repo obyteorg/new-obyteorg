@@ -16,11 +16,11 @@ programs2:
         title: 'Download for Windows 64bit'
         link: '/downloads/Obyte-win64.exe'
     -
-        title: 'Download for Windows 32bit'
-        link: '/downloads/Obyte-win32.exe'
-    -
-        title: 'Download for MacOS X'
+        title: 'Download for macOS (Intel based)'
         link: '/downloads/Obyte-osx64.dmg'
+    -
+        title: 'Download for macOS (M1/M2 processors)'
+        link: '/downloads/Obyte-arm64.dmg'
     -
         title: 'Linux 64bit'
         link: '/downloads/Obyte-x86_64.AppImage'

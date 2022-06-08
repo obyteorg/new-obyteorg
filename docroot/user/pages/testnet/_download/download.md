@@ -19,7 +19,7 @@ programs2:
         title: 'Download for macOS (Intel based)'
         link: '/downloads/Obyte-test-osx64.dmg'
     -
-        title: 'Download for macOS (M1 processors)'
+        title: 'Download for macOS (M1/M2 processors)'
         link: '/downloads/Obyte-test-arm64.dmg'
     -
         title: 'Linux 64bit'
