@@ -55,7 +55,7 @@ class: section poc-wrap
                     Obyte integrated with smart home app for Pay-by-Use/Streaming Payments. One party is producing surplus energy (Producer) via solar panels and wants to sell it to another party (Buyer) with a minimum risk of not getting paid for electricity delivered.
                 </p>
                 <p>
-                    Obyte <a href="/platfor/payment-channels">Streaming Payments</a> are used via <a href="https://github.com/BIoTws/biot-core" target="_blank" rel="noopener">BIoT library</a> and wallet to manage these transactions. A payment channel is opened between the wallets of the 2 parties and frequent microtransactions are used to ensure that both parties incur the minimum risk and that the Buyer is charged for only what has been actually consumed.
+                    Obyte <a href="/platform/payment-channels">Streaming Payments</a> are used via <a href="https://github.com/BIoTws/biot-core" target="_blank" rel="noopener">BIoT library</a> and wallet to manage these transactions. A payment channel is opened between the wallets of the 2 parties and frequent microtransactions are used to ensure that both parties incur the minimum risk and that the Buyer is charged for only what has been actually consumed.
                 </p>
                 <p>
                     Depending on the usage requirements of the Buyer, i.e. how many electric devices are in operation, the Buyer pays the Producer every 15 seconds for the amount of energy consumed. Once the transaction is complete the payment channels are closed, or in the case of ongoing usage the amount of the transactions fluctuates in real time with the amount of energy used.

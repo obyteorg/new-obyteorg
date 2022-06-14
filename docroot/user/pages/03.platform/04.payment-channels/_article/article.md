@@ -25,7 +25,7 @@ The two parties (endpoints) of a payment channel can be:
 
 Payment channels are based on [Autonomous Agents](/platform/autonomous-agents) that temporarily lock user funds while the channel is open. All micro payments happen off-chain, and they are therefore **free, instant, and private**. These micropayments gradually move the locked balance within the channel from buyer to seller. When the provision of service is finished, the parties close the channel and the aggregated payment is settled in a single on-chain transaction.
 <img class="content-img" src="/user/themes/obyte/assets/payments-channels/img1.svg" alt="BIoT wallet">
-[BIoT Wallet](https://play.google.com/store/apps/details?id=ws.biot.wallet2) is a PoC wallet that supports payment channels for applications where a user is one of the endpoints.
+[BIoT Wallet](https://play.google.com/store/apps/details?id=ws.biot.wallet2&noprocess=id) is a PoC wallet that supports payment channels for applications where a user is one of the endpoints.
 
 <div class="dev-blog">
     <div class="img-block">
