@@ -36,6 +36,97 @@
     <meta name="msapplication-TileImage" content="{{ url('theme://images/ms-icon-144x144.png') }}">
     <meta name="theme-color" content="#ffffff">
 
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+        "@type": "Question",
+        "name": "Is Obyte an ERC-20 token?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Obyte is a novel platform with its own DAG-based structure, consensus mechanism and eco system."
+        }
+    },{
+        "@type": "Question",
+        "name": "Are Order Providers (witnesses) centralized gatekeepers?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, they just post transactions to the DAG regularly to make it possible for all full nodes to establish perfect order of transactions, they can't stop anybody from transacting."
+        }
+    },{
+        "@type": "Question",
+        "name": "Where can I get the Obyte Wallet?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The official Obyte wallet is available for Windows, Mac, Linux, Android and iOS. For mobile versions, download them from App Store or Play Store - always make sure to check that the publisher is \"Matrix Platform LLC\" or \"Obyte Foundation\" (formerly called \"Byteball Foundation\")."
+        }
+    },{
+        "@type": "Question",
+        "name": "Where can I read more about Obyte?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best way is to start on the official website which you are already doing. Here, you will find links to various other sources about specific topics."
+        }
+    },{
+        "@type": "Question",
+        "name": "Is there a transaction fee on Obyte?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, every transaction must pay a small fee to send transactions to the DAG. The amount of Bytes in transaction fee is determined by the size of your transaction. For example, if your transaction's data consumes 800 bytes of disk space, the fee to submit that transaction to the DAG will be 800 Bytes of the currency. This allows for low, predictable fees.
+
+    A typical payment transaction takes about 800 bytes, which is about $0.00001 at the current rate."
+        }
+    },{
+        "@type": "Question",
+        "name": "There are so many things and buttons in the wallet, do you have a guide for the wallet?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For things that are not self-explanatory, there are plenty of articles, examples and even videos explaining how to use the wallet. Simply search for them using your favorite search engine or check out Obyte Tutorials."
+        }
+    },{
+        "@type": "Question",
+        "name": "What is blackbytes?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blackbytes a privacy currency on Obyte. Blackbytes cannot be traded on centralized exchanges and can only be sent directly from one user to another. In the wallet's Bot Store, you can find chat bots that provides simple order books allowing users to find others to trade with. Keep in mind, that by using the chat bot, a small part of the privacy of course is lost as the bot operator will be able to see which addresses are used to send blackbytes. Read more about Blackbytes."
+        }
+    },{
+        "@type": "Question",
+        "name": "Who built Obyte?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Obyte was founded and developed by Anton Churyumov. He still actively develops the project together with other developers that have joined over the years."
+        }
+    },{
+        "@type": "Question",
+        "name": "When was Obyte launched?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mainnet was launched on December 25th 2016."
+        }
+    },{
+        "@type": "Question",
+        "name": "What's the difference between Obyte, GBYTE, and Byte?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Obyte is the platform that hosts all this.
+
+    Byte is the native currency of the platform, it is used to pay for fees. It is also the most popular and the most widely distributed asset on the platform (there are many others, see Tokens).
+
+    GBYTE is the currency unit of Bytes that is traded on exchanges, 1 GBYTE is 1 billion Bytes. While Byte is the smallest indivisible currency unit, GBYTE is more convenient for expressing the most common amounts, and amounts in GBYTE are fractional numbers with up to 9 decimal places. Byte to GBYTE is what cent is to dollar, or satoshi to Bitcoin. GBYTE is sometimes abbreviated as GB. Some apps use MBYTE (or MB) which is 1 million Bytes. We use other SI prefixes as well: KBYTE (KB) for 1000 bytes, TB for terabyte (1 trillion Bytes)."
+        }
+    },{
+        "@type": "Question",
+        "name": "Are there any open positions with Obyte?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "See careers. Even if your desired position is not listed, feel free to reach out — when the right person shows up, there will always be room for more brilliant minds."
+        }
+    }]
+    }
+    </script>
+
 {% endblock head %}
 
 {% block stylesheets %}
