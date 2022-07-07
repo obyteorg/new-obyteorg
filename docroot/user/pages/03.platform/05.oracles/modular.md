@@ -1,16 +1,17 @@
 ---
 title: Oracles
-metadata:
-    description: Reference Oracles data from smart contracts or autonomous agents and the resolution of smart contracts or behavior of AAs can depend on the data.
-    'og:description': Reference Oracles data from smart contracts or autonomous agents and the resolution of smart contracts or behavior of AAs can depend on the data.
-onpage_menu: false
-body_classes: ''
-highlight:
-    theme: obyte
 content:
     items: '@self.modular'
     order:
         by: default
         dir: asc
+metadata:
+    description: "Reference Oracles data from\_smart contracts\_or\_autonomous agents\_and the resolution of smart contracts or behavior of AAs can depend on the data."
+    'og:description': "Reference Oracles data from\_smart contracts\_or\_autonomous agents\_and the resolution of smart contracts or behavior of AAs can depend on the data."
+sitemap:
+    priority: 0.8
+onpage_menu: false
+highlight:
+    theme: obyte
 ---
 

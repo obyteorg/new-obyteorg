@@ -1,6 +1,5 @@
 ---
 title: Events
-onpage_menu: false
 content:
     items: '@self.modular'
     order:
@@ -8,4 +7,8 @@ content:
         dir: asc
         custom:
             - _article
+sitemap:
+    priority: 0.8
+onpage_menu: false
 ---
+

@@ -1,9 +1,5 @@
 ---
 title: 'Payment Channels'
-metadata:
-    description: Organize a stream of free, instant, private micropayments between two parties, IoT devices, APIs.
-    'og:description': Organize a stream of free, instant, private micropayments between two parties, IoT devices, APIs.
-onpage_menu: false
 content:
     items: '@self.modular'
     order:
@@ -11,5 +7,11 @@ content:
         dir: asc
         custom:
             - _article
+metadata:
+    description: 'Organize a stream of free, instant, private micropayments between two parties, IoT devices, APIs.'
+    'og:description': 'Organize a stream of free, instant, private micropayments between two parties, IoT devices, APIs.'
+sitemap:
+    priority: 0.8
+onpage_menu: false
 ---
 
