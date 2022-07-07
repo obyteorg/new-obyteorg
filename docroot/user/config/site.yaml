@@ -2,13 +2,14 @@ title: 'Obyte — a ledger without middlemen'
 default_lang: en
 author:
   name: Obyte
+  email: john@example.com
 taxonomies:
   - category
   - tag
 metadata:
   description: 'A ledger without middlemen. Block-free, miner-free, DAG based.'
-  og:description: 'A ledger without middlemen. Block-free, miner-free, DAG based.'
-  og:type: 'website'
+  'og:description': 'A ledger without middlemen. Block-free, miner-free, DAG based.'
+  'og:type': website
 summary:
   enabled: true
   format: short
@@ -18,3 +19,4 @@ redirects: null
 routes: null
 blog:
   route: /blog
+acxtest: TEST
