@@ -1,5 +1,5 @@
 ---
-title: Tokens
+title: 'DAG Tokens'
 content:
     items: '@self.modular'
     order:
@@ -10,6 +10,7 @@ metadata:
     'og:description': 'Easily issue a new token on Obyte DAG, and this token can represent anything.'
 sitemap:
     priority: 0.8
+menu: Tokens
 onpage_menu: false
 ---
 
