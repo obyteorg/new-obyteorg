@@ -1,5 +1,5 @@
 ---
-title: DAG Tokens
+title: Tokens
 content:
     items: '@self.modular'
     order:

@@ -1,5 +1,5 @@
 ---
-title: DAG Chain Technology
+title: Technology
 content:
     items: '@self.modular'
     order:
