@@ -22,7 +22,7 @@ programs2:
         title: 'Download for macOS (M1/M2 processors)'
         link: '/downloads/Obyte-test-arm64.dmg'
     -
-        title: 'Linux 64bit'
+        title: 'Download for Linux 64bit'
         link: '/downloads/Obyte-test-linux64.zip'
     -
         title: 'GitHub releases'
