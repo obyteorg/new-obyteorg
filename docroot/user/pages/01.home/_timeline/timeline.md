@@ -133,7 +133,7 @@ points:
         title: 'Referral Program for Bonded stablecoins'
     -
         date: 'Jan 2021'
-        title: 'Trading Rewards on Bitrrex and BitZ'
+        title: 'Trading Rewards on Bittrex and BitZ'
     -
         date: 'Apr 2021'
         title: 'Bonded stablecoins v2'
