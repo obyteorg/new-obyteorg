@@ -149,6 +149,9 @@ points:
     -
         date: 'Mar 2022'
         title: 'Counterstake audit completed'
+    -
+        date: 'Aug 2022'
+        title: 'Prophet — prediction markets based on bonding curves'
 ---
 
 # Timeline
