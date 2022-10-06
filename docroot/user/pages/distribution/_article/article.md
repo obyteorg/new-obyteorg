@@ -40,37 +40,37 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173">Cashback</a></td>    
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/byteball-cashback-program-9c717b8d3173">Cashback</a></td>    
         <td>2017-2021</td>    
         <td><b>5,675</b></td>    
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#TU3Q44S6H2WXTGQO6BZAGWFKKJCF7Q3W">TU3Q44S6H2WXTGQO6BZAGWFKKJCF7Q3W</a></td>    
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/bringing-identity-to-crypto-b35964feee8e">Real name attestation rewards</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/bringing-identity-to-crypto-b35964feee8e">Real name attestation rewards</a></td>
         <td>since 2018</td>
         <td><b>9,390</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#RJIUGYIVHM5TAZHU3ZPNTNZL5JF4JUTN">RJIUGYIVHM5TAZHU3ZPNTNZL5JF4JUTN</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e">Email attestation rewards</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e">Email attestation rewards</a></td>
         <td>since 2018</td>
         <td><b>930</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#UOYYSPEE7UUW3KJAB5F4Y4AWMYMDDB4Y">UOYYSPEE7UUW3KJAB5F4Y4AWMYMDDB4Y</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9">Steem attestation rewards</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9">Steem attestation rewards</a></td>
         <td>2018-2020</td>
         <td><b>16,410</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#YRMYMODDIYBPWYMKFF6HIPDTDVHLDXSF">YRMYMODDIYBPWYMKFF6HIPDTDVHLDXSF</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b">Accredited investor attestation rewards</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/attestation-of-accredited-investors-d4a8dabf683b">Accredited investor attestation rewards</a></td>
         <td>since 2018</td>
         <td><b>10</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#X7W54O2AZOWK3UN6CJG2TKZ67I2R5DOF">X7W54O2AZOWK3UN6CJG2TKZ67I2R5DOF</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">Partial reimbursement of fees when buying Bytes with a credit card</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">Partial reimbursement of fees when buying Bytes with a credit card</a></td>
         <td>2018-2019</td>
         <td><b>10</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#6UTDX4VKVQ6UTJWXR4PCWQ42XKBG3BX5">6UTDX4VKVQ6UTJWXR4PCWQ42XKBG3BX5</a></td>
@@ -88,7 +88,7 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#5M72ELJMTZ2NHZVYMZ4CDJSKJO2QXIPK">5M72ELJMTZ2NHZVYMZ4CDJSKJO2QXIPK</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">Telegram quiz</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">Telegram quiz</a></td>
         <td>since 2018</td>
         <td><b>70</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#XPOQYAPM5NDYTVRV763C2G557GMKRZXL">XPOQYAPM5NDYTVRV763C2G557GMKRZXL</a></td>
@@ -100,25 +100,25 @@ Free distribution through various methods continues too, albeit at a slower pace
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#OP3XG7FP2Q3HAF4GR33YCFI7BHLAZMFW">OP3XG7FP2Q3HAF4GR33YCFI7BHLAZMFW</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88">Draw airdrop</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/weekly-draw-for-the-byteball-community-f464ae731c88">Draw airdrop</a></td>
         <td>2018-2019</td>
         <td><b>13,200</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/distribution-to-buyers-of-bonded-stablecoins-4854b4570a03">Fee reimbursement for buyers of bonded stablecoins</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/distribution-to-buyers-of-bonded-stablecoins-4854b4570a03">Fee reimbursement for buyers of bonded stablecoins</a></td>
         <td>since 2020</td>
         <td><b>10</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#HRBJJA5UDOZPUPK5WGUDOJWYCISK4BD5">HRBJJA5UDOZPUPK5WGUDOJWYCISK4BD5</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/introducing-referral-program-for-bonded-stablecoins-b5455f189c1c">Referral rewards for bonded stablecoins</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/introducing-referral-program-for-bonded-stablecoins-b5455f189c1c">Referral rewards for bonded stablecoins</a></td>
         <td>since 2020</td>
         <td><b>1,700</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
     </tr>
     <tr>
-        <td><a target="_blank" rel="noopener" href="https://medium.com/obyte/liquidity-mining-8cce2bf3722e">Liquidity mining</a></td>
+        <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/liquidity-mining-8cce2bf3722e">Liquidity mining</a></td>
         <td>since 2020</td>
         <td><b>1,601</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/#THNPSCCVMBQTEMVNGL33PNOIZXJ26C2N">THNPSCCVMBQTEMVNGL33PNOIZXJ26C2N</a></td>

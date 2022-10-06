@@ -21,4 +21,4 @@ This is also a way to get a small amount of Bytes without having to buy them on 
 
 [Obyte team on WCG](https://www.worldcommunitygrid.org/team/viewTeamInfo.do?teamId=R1RD1XTFK92&target=_blank&rel=noopener) is currently one of the top contributors by [results](https://www.worldcommunitygrid.org/stat/viewStatsByTeamY.do?sort=results&target=_blank&rel=noopener), [points](https://www.worldcommunitygrid.org/stat/viewStatsByTeamY.do?sort=points&target=_blank&rel=noopener), and [total run time](https://www.worldcommunitygrid.org/stat/viewStatsByTeamY.do?sort=cpu&target=_blank&rel=noopener), and has contributed over 22,000 years of run time since the program started. We have participated in multiple challenges and won some of them, e.g. [THOR Challenge 2019](https://www.worldcommunitygrid.org/team/challenge/viewTeamChallenge.do?challengeId=9589&target=_blank&rel=noopener).
 
-Learn more about the [distribution through WCG](https://medium.com/obyte/computing-for-good-again-3795336bdaed?target=_blank&rel=noopener).
+Learn more about the [distribution through WCG](https://blog.obyte.org/computing-for-good-again-3795336bdaed?target=_blank&rel=noopener).

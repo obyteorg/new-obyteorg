@@ -44,7 +44,7 @@ class: prosaic-contracts-wrap
             </p>
             <p>
                 Smart contracts that do lock funds to guarantee contract execution and also have a prosaic part 
-                attached, are currently <a target="_blank" rel="noopener" href="https://medium.com/obyte/whats-next-for-obyte-contracts-with-arbiter-7e625e05811a">being developed</a>.
+                attached, are currently <a target="_blank" rel="noopener" href="https://blog.obyte.org/whats-next-for-obyte-contracts-with-arbiter-7e625e05811a">being developed</a>.
             </p>
         </div>
     </div>
@@ -61,6 +61,6 @@ class: prosaic-contracts-wrap
             The process of offering and acceptance of prosaic contracts can be automated using Obyte chatbots,
             <a target="_blank" rel="noopener" href="https://developer.obyte.org/contracts/prosaic-contracts">see developer documentation about prosaic contracts</a>.
         </p>
-        <p>Learn more about prosaic contracts in our <a target="_blank" rel="noopener" href="https://medium.com/obyte/introducing-prosaic-contracts-5d3564638a20">introductory blog post</a>.</p>
+        <p>Learn more about prosaic contracts in our <a target="_blank" rel="noopener" href="https://blog.obyte.org/introducing-prosaic-contracts-5d3564638a20">introductory blog post</a>.</p>
     </div>
 </div>

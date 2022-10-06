@@ -49,13 +49,13 @@ class: oracles-wrap
                 path proving any particular data point can be provided by the oracle on demand or reconstructed 
                 independently. This Merkle path can later be used in smart contracts or AAs. <a href="https://explorer.obyte.org/#FOPUBEUPBC6YLIQDLKL6EW775BMV7YOH" target="_blank" rel="noopener">Bitcoin oracle</a> works 
                 in this mode and it allows to prove that a particular transaction has occured on Bitcoin blockchain 
-                to enable safe peer-to-peer exchange. <a href="https://medium.com/obyte/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank" rel="noopener">Learn more about Bitcoin oracle</a>.
+                to enable safe peer-to-peer exchange. <a href="https://blog.obyte.org/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank" rel="noopener">Learn more about Bitcoin oracle</a>.
             </li>
             <li>
                 <b>Posting data on demand</b>. This type of oracle posts data only when requested to do so and this mode 
                 makes sense when the data is paid, too large, or infrequently used. Such oracle can also charge a fee 
                 for its service. Flight delays oracle and sports oracle work in this mode. 
-                <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank" rel="noopener">Learn more about flight delays oracle</a>.
+                <a href="https://blog.obyte.org/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank" rel="noopener">Learn more about flight delays oracle</a>.
             </li>
         </ul>
         <p>Data can also be posted manually, Obyte wallet allows to easily do so. This makes sense for rare or one-off events.</p>

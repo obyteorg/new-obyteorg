@@ -63,7 +63,7 @@ Textcoins can be used as cold storage if they are not sent to anybody but instea
             much larger than textcoins holding public assets and they are sent as files with .coin suffix. The files are 
             usually several megabytes large. To claim the funds stored on a private textcoin, one needs to double-click 
             the .coin file, which launches one's Obyte wallet and automatically claims the value stored on the textcoin. 
-            <a href="https://medium.com/obyte/private-textcoins-6a2288d80757" target="_blank" rel="noopener">Learn more about private textcoins</a>.
+            <a href="https://blog.obyte.org/private-textcoins-6a2288d80757" target="_blank" rel="noopener">Learn more about private textcoins</a>.
         </p>
     </div>
     <div class="img-block">

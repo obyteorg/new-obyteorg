@@ -45,7 +45,7 @@ class: applications-wrap
     <div class="info-block">
         <h2>Risk-free conditional payments</h2>
         <p>
-            Obyte allows you to do something that traditional currencies can't: <a target="_blank" rel="noopener" href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a">conditional payments</a>.
+            Obyte allows you to do something that traditional currencies can't: <a target="_blank" rel="noopener" href="https://blog.obyte.org/making-p2p-great-again-fe9e20546a4a">conditional payments</a>.
             You set a condition when the payee receives the money. If the condition is not met, you get your money back.
         </p>
        <p>For example, you want to exchange 100 A-tokens for 10 B-tokens. You send 100 A-tokens to the peer and set a condition "the peer can receive A-tokens only once I receive 10 B-tokens". The A-tokens are temporarily locked on a smart contract that exists between you and the peer, and the peer can't take A-tokens before he fulfils his part of the deal. He sends B-tokens to you, then he is able to unlock A-tokens from the contract.</p>
@@ -75,7 +75,7 @@ class: applications-wrap
         <p>Insurance is just a simple smart contract that can be unlocked by the insured — if the event in question did occur, or by the insurer — otherwise.</p>
         <p>Creating a contract is available in Obyte wallet, no programming skills are required. Chat with the peer, click his address in chat, select "offer a contract", and fill a form. This is what human-readable/human-writable smart contract looks like. The peer will be able to view the contract and accept it with one click.</p>
         <p>If you want to buy flight delay insurance from a bot, find the corresponding bot in the Bot Store in the wallet and the bot will guide you through the process of smart contract creation.</p>
-        <p>Learn more about <a target="_blank" rel="noopener" href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527">P2P insurance</a>.</p>
+        <p>Learn more about <a target="_blank" rel="noopener" href="https://blog.obyte.org/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527">P2P insurance</a>.</p>
     </div>
     <div class="img-block">
         <img src="/user/themes/obyte/assets/applications/img5.png?v1" alt="p2p insurance">
