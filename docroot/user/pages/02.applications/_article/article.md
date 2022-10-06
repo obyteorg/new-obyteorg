@@ -89,10 +89,10 @@ class: applications-wrap
     </div>
     <div class="info-block">
         <h2>Prediction markets</h2>
-        <p>Make money by correctly predicting future events.</p>
-        <p>You bet that a specific event will happen, your peer bets on the event not happening. You can make P2P bets on e.g. price movements, sports, weather, or political events.</p>
-        <p>Like in P2P insurance above, create a human-readable/human-writable smart contract in your wallet and offer it to the peer.</p>
-        <p>If you want to bet against a bot, find Sports betting bot in the Bot Store in your wallet and browse the upcoming sports events. You can also be a bookmaker and create bets for others to accept.</p>
+        <p>Make money by correctly predicting future events, or by providing liquidity to markets on <a target="_blank" rel="noopener" href="https://prophet.ooo">Prophet</a>.</p>
+        <p>Sports betting, binary options, and other bets on future events are available. You buy tokens that represent specific outcomes from a bonding curve that automatically prices the tokens depending on demand. If that outcome wins, you make money. You are free to sell your tokens back to the bonding curve at any time before the event.</p>
+        <p>By buying all tokens that represet all the possible outcomes, you are providing liquidity and earn from the fees paid by other traders.</p>
+        <p>Learn more about <a target="_blank" rel="noopener" href="https://blog.obyte.org/introducing-prophet-prediction-markets-based-on-bonding-curves-3716651db344">Prophet prediction markets</a>.</p>
     </div>
 </div>
 <div class="flex-block right center seven">
