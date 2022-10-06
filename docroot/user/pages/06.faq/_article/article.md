@@ -103,7 +103,7 @@ class: faq-wrap
 <div class="white-block">
     <h4>Can Obyte be mined or staked?</h4>
     <p>
-        No, all Bytes were issued in the <a href="https://explorer.obyte.org/#oj8yEksX9Ubq7lLc+p6F2uyHUuynugeVq4+ikT67X6E=" target="_blank" rel="noopener">Genesis Unit</a>. The total supply of Bytes was created in that and no more can ever be created.
+        No, all Bytes were issued in the <a href="https://explorer.obyte.org/oj8yEksX9Ubq7lLc+p6F2uyHUuynugeVq4+ikT67X6E=" target="_blank" rel="noopener">Genesis Unit</a>. The total supply of Bytes was created in that and no more can ever be created.
     </p>
 </div>
 

@@ -41,13 +41,13 @@ class: oracles-wrap
             <li>
                 <b>Continuous posting of data</b>. Such oracles post new data points periodically and do so on their own, 
                 without any requests for this data. This mode is suitable for data that is realtively small, easy to 
-                obtain, and frequently used, for example, price data. <a href="https://explorer.obyte.org/#JPQKPRI5FMTQRJF4ZZMYZYDQVRD55OTC" target="_blank" rel="noopener">Price oracle</a> works in this mode.
+                obtain, and frequently used, for example, price data. <a href="https://explorer.obyte.org/address/JPQKPRI5FMTQRJF4ZZMYZYDQVRD55OTC" target="_blank" rel="noopener">Price oracle</a> works in this mode.
             </li>
             <li>
                 <b>Continuous posting of Merkle roots of large data sets</b>. Like above, but the data set is so large and 
                 each data point used so infrequently that posting the whole data set would be impractical. Merkle 
                 path proving any particular data point can be provided by the oracle on demand or reconstructed 
-                independently. This Merkle path can later be used in smart contracts or AAs. <a href="https://explorer.obyte.org/#FOPUBEUPBC6YLIQDLKL6EW775BMV7YOH" target="_blank" rel="noopener">Bitcoin oracle</a> works 
+                independently. This Merkle path can later be used in smart contracts or AAs. <a href="https://explorer.obyte.org/address/FOPUBEUPBC6YLIQDLKL6EW775BMV7YOH" target="_blank" rel="noopener">Bitcoin oracle</a> works 
                 in this mode and it allows to prove that a particular transaction has occured on Bitcoin blockchain 
                 to enable safe peer-to-peer exchange. <a href="https://blog.obyte.org/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank" rel="noopener">Learn more about Bitcoin oracle</a>.
             </li>
