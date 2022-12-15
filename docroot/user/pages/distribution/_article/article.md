@@ -113,8 +113,8 @@ Free distribution through various methods continues too, albeit at a slower pace
     </tr>
     <tr>
         <td><a target="_blank" rel="noopener" href="https://blog.obyte.org/introducing-referral-program-for-bonded-stablecoins-b5455f189c1c">Referral rewards for bonded stablecoins</a></td>
-        <td>since 2020</td>
-        <td><b>1,700</b></td>
+        <td>2020-2022</td>
+        <td><b>10,700</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/address/UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6">UGP3YFIJCOCUGLMJUFKLXLNYNO4S7PT6</a></td>
     </tr>
     <tr>
