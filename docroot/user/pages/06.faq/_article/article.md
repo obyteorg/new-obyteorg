@@ -48,8 +48,7 @@ class: faq-wrap
 
 <div class="white-block">
     <h4>Is there an Obyte faucet?</h4>
-    <p>There is no faucet to get free Bytes but you can participate in our <a href="/distribution/world-community-grid">World Community Grid distribution</a>
-     which allows you to get free Bytes in exchange for donating your computing resources to good causes. There are 
+    <p>There is no faucet to get free Bytes but you can test your knowledge of Obyte using <a href="https://t.me/ByteballQuizBot" target="_blank" rel="noopener">Obyte Quiz telegram bot</a> and get a small reward in Bytes. There are 
      other <a href="/distribution">distribution methods</a> as well.</p>
 </div>
 
