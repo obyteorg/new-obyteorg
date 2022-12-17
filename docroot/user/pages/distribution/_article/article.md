@@ -95,7 +95,7 @@ Free distribution through various methods continues too, albeit at a slower pace
     </tr>
     <tr>
         <td><a href="/distribution/world-community-grid">World Community Grid</a></td>
-        <td>2018-2022</td>
+        <td>since 2018</td>
         <td><b>9,316</b></td>
         <td><a target="_blank" rel="noopener" href="https://explorer.obyte.org/address/OP3XG7FP2Q3HAF4GR33YCFI7BHLAZMFW">OP3XG7FP2Q3HAF4GR33YCFI7BHLAZMFW</a></td>
     </tr>

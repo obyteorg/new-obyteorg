@@ -5,7 +5,7 @@ class: community-grid-wrap
 
 # Distribution through World Community Grid
 <div class="sub-block">
-    One of the longest running distribution methods was by donating computing power to the World Community Grid.
+    One of the longest running distribution methods is by donating computing power to the World Community Grid.
 </div>
 <div class="sub-text-block">
     <p>
@@ -15,7 +15,7 @@ class: community-grid-wrap
     </p>
 </div>
     
-For this help, Obyte used to reward the contributors with $1.00 in Bytes for every 1,000,000 points contributed. Currently, the contributors are rewarded with non-transferrable "WCG Points" tokens to recognize their contribution.
+New users who join the Obyte WCG distribution are rewarded in Bytes for their previously accumulated points. Further contributions are rewarded with non-transferrable "WCG Points" tokens to recognize their contribution.
 
 <!--
 This is also a way to get a small amount of Bytes without having to buy them on an exchange. It is similar to mining but the computing power is used to solve real world problems.
