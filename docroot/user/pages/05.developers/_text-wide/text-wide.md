@@ -41,7 +41,7 @@ class: developers-wide
                     <div><a target="_blank" rel="noopener" href="https://marketplace.visualstudio.com/items?itemName=obyte.oscript-vscode-plugin">Oscript extension for Visual Studio Code</a></div>
                     <div><a target="_blank" rel="noopener" href="https://github.com/valyakin/aa-testkit">AA Testkit</a>: a test framework for testing Autonomous Agents</div>
                     <div><a target="_blank" rel="noopener" href="https://github.com/olabs-org/owallet.js">owallet.js</a>: a very lightweight Obyte wallet</div>
-                    <div><a target="_blank" rel="noopener" href="https://github.com/guantau/ocore-wallet-client">A Multisig HD OByte Light Wallet Client</a></div>
+                    <!--div><a target="_blank" rel="noopener" href="https://github.com/guantau/ocore-wallet-client">A Multisig HD OByte Light Wallet Client</a></div-->
                     <div><a target="_blank" rel="noopener" href="https://github.com/Papabyte/byteduino">Byteduino</a>: a very light C/C++ implementation of Obyte for Arduino ESP8266 and ESP32</div>
                 </div>
             </div>

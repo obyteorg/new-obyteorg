@@ -50,7 +50,7 @@ class: resources-wrap
             <p>Documentation for developers.</p>
         </div>
     </div>
-    <div class="resource-block">
+    <!--div class="resource-block">
         <div class="img-block">
             <img src="/user/themes/obyte/assets/resources/resource6.svg" alt="bbfans">
         </div>
@@ -58,7 +58,7 @@ class: resources-wrap
             <div class="title"><a href="https://bbfans.org/" target="_blank" rel="noopener">BBFans</a></div>
             <p>It publishes mainly technical articles, news, and has Obyte white paper translated into Chinese.</p>
         </div>
-    </div>
+    </div-->
     <div class="resource-block">
         <div class="img-block">
             <img src="/user/themes/obyte/assets/resources/resource7.svg" alt="wechat">

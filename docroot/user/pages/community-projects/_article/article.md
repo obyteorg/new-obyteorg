@@ -61,9 +61,9 @@ Projects may also apply for [grants](/grants) from the Obyte Foundation.
             <li>
                 <a target="_blank" rel="noopener" href="https://orider.obyte.app">Orider</a>: a ride sharing app built on Obyte <a href="/platform/smart-contracts">smart contracts</a>
             </li>
-            <li>
+            <!--li>
                 <a target="_blank" rel="noopener" href="https://cryptoshare.cc">Cryptoshare.cc</a>: a web wallet with publishing capability
-            </li>
+            </li-->
             <li>
                 <a target="_blank" rel="noopener" href="https://cryptothings.gallery">Cryptothings</a>: a NFT marketplace and licensing solution
             </li>
