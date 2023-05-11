@@ -79,14 +79,6 @@ team:
                 icon: icon-github
                 link: https://github.com/Papabyte
     -
-        imgLink: /user/themes/obyte/assets/team/chen.png
-        name: 'Chen Weijun'
-        role: 'Area Representative, China'
-        links: 
-            -
-                icon: icon-linkedin
-                link: https://www.linkedin.com/in/%E5%B7%8D%E5%B3%BB-%E9%99%88-4b702b145/
-    -
         imgLink: /user/themes/obyte/assets/team/vladimir.png
         name: 'Vladimir Glushkov'
         role: 'Developer'
