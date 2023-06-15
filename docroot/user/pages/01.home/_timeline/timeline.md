@@ -152,6 +152,12 @@ points:
     -
         date: 'Aug 2022'
         title: 'Prophet — prediction markets based on bonding curves'
+    -
+        date: 'Feb 2023'
+        title: 'OSWAP token — governance and reward token for Oswap'
+    -
+        date: 'Jun 2023'
+        title: 'ArbStore — decentralized escrow with arbitration'
 ---
 
 # Timeline
