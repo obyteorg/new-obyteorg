@@ -20,7 +20,7 @@ animation:
 ---
 
 # A ledger without middlemen
-Obyte is a distributed ledger based on directed acyclic graph (DAG). Unlike centralized ledgers and blockchains, access to Obyte ledger is decentralized, disintermediated, free (as in freedom), equal, and open.
+Running since 2016, Obyte is a distributed ledger based on directed acyclic graph (DAG). Unlike centralized ledgers and blockchains, access to Obyte ledger is decentralized, disintermediated, free (as in freedom), equal, and open.
 <div class="btn-block">
     <a href="#download" class="btn">Download wallet</a>
 </div>
