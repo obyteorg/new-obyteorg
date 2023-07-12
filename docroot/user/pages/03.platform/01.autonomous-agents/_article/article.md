@@ -122,10 +122,17 @@ class: autonomous-agents-wrap
                 quickly exchange one token for another in just a few clicks.
             </li>
             <li>
+                <a target="_blank" rel="noopener" href="https://token.oswap.io">OSWAP token</a>: 
+                govern liquidity incentives to Oswap pools and profit from Oswap growth.
+            </li>
+            <li>
                 <a target="_blank" rel="noopener" href="https://tokens.ooo">Decentralized token registry</a>: assign ticker symbols to tokens on Obyte.            
             </li>
             <li>
                 <a target="_blank" rel="noopener" href="https://kivach.org">Kivach cascading donations</a>: donate to open-source projects and let them share the donations with other open-source projects they depend upon.            
+            </li>
+            <li>
+                <a target="_blank" rel="noopener" href="https://prophet.ooo">Prophet prediction markets</a>: make money by predicting future events (such as sports, cryptocurrency prices) or by providing liquidity to the markets.            
             </li>
         </ul>
     </div>
