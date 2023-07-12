@@ -162,3 +162,4 @@ team:
 
 # Team
 
+The Obyte team has built a number of truly unique, first-of-a-kind apps and features, mostly in the DeFi space. You can learn more about them on this website and in our [blog](https://blog.obyte.org/?target=_blank&rel=noopener).
