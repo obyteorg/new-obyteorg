@@ -37,7 +37,7 @@ class: applications-wrap
             Obyte against each other.
         </p>
        <p>ODEX uses off-chain order matching and is as fast as a centralized exchange.</p>
-       <p>Oswap allows to provide liquidity and earn fees from every trade.</p>
+       <p>Oswap allows to provide liquidity and earn fees from every trade. Compared with other DEXes, it features higher APY for liquidity providers and leveraged trading without liquidations for traders.</p>
     </div>
 </div>
 
