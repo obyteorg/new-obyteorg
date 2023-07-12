@@ -99,7 +99,7 @@ class: applications-wrap
     <div class="info-block">
         <h2>ICO Platform</h2>
         <ul>
-            <li>The only ICO platform on the market that offers a compliant sale of security tokens out of the box.</li>
+            <li>Created in 2017, it's the only ICO platform on the market that offers a compliant sale of security tokens (security token offering &mdash; STO) out of the box.</li>
             <li>Sell unregistered securities to accredited investors using built-in investor accreditation.</li>
             <li>Optionally require KYC using the built-in <a href="/platform/identity">real name verification</a>.</li>
             <li>Sell for Bytes, BTC, ETH.</li>
