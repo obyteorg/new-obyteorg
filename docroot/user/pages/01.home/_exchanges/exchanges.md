@@ -38,9 +38,9 @@ exchanges:
     # -
     #     img: /user/themes/obyte/assets/exchanges/swapspace.png
     #     link: 'https://swapspace.co/?from=btc&to=gbyte&amount=1'
-    -
-        img: /user/themes/obyte/assets/exchanges/swap.png
-        link: 'https://www.oswap.cc/'
+    #-
+    #    img: /user/themes/obyte/assets/exchanges/swap.png
+    #    link: 'https://www.oswap.cc/'
     -
         img: /user/themes/obyte/assets/exchanges/oswap-io.png
         link: 'https://oswap.io/'
