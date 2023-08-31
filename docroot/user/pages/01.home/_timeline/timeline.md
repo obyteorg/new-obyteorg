@@ -158,6 +158,9 @@ points:
     -
         date: 'Jun 2023'
         title: 'ArbStore — decentralized escrow with arbitration'
+    -
+        date: 'Aug 2023'
+        title: 'Partnership with Kava and price-protected LINE token'
 ---
 
 # Timeline
