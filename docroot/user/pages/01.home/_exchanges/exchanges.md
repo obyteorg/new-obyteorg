@@ -69,10 +69,10 @@ lists:
         img: /user/themes/obyte/assets/coin-lists/paprika.png
         imgHover: /user/themes/obyte/assets/coin-lists/hover/paprika.png
         link: 'https://coinpaprika.com/coin/gbyte-obyte/'
-    -
-        img: /user/themes/obyte/assets/coin-lists/nomics.png
-        imgHover: /user/themes/obyte/assets/coin-lists/hover/nomics.png
-        link: 'https://nomics.com/assets/gbyte-obyte-gigabytes'
+    #-
+    #    img: /user/themes/obyte/assets/coin-lists/nomics.png
+    #    imgHover: /user/themes/obyte/assets/coin-lists/hover/nomics.png
+    #    link: 'https://nomics.com/assets/gbyte-obyte-gigabytes'
     #-
     #    img: /user/themes/obyte/assets/coin-lists/messari.png
     #    imgHover: /user/themes/obyte/assets/coin-lists/hover/messari.png
