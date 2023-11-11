@@ -111,14 +111,14 @@ team:
                 icon: icon-github
                 link: https://github.com/EddieBro
     -
-        imgLink: /user/themes/obyte/assets/team/andrii.jpg
-        name: 'Andrii Kaiurin'
-        role: 'Developer'
-        links:
-            -
-                icon: icon-github
-                link: https://github.com/kaiurin
-    -
+    #     imgLink: /user/themes/obyte/assets/team/andrii.jpg
+    #     name: 'Andrii Kaiurin'
+    #     role: 'Developer'
+    #     links:
+    #         -
+    #             icon: icon-github
+    #             link: https://github.com/kaiurin
+    # -
         imgLink: /user/themes/obyte/assets/team/alexander.jpg
         name: 'Alexander Ponomarev'
         role: 'Frontend Developer'
