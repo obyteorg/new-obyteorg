@@ -9,20 +9,6 @@ class: applications-wrap
         <div class="sub-block">
             This is where you can use Obyte already today.
         </div>
-        <br><br><br>
-        <h2>Create and issue stablecoins</h2>
-        <p>Use <a href="https://ostable.org" target="_blank" rel="noopener">Bonded Stablecoins</a> website to issue stablecoins pegged to USD or BTC, or create new stablecoins pegged to any other asset or index.</p>
-        <p>Along with stablecoins, you can also hold:</p>
-            <ul>
-                <li><b>stable+ coins</b> that programmatically appreciate in value, you can earn interest by holding them (e.g. 16% p.a. in USD);</li>
-                <li>governance tokens whose value grows as more stable+ coins are issued.</li>
-            </ul>
-        <p>You can also trade one stablecoin against another stablecoin if you know where the price will go.</p>
-        <br><br><br>
-    </div>
-    <div class="img-block">
-        <img src="/user/themes/obyte/assets/applications/img1.png?v1" alt="applications">
-        <img class="mobile" src="/user/themes/obyte/assets/applications/img1-mobile.png?v1" alt="applications">
     </div>
 </div>
 <div class="flex-block left center second">
