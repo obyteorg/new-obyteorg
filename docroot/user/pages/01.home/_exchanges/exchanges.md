@@ -23,9 +23,9 @@ exchanges:
     #-
     #    img: /user/themes/obyte/assets/exchanges/bitladon.png
     #    link: 'https://www.bitladon.com/obyte'
-    -
-        img: /user/themes/obyte/assets/exchanges/catalyx-logo.png
-        link: 'https://catalyx.io/trade/GBYTE-BTC'
+    # -
+    #     img: /user/themes/obyte/assets/exchanges/catalyx-logo.png
+    #     link: 'https://catalyx.io/trade/GBYTE-BTC'
     -
         img: /user/themes/obyte/assets/exchanges/coinspot.png
         link: 'https://www.coinspot.com.au/buy/gbyte'
