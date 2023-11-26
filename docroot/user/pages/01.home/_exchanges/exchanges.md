@@ -8,6 +8,9 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/odex.png
         link: 'https://odex.ooo/'
+    -
+        img: /user/themes/obyte/assets/exchanges/getmein.png
+        link: 'https://getmein.ooo/'
     # -
     #     img: /user/themes/obyte/assets/exchanges/bittrex.png
     #     link: 'https://bittrex.com/Market/Index?MarketName=BTC-GBYTE'
