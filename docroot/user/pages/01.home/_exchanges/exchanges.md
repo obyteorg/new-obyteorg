@@ -2,6 +2,12 @@
 title: Exchanges
 class: exchanges-wrap
 exchanges:
+    -
+        img: /user/themes/obyte/assets/exchanges/oswap-io.png
+        link: 'https://oswap.io/'
+    -
+        img: /user/themes/obyte/assets/exchanges/odex.png
+        link: 'https://odex.ooo/'
     # -
     #     img: /user/themes/obyte/assets/exchanges/bittrex.png
     #     link: 'https://bittrex.com/Market/Index?MarketName=BTC-GBYTE'
@@ -42,9 +48,6 @@ exchanges:
     #    img: /user/themes/obyte/assets/exchanges/swap.png
     #    link: 'https://www.oswap.cc/'
     -
-        img: /user/themes/obyte/assets/exchanges/oswap-io.png
-        link: 'https://oswap.io/'
-    -
         img: /user/themes/obyte/assets/exchanges/uniswap.png
         link: 'https://app.uniswap.org/#/swap?outputCurrency=0x31f69de127c8a0ff10819c0955490a4ae46fcc2a'
     -
@@ -53,9 +56,6 @@ exchanges:
     -
         img: /user/themes/obyte/assets/exchanges/quickswap.png
         link: 'https://quickswap.exchange/#/swap?outputCurrency=0xab5f7a0e20b0d056aed4aa4528c78da45be7308b'
-    -
-        img: /user/themes/obyte/assets/exchanges/odex.png
-        link: 'https://odex.ooo/'
 lists:
     -
         img: /user/themes/obyte/assets/coin-lists/gecko.png
