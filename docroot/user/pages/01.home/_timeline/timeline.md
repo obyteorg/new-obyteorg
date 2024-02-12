@@ -161,6 +161,9 @@ points:
     -
         date: 'Aug 2023'
         title: 'Partnership with Kava and price-protected LINE token'
+    -
+        date: 'Jan 2024'
+        title: 'Pythagorean perpetual futures'
 ---
 
 # Timeline
