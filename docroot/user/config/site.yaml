@@ -1,4 +1,4 @@
-title: 'Obyte — a ledger without middlemen'
+title: 'Obyte — a fully decentralized, DAG based crypto.'
 default_lang: en
 author:
   name: Obyte
@@ -7,8 +7,8 @@ taxonomies:
   - category
   - tag
 metadata:
-  description: 'A ledger without middlemen. Block-free, miner-free, DAG based.'
-  'og:description': 'A ledger without middlemen. Block-free, miner-free, DAG based.'
+  description: 'Obyte is a neutral space for storing and moving value. It has no owners, like the air around us. It is decentralized, free of domination, free of censorship, and accessible to all. It is a ledger without middlemen. Block-free, miner-free, DAG based.'
+  'og:description': 'Obyte is a neutral space for storing and moving value. It has no owners, like the air around us. It is decentralized, free of domination, free of censorship, and accessible to all. It is a ledger without middlemen. Block-free, miner-free, DAG based.'
   'og:type': website
 summary:
   enabled: true
