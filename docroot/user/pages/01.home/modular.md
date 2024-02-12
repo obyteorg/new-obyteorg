@@ -6,6 +6,9 @@ content:
         by: default
         dir: asc
         custom:
+            - _technology
+            - _independent
+            - _big_changes
             - _showcase
             - _timeline
             - _download

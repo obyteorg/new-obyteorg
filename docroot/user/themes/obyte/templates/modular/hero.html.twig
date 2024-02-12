@@ -1,4 +1,46 @@
 {% set grid_size = theme_var('grid-size') %}
-{% set hero_image = page.header.hero_image ? page.media[page.header.hero_image] : page.media.images|first %}
 
-{% include 'partials/hero.html.twig' %}
+<section class="section {{ page.header.class }}">
+  <section class="container {{ grid_size }}">
+    <div class="{{ page.header.class }}-wrap">
+      <div class="text-block">
+        <h1>{{ page.header.title }}</h1>
+        <h2>{{ page.header.subTitle }}</h2>
+        <h3>{{ page.header.description }}</h3>
+      </div>
+
+      <div class="quote-wrap-big">
+        {% include 'partials/quote.html.twig' with { avatar: page.header.mainQuote.avatar, text: page.header.mainQuote.text, author: 'John Perry Barlow', text_source: 'A Declaration of the Independence of Cyberspace' } %}
+      </div>
+    </div>
+
+    <div class="comparison">
+      <div class="wrap">
+        <div class="comparison-info">
+          {% for information in page.header.information %}
+            <p>
+              <b>{{ information.title }}</b> {{ information.text }}
+            </p>
+          {% endfor %}
+        </div>
+        <div class="quote-wrapper">
+          {% include 'partials/quote.html.twig' with { text: '”Whenever something is wrong, something is too big“', author: 'Leopold Kohr', text_source: 'The Breakdown of Nations', small_avatar: '/user/themes/obyte/assets/kohr-small.png' } %}
+        </div>
+      </div>
+
+      <div class="comparison-items">
+        {% for comparison in page.header.comparisons %}
+          <div class="type-wrap {{ comparison.active ? 'active' : '' }}">
+            <div class="comparison-image-wrap">
+              <img src="{{ url(comparison.image_url) }}" />
+            </div>
+            <div style="text-align: center;">
+              <div class="type-title">{{ comparison.title }}</div>
+              <div class="type-description">{{ comparison.description }}</div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</section>

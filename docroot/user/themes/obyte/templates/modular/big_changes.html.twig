@@ -1,0 +1,13 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<section class="section {{ page.header.class }}">
+  <section class="container {{ grid_size }}">
+    <div class="{{ page.header.class }}-wrap">
+      <div>{{ page.header.text }}</div>
+
+      <div class="{{page.header.class}}-quote">
+        {% include 'partials/quote.html.twig' with page.header.quote %}
+      </div>
+    </div>
+  </section>
+</section>
