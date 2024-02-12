@@ -1,26 +1,33 @@
 ---
-title: Hero
-animationImage: ../../user/themes/obyte/assets/hero-image.png
-animation:
+class: new-hero
+title: The future is <br/> <b>decentralized</b>
+subTitle: Be there with Obyte
+description: "Obyte is a neutral medium for storing and moving value. It has no owners, like the air around us.
+It is decentralized, free of domination, free of censorship, and accessible to all."
+mainQuote: 
+    author: John Perry Barlow
+    avatar: /user/themes/obyte/assets/barlow.jpeg
+    text_source: A Declaration of the Independence of Cyberspace
+    text: <p>”We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.</p> <p>We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.“</p>
+information:
     -
-        class: scene1
-        data: ../../user/themes/obyte/assets/animation/scene1.svg
-        title: 'Evolution of ledgers'
-        text: 'In centralized ledgers, there is a single gatekeeper who decides which transactions get into the ledger'
+        title: Obyte is a DAG based cryptocurrency network.
+        text: DAG stands for Directed Acyclic Graph — it’s a technology that makes Obyte fully decentralized, free of domination, free of censorship, and accessible to all.
     -
-        class: scene2
-        data: ../../user/themes/obyte/assets/animation/scene2.svg
-        title: 'Evolution of ledgers'
-        text: 'In blockchains, there are a few gatekeepers &mdash; miners &mdash; who decide what gets into the ledger'
+        title: It's not a blockchain.
+        text: Blockchains were a big step to decentralization. However, they fall short of full decentralization as their block producers are still big power centers. A small number of them control most block production and can collude (or be coerced to) censor certain transactions. Obyte makes another leap forward by getting rid of those big power centers and middlemen.
+comparisons: 
+    - 
+        image_url: /user/themes/obyte/assets/comparison/centralization.svg
+        title: Full centralization
+        description: Domination of one
     -
-        class: scene3
-        data: ../../user/themes/obyte/assets/animation/scene3.svg
-        title: 'Evolution of ledgers'
-        text: 'In DAG, there are no gatekeepers at all, users add their transactions directly'
+        image_url: /user/themes/obyte/assets/comparison/blockchain.svg
+        title: Blockchain
+        description: Domination of few
+    -
+        image_url: /user/themes/obyte/assets/comparison/dag.svg
+        title: DAG
+        description: No domination
+        active: true
 ---
-
-# A ledger without middlemen
-Running since 2016, Obyte is a distributed ledger based on directed acyclic graph (DAG). It's a post-blockchain technology that achieves true decentralization by getting rid of big power centers and middlemen, such as miners.
-<div class="btn-block">
-    <a href="#download" class="btn">Download wallet</a>
-</div>

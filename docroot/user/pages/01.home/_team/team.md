@@ -121,7 +121,7 @@ team:
     # -
         imgLink: /user/themes/obyte/assets/team/alexander.jpg
         name: 'Alexander Ponomarev'
-        role: 'Frontend Developer'
+        role: 'Developer'
         links:
             -
                 icon: icon-github
