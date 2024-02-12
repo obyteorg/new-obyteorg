@@ -1,0 +1,40 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<section id="{{ id }}" class="section {{ page.header.class }} {{ page.header.background.parallax ? 'parallax' : '' }}">
+  <div class="image-overlay"></div>
+  <section class="container {{ grid_size }}">
+    <div class="{{ page.header.class }}-wrap">
+      <div class="{{ page.header.class }}-information">
+        <div>
+          <h2 class="{{ page.header.class }}-title">{{ page.header.title }}</h2>
+        </div>
+        <div class="{{ page.header.class }}-quote-wrap">
+          {% include 'partials/quote.html.twig' with { gray: true, text: page.header.quote.text, author: page.header.quote.author, text_source: page.header.quote.text_source, small_avatar: page.header.quote.small_avatar } %}
+        </div>
+        <div class="{{ page.header.class }}-text-wrap">{{ content }}</div>
+      </div>
+      <div class="clip-container">
+        {% for scene in page.header.animation %}
+          <div class="scene-block {{ scene.class }}">
+            <object type="image/svg+xml" data="{{ scene.data }}" aria-label="dag animation">
+              <img src="{{ page.header.animationImage }}" alt="dag image" />
+            </object>
+            <div class="content-block">
+              <div class="title-block d-flex">
+                <h2>{{ scene.title }}</h2>
+                <div class="reply-block d-flex">
+                  <div class="icon"></div>
+                  <div class="text">Replay</div>
+                </div>
+              </div>
+              <div class="step-block d-flex">
+                <div class="step">{{ loop.index }}</div>
+                <div class="text">{{ scene.text }}</div>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</section>

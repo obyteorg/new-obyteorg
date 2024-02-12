@@ -1,0 +1,182 @@
+.new-hero {
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    background: url('/user/themes/obyte/assets/hero-bg.png') no-repeat;
+    background-position: top right;
+    background-size: cover 385px;
+    padding-bottom: 64px;
+    font-family: 'Open Sans', sans-serif !important;
+    color: #fff;
+    padding-top: 100px;
+    z-index: 2;
+
+    h1,
+    h2,
+    h3,
+    h4 {
+        color: #fff;
+    }
+
+    h1 {
+        font-size: 60px;
+        line-height: 55px;
+        font-weight: 600;
+        margin-top: 0 !important;
+        margin-bottom: 8px;
+        font-family: 'Open Sans', sans-serif !important;
+    }
+
+    h2 {
+        font-weight: 300;
+        font-family: 'Open Sans', sans-serif !important;
+        font-size: 36px;
+        line-height: 49px;
+        margin-top: 8px;
+        margin-bottom: 40px;
+    }
+
+    h3 {
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 32px;
+        max-width: 690px;
+        margin-top: 40px;
+        margin-bottom: 64px;
+        font-family: 'Open Sans', sans-serif !important;
+    }
+
+    .quote-wrap-big {
+        max-width: 830px;
+        width: auto;
+    }
+}
+
+.comparison {
+    font-family: "Open Sans";
+
+    .wrap {
+        display: flex;
+        justify-content: space-between;
+
+        width: 100%;
+        padding-top: 65px;
+        padding-bottom: 40px;
+
+        color: #000 !important;
+    }
+
+    .quote-wrapper {
+        max-width: 300px;
+        width: 100%;
+        flex-shrink: 0 !important;
+    }
+
+    &-info {
+        margin-right: 70px;
+        max-width: 750px;
+    }
+
+    .comparison-items {
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 55px;
+    }
+
+    .type {
+        &-wrap {
+            width: calc(33.3% - 16px);
+            padding: 24px;
+            border: 1px solid #B6D5F9;
+            background: #EFF6FF;
+            border-radius: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            font-size: 16px;
+            color: #000;
+
+            img {
+                margin: 0 auto;
+                display: block;
+            }
+
+        }
+
+        &-wrap.active {
+            border: 3px solid #B6D5F9;
+            background: #E2EFFF;
+        }
+
+        &-title {
+            font-weight: 700;
+        }
+
+        &-description {
+            font-weight: 300;
+        }
+    }
+
+}
+
+
+
+@media (max-width: 880px) {
+    .new-hero {
+        background-position: top center;
+        background-size: cover 880px;
+        background: url('/user/themes/obyte/assets/hero-bg-min.png') no-repeat;
+
+        h1 {
+            font-size: 40px;
+            line-height: 44px;
+            font-weight: 600;
+            margin-top: 0 !important;
+        }
+
+        h2 {
+            font-size: 26px;
+            line-height: 35px;
+        }
+
+        h3 {
+            font-size: 20px;
+            line-height: 28px;
+        }
+
+    }
+
+    .comparison {
+        .wrap {
+            flex-direction: column;
+            font-size: 16px;
+        }
+
+        &-image-wrap {
+            height: 325px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+        }
+
+        &-info {
+            margin-right: 0;
+            max-width: 750px;
+        }
+
+        .comparison-items {
+            flex-direction: column;
+
+            .type-wrap {
+                width: 100%;
+                margin-bottom: 24px;
+            }
+        }
+    }
+}
+
+@media (min-width: 1440px) {
+    .new-hero {
+        background-position: top center;
+    }
+}

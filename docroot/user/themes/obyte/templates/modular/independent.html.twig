@@ -1,0 +1,22 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<div class="{{ page.header.class }}-bg">
+  <div class="{{ page.header.class }}-overlay">
+    <section class="section {{ page.header.class }}">
+      <section class="container {{ grid_size }}">
+        <div class="right-side">
+          <div class="independent-wrap">
+            <div>
+              <h2 class="title">{{ page.header.title }}</h2>
+            </div>
+            <div class="description">{{ page.header.description }}</div>
+            <div class="quote-wrap">
+              {% include 'partials/quote.html.twig' with { text: '“You [governments] have no moral right to rule us nor do you possess any methods of
+enforcement we have true reason to fear.”', author: 'John Perry Barlow', text_source: 'A Declaration of the Independence of Cyberspace', small_avatar: page.header.quote_avatar } %}
+            </div>
+          </div>
+        </div>
+      </section>
+    </section>
+  </div>
+</div>

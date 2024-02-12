@@ -121,8 +121,29 @@ function mobileLang() {
   });
 }
 
-jQuery(document).ready(function($){
+var isReadyToReset = false;
+
+$(document).ready(function($){
     scrollHeader();
+    const sceneBlockHeight = $('.scene-block').outerHeight();
+
+    $(window).on('scroll', () => {
+      const blokTopPosition = $('.clip-container').offset().top;
+      const windowScrollTopPosition = $(window).scrollTop();
+      if ((windowScrollTopPosition >= (blokTopPosition - sceneBlockHeight * 0.2)) && (windowScrollTopPosition <= (blokTopPosition + sceneBlockHeight * 1.2))) {
+
+        if(!isReadyToReset) {
+          isReadyToReset = true;
+          
+          $('.reply-block').click();
+          
+          console.log('reset animation');
+        }
+       
+      } else if (isReadyToReset) {
+        isReadyToReset = false;
+      }
+    });
 
     // Scroll Events
     if (!isTouch){

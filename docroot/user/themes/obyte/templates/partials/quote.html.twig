@@ -1,0 +1,23 @@
+<div class="quote-component {{ gray ? 'quote-component-gray' : '' }}">
+  {% if avatar %}
+    <div class="quote-author-image-wrap">
+      <img src="{{ url(avatar) }}" alt="{{ page.header.mainQuote.author }}" />
+    </div>
+  {% endif %}
+
+  <div class="quote-wrap {{ small_avatar ? 'quote-wrap-with-avatar' : '' }}">
+    <blockquote>{{ text }}</blockquote>
+
+    <div class="source">
+      {% if small_avatar %}
+        <div class="source-small-avatar-wrap">
+          <img src="{{ url(small_avatar) }}" alt="{{ page.header.mainQuote.author }}" />
+        </div>
+      {% endif %}
+      <div>
+        <div class="author">{{ author }}</div>
+        <div class="text-source">{{ text_source }}</div>
+      </div>
+    </div>
+  </div>
+</div>

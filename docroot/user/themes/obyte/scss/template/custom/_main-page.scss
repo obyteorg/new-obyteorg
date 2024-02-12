@@ -2,105 +2,26 @@
   overflow: hidden;
 }
 .section {
-  &.modular-hero {
-    padding: 0 1rem 92px;
-    background: linear-gradient(0.27deg, rgba(#f7f7f7, 0.235) 0.42%, #E0EEFF 125%);
-    .text-block {
-      max-width: 550px;
-      h1 {
-        margin: 147px 0 16px;
-        color: $link-color;
-        font-size: 48px;
-        line-height: 65px;
-        font-weight: 600;
-      }
-      p {
-        margin-bottom: 38px;
-        max-width: 440px;
-        font-size: 24px;
-        line-height: 33px;
-        font-weight: normal;
-        color: $text-color;
-      }
-    }
-    .img-block {
-
-    }
-    .clip-container {
-      position: relative;
-      width: 560px;
-      &:before {
-        content:'';
-        display: block;
-        position: absolute;
-        top: -48px;
-        left: -515px;
-        width: 1526px;
-        height: 1193px;
-        background: url('../assets/svg/hero-bg2.svg') 118% -20% no-repeat;
-        z-index: -1;
-      }
-      svg, object {
-        width: 100%;
-        height: 560px;
-        pointer-events: none;
-      }
-      image {
-        width: 100%;
-        height: 560px;
-      }
-      .title-block {
-        align-items: center;
-        justify-content: space-between;
-        h2 {
-          margin: 0;
-          width: auto;
-          color: $link-color;
-          font-size: 24px;
-          font-family: 'Open Sans', sans-serif;
-          font-style: normal;
-          font-weight: 600;
-          line-height: 33px;
-        }
-      }
-      /*
-      .scene-block {
-        margin-top: -50px;
-      }
-      */
-      .reply-block {
-        align-items: center;
-        cursor: pointer;
-        .icon {
-          margin-right: 6px;
-          width: 20px;
-          height: 20px;
-          border-radius: 50%;
-          border: 1px solid rgba($blue, 0.2);
-          background: url('../assets/svg/replay.svg') center no-repeat;
-        }
-        .text {
-          font-size: 12px;
-          color: $blue;
-        }
-      }
-      .step-block {
-        align-items: center;
-      }
-      .step {
-        margin: 0 16px 0 0;
-        font-size: 46px;
-        font-weight: 300;
-        color: $link-color;
-        width: auto;
-      }
-      .text {
-        font-size: 16px;
-        font-style: italic;
-        color: rgba($black, .6);
-      }
-    }
+  &.independent {
+    position: relative;
+    background: url("../assets/windmill.jpg") top left no-repeat;
+    z-index: 1;
+    background-size: auto 100%;
   }
+
+  &.independent:before {
+    content: '';
+    position: absolute; 
+    height: 100%; 
+    width: 50%;
+    top: 0; 
+    right: 0;
+    background: linear-gradient(-90deg, #E5DED6 91.47%, rgba(233, 230, 225, 0.00) 100%) no-repeat;
+    background-size: 100% 100%;
+    // background-position: top right;
+    z-index: -1;
+  }
+  
   &.smart-contracts {
     padding-bottom: 160px;
     .video-block {
@@ -139,6 +60,8 @@
   }
   &.timeline-wrap {
     overflow: hidden;
+    padding-top: 90px;
+    
     h1 {
       margin: 0;
       font-size: 36px;
@@ -205,14 +128,14 @@
       position: relative;
       padding-right: 32px;
       width: 260px;
-      border-top: 5px solid rgba($link-color, 0.2);
+      border-top: 5px solid rgba(#4A90E2, 0.2);
       .dot {
         position: absolute;
         top: -15px;
         left: 0;
         width: 14px;
         height: 14px;
-        background-color: $link-color;
+        background-color: #4A90E2;
         border: 5px solid $white;
         box-shadow: 0 6px 20px rgba(74, 144, 226, 0.12);
         border-radius: 50%;
@@ -222,7 +145,7 @@
         font-weight: bold;
         font-size: 12px;
         line-height: 16px;
-        color: $link-color;
+        color: #4A90E2;
       }
       .event {
         font-weight: normal;
@@ -248,7 +171,7 @@
         justify-content: center;
         width: 40px;
         height: 40px;
-        border: 1px solid rgba($blue, 0.2);
+        border: 1px solid rgba(#4A90E2, 0.2);
         border-radius: 50%;
         outline: none;
         cursor: pointer;
@@ -427,19 +350,6 @@
   &.exchanges-wrap {
     position: relative;
     padding: 125px 1rem 54px;
-    &:after {
-      content: '';
-      position: absolute;
-      top: 394px;
-      left: -440px;
-      width: 712px;
-      height: 712px;
-      background: rgba(74, 144, 226, 0.8);
-      mix-blend-mode: normal;
-      opacity: 0.02;
-      border: 4px solid #1560BD;
-      border-radius: 50%;
-    }
     >.container {
       position: relative;
       z-index: 1;
