@@ -25,4 +25,4 @@ animation:
         title: 'Evolution of ledgers'
         text: 'In DAG, there are no gatekeepers at all, users add their transactions directly'
 ---
-We design systems that minimize concentration/domination/ centralization of power and advance the autonomy of the individual. We created Obyte to fulfill this vision. We chose DAG for Obyte because users add their transactions to the DAG directly, without any middlemen such as block producers in blockchains. We started in 2016 and decentralized the network even further since then.
+We design systems that minimize concentration / domination / centralization of power and advance the autonomy of the individual. We created Obyte to fulfill this vision. We chose DAG for Obyte because users add their transactions to the DAG directly, without any middlemen such as block producers in blockchains. We started in 2016 and decentralized the network even further since then.

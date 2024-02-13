@@ -15,7 +15,7 @@ information:
         text: DAG stands for Directed Acyclic Graph — it’s a technology that makes Obyte fully decentralized, free of domination, free of censorship, and accessible to all.
     -
         title: It's not a blockchain.
-        text: Blockchains were a big step to decentralization. However, they fall short of full decentralization as their block producers are still big power centers. A small number of them control most block production and can collude (or be coerced to) censor certain transactions. Obyte makes another leap forward by getting rid of those big power centers and middlemen.
+        text: Blockchains were a big step to decentralization. However, they fall short of full decentralization as their block producers are still big power centers. A small number of them control most block production and can collude to (or be coerced to) censor certain transactions. Obyte makes another leap forward by getting rid of those big power centers and middlemen.
 comparisons: 
     - 
         image_url: /user/themes/obyte/assets/comparison/centralization.svg
