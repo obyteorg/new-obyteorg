@@ -4,6 +4,9 @@
         <div class="text-block text-center">
             <h1>{{ page.header.title }}</h1>
         </div>
+        <div class="text-block">
+            You can buy or sell GBYTE (the native currency of Obyte) on the following cryptocurrency exchanges:
+        </div>
         <div class="exchanges-list">
             {% for exchange in page.header.exchanges %}
                 <a class="exchange-block" href="{{ exchange.link }}" target="_blank" rel="noopener">

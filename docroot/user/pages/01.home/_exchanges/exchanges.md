@@ -1,5 +1,5 @@
 ---
-title: Exchanges
+title: GBYTE Exchanges
 class: exchanges-wrap
 exchanges:
     -
@@ -89,4 +89,4 @@ lists:
 You can buy or sell bytes without leaving the wallet by [chatting with a trading bot](obyte:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000).
 -->
 
-To buy or sell blackbytes, use [Blackbytes.io](https://blackbytes.io/?target=_blank&rel=noopener) or exchange peer-to-peer using [bound (conditional) payments](https://blog.obyte.org/making-p2p-great-again-fe9e20546a4a?target=_blank&rel=noopener) with other users from our [Discord](https://discord.obyte.org/?target=_blank&rel=noopener) community.
+To buy or sell [blackbytes](/platform/blackbytes), use [Blackbytes.io](https://blackbytes.io/?target=_blank&rel=noopener) or exchange peer-to-peer using [bound (conditional) payments](https://blog.obyte.org/making-p2p-great-again-fe9e20546a4a?target=_blank&rel=noopener) with other users from our [Discord](https://discord.obyte.org/?target=_blank&rel=noopener) community.

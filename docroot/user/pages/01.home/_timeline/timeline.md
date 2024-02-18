@@ -164,6 +164,9 @@ points:
     -
         date: 'Jan 2024'
         title: 'Pythagorean perpetual futures'
+    -
+        date: 'Feb 2024'
+        title: 'GBYTE listed on NonKYC exchange'
 ---
 
 # Timeline
