@@ -19,14 +19,15 @@ class: faq-wrap
 <div class="white-block">
     <h4>Is Obyte an ERC-20 token?</h4>
     <p>No, Obyte is a novel platform with its own DAG-based structure, consensus mechanism and eco system.</p>
+    <p>The native currency of Obyte platform is Bytes (traded as GBYTE on exchanges). Bridged versions of GBYTE are available as ERC-20 tokens on <a target="_blank" rel="noopener" href="https://etherscan.io/token/0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a">Ethereum</a>, <a target="_blank" rel="noopener" href="https://bscscan.com/token/0xeb34De0C4B2955CE0ff1526CDf735c9E6d249D09">BNB Smart Chain</a>, <a target="_blank" rel="noopener" href="https://polygonscan.com/token/0xAB5F7a0e20b0d056Aed4Aa4528C78da45BE7308b">Polygon</a>, and <a target="_blank" rel="noopener" href="https://kavascan.com/token/0x0b93109d05Ef330acD2c75148891cc61D20C3EF1">Kava chain</a>. They are bridged using the decentralized <a target="_blank" rel="noopener" href="https://counterstake.org">Counterstake brridge</a>.</p>
 </div>
 <div class="white-block">
     <h4>Where can I trade Bytes</h4>
-    <p>See the list of exchanges on the <a href="/">main page</a>.</p>
+    <p>See the list of exchanges on the <a href="/">main page</a>. Bytes are usually traded as GBYTE, 1 GBYTE = 1,000,000,000 Bytes.</p>
 </div>
 <div class="white-block">
     <h4>Are Order Providers (witnesses) centralized gatekeepers?</h4>
-    <p>No, they just post transactions to the DAG regularly to make it possible for all full nodes to establish perfect order of transactions, they can't stop anybody from transacting.</p>
+    <p>No, they just post transactions to the DAG regularly to make it possible for all full nodes to establish perfect order of transactions. They can't stop anybody from transacting.</p>
 </div>
 <div class="white-block">
     <h4>Can Order Providers censor my transactions?</h4>
@@ -102,7 +103,7 @@ class: faq-wrap
 <div class="white-block">
     <h4>Can Obyte be mined or staked?</h4>
     <p>
-        No, all Bytes were issued in the <a href="https://explorer.obyte.org/oj8yEksX9Ubq7lLc+p6F2uyHUuynugeVq4+ikT67X6E=" target="_blank" rel="noopener">Genesis Unit</a>. The total supply of Bytes was created in that and no more can ever be created.
+        No, all Bytes were issued in the <a href="https://explorer.obyte.org/oj8yEksX9Ubq7lLc+p6F2uyHUuynugeVq4+ikT67X6E=" target="_blank" rel="noopener">Genesis Unit</a>. The total supply of Bytes was created in it and no more can ever be created.
     </p>
 </div>
 
@@ -170,14 +171,14 @@ class: faq-wrap
 <div class="white-block">
     <h4>What's the total supply of GBYTE?</h4>
     <p>
-        1 million GBYTE or 10<sup>15</sup> Bytes. Out of these, about 75% have already been distributed.
+        1 million GBYTE or 10<sup>15</sup> Bytes. Out of these, about 85% have already been distributed.
     </p>
 </div>
 
 <div class="white-block">
     <h4>What is the Obyte Foundation?</h4>
     <p>
-        Obyte Foundation is a non-profit legal entity registered in Liechtenstein. The Foundation is tasked with distributing the undistributed Bytes in ways that help adoption of the platform. One of such ways is through grants. If projects apply for funding, the Obyte Foundation's Grant Committee will vote on whether or not to provide funding. In order to receive funding, the project must be open source, benefit the Obyte ecosystem and generally be in line with the rather strict rules for what the Obyte Foundation can use undistributed funds for.
+        <a href="/legal">Obyte Foundation</a> is a non-profit legal entity registered in Liechtenstein. The Foundation is tasked with distributing the undistributed Bytes in ways that help adoption of the platform. One of such ways is through <a href="/grants">grants</a>. If projects apply for funding, the Obyte Foundation's Grant Committee will vote on whether or not to provide funding. In order to receive funding, the project must be open source, benefit the Obyte ecosystem and generally be in line with the rather strict rules for what the Obyte Foundation can use undistributed funds for.
     </p>
 </div>
 
@@ -199,7 +200,7 @@ class: faq-wrap
 </div>
 
 <div class="white-block">
-    <h4>Why isn't Obyte listed on more exchanges?</h4>
+    <h4>Why isn't GBYTE listed on more exchanges?</h4>
     <p>
         We are working on this.
     </p>
