@@ -6,6 +6,9 @@ exchanges:
         img: /user/themes/obyte/assets/exchanges/oswap-io.png
         link: 'https://oswap.io/'
     -
+        img: /user/themes/obyte/assets/exchanges/biconomy.png
+        link: 'https://www.biconomy.com/exchange/GBYTE_USDT'
+    -
         img: /user/themes/obyte/assets/exchanges/nonkyc.png
         link: 'https://nonkyc.io/market/GBYTE_USDT'
     -
