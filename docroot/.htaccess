@@ -3,16 +3,17 @@
 RewriteEngine On
 
 
-RewriteRule ^downloads\/Byteball-test-osx64.dmg https://github.com/byteball/testnet-releases/releases/download/v4.1.0t/Obyte-TN-4.1.0-t.dmg [R=303,L]
-RewriteRule ^downloads\/Byteball-test-win64.exe https://github.com/byteball/testnet-releases/releases/download/v4.1.0t/Obyte-TN.Setup.4.1.0-t.exe [R=303,L]
+RewriteRule ^downloads\/Byteball-test-osx64.dmg https://github.com/byteball/testnet-releases/releases/download/v5.0.0t/Obyte-TN-5.0.0-t.dmg [R=303,L]
+RewriteRule ^downloads\/Byteball-test-win64.exe https://github.com/byteball/testnet-releases/releases/download/v5.0.0t/Obyte-TN.Setup.5.0.0-t.exe [R=303,L]
 RewriteRule ^downloads\/Byteball-test-win32.exe https://github.com/byteball/testnet-releases/releases/download/v3.2.0t/Obyte-TN-win32.exe [R=303,L]
-RewriteRule ^downloads\/Byteball-test-linux64.zip https://github.com/byteball/testnet-releases/releases/download/v4.1.0t/Obyte-TN-4.1.0-t.AppImage [R=303,L]
+RewriteRule ^downloads\/Byteball-test-linux64.zip https://github.com/byteball/testnet-releases/releases/download/v5.0.0t/Obyte-TN-5.0.0-t.AppImage [R=303,L]
 
-RewriteRule ^downloads\/Obyte-test-osx64.dmg https://github.com/byteball/testnet-releases/releases/download/v4.1.0t/Obyte-TN-4.1.0-t.dmg [R=303,L]
-RewriteRule ^downloads\/Obyte-test-arm64.dmg https://github.com/byteball/testnet-releases/releases/download/v4.1.0t/Obyte-TN-4.1.0-t-arm64.dmg [R=303,L]
-RewriteRule ^downloads\/Obyte-test-win64.exe https://github.com/byteball/testnet-releases/releases/download/v4.1.0t/Obyte-TN.Setup.4.1.0-t.exe [R=303,L]
+RewriteRule ^downloads\/Obyte-test-osx64.dmg https://github.com/byteball/testnet-releases/releases/download/v5.0.0t/Obyte-TN-5.0.0-t.dmg [R=303,L]
+RewriteRule ^downloads\/Obyte-test-arm64.dmg https://github.com/byteball/testnet-releases/releases/download/v5.0.0t/Obyte-TN-5.0.0-t-arm64.dmg [R=303,L]
+RewriteRule ^downloads\/Obyte-test-win64.exe https://github.com/byteball/testnet-releases/releases/download/v5.0.0t/Obyte-TN.Setup.5.0.0-t.exe [R=303,L]
 RewriteRule ^downloads\/Obyte-test-win32.exe https://github.com/byteball/testnet-releases/releases/download/v3.2.0t/Obyte-TN-win32.exe [R=303,L]
-RewriteRule ^downloads\/Obyte-test-linux64.zip https://github.com/byteball/testnet-releases/releases/download/v4.1.0t/Obyte-TN-4.1.0-t.AppImage [R=303,L]
+RewriteRule ^downloads\/Obyte-test-linux64.zip https://github.com/byteball/testnet-releases/releases/download/v5.0.0t/Obyte-TN-5.0.0-t.AppImage [R=303,L]
+
 
 RewriteRule ^downloads\/Obyte-osx64.dmg https://github.com/byteball/obyte-gui-wallet/releases/download/v4.1.0/Obyte-4.1.0.dmg [R=303,L]
 RewriteRule ^downloads\/Obyte-arm64.dmg https://github.com/byteball/obyte-gui-wallet/releases/download/v4.1.0/Obyte-4.1.0-arm64.dmg [R=303,L]
@@ -25,6 +26,7 @@ RewriteRule ^downloads\/Byteball-osx64.dmg https://github.com/byteball/obyte-gui
 RewriteRule ^downloads\/Byteball-win64.exe https://github.com/byteball/obyte-gui-wallet/releases/download/v4.1.0/Obyte.Setup.4.1.0.exe [R=303,L]
 RewriteRule ^downloads\/Byteball-win32.exe https://github.com/byteball/obyte-gui-wallet/releases/download/v3.4.1/Obyte-win32.exe [R=303,L]
 RewriteRule ^downloads\/Byteball-linux64.zip https://github.com/byteball/obyte-gui-wallet/releases/download/v4.1.0/Obyte-4.1.0.AppImage [R=303,L]
+
 
 RewriteRule ^discord$ https://discordapp.com/invite/Qn6JWfT [R=303,L]
 RewriteRule ^coin_info.json https://stats.obyte.org/coin_info.json [R=303,L]
