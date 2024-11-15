@@ -167,6 +167,12 @@ points:
     -
         date: 'Feb 2024'
         title: 'GBYTE listed on NonKYC exchange'
+    -
+        date: 'Jun 2024'
+        title: 'GBYTE listed on Biconomy exchange'
+    -
+        date: 'Nov 2024'
+        title: 'Community governance and spam protection'
 ---
 
 # Timeline
