@@ -13,5 +13,229 @@
 		"amount": "The amount you want to withdraw.",
 		"move": "Command to move funds from a warmed-up drawer to 0-drawer. Set the value to 1.",
 		"address": "The address whose balance is to be moved from a warmed-up drawer to drawer 0."
+	},
+	"form": {
+		"meta": {
+			"project_name": "Token registry",
+			"project_description": "Manage your tokens / add support",
+			"syntax_version": 1
+		},
+		"actions": [
+			{
+				"title": "Register new token",
+				"button_text": "Register",
+				"isSingle": true,
+				"fields": [
+					{
+						"data_key": "symbol",
+						"type": "input",
+						"label": "Symbol",
+						"default_value": "",
+						"placeholder": "ex. OUSD",
+						"validate": {
+							"type": "string",
+							"required": true,
+							"minLength": 1,
+							"maxLength": 20,
+							"isUpperCase": true
+						}
+					},
+					{
+						"type": "input",
+						"data_key": "asset",
+						"default_value": "",
+						"label": "Asset",
+						"placeholder": "Ex: +WW42F0uZj...",
+						"validate": {
+							"type": "string",
+							"isAsset": true,
+							"required": true
+						}
+					},
+					{
+						"type": "input",
+						"data_key": "decimals",
+						"label": "Decimals",
+						"default_value": 9,
+						"placeholder": "It's 9 for GBYTE",
+						"validate": {
+							"type": "number",
+							"min": 0,
+							"max": 18,
+							"maxDecimals": 0,
+							"required": true
+						}
+					},
+					{
+						"type": "input",
+						"data_key": "description",
+						"label": "Description",
+						"default_value": "This is description",
+						"placeholder": "ex. Testnet token",
+						"validate": {
+							"type": "string",
+							"maxLength": 20,
+							"minLength": 1,
+							"required": true
+						}
+					},
+					{
+						"type": "select",
+						"data_key": "drawer",
+						"label": "Drawer",
+						"default_value": "0",
+						"validate": {
+							"type": "string",
+							"required": true
+						},
+						"options": [
+							{
+								"title": "0 days",
+								"value": "0"
+							},
+							{
+								"title": "7 days",
+								"value": "7"
+							},
+							{
+								"title": "30 days",
+								"value": "30"
+							},
+							{
+								"title": "90 days",
+								"value": "90"
+							},
+							{
+								"title": "180 days",
+								"value": "180"
+							},
+							{
+								"title": "360 days",
+								"value": "360"
+							}
+						]
+					},
+					{
+						"type": "input",
+						"data_key": "amount",
+						"decimals": 9,
+						"default_value": 1e8,
+						"input_suffix": "GBYTE",
+						"label": "Support amount",
+						"validate": {
+							"type": "number",
+							"maxDecimals": 9,
+							"min": 0.1,
+							"max": 99,
+							"required": true
+						}
+					}
+				],
+				"asset_amount_field_key": "amount",
+				"responses": []
+			},
+			{
+				"title": "Withdraw your support",
+				"extends_payload": {
+					"withdraw": true
+				},
+				"button_text": "Withdraw",
+				"isSingle": true,
+				"fields": [
+					{
+						"data_key": "symbol",
+						"type": "input",
+						"label": "Symbol",
+						"default_value": "",
+						"placeholder": "ex. OUSD",
+						"validate": {
+							"type": "string",
+							"required": true,
+							"minLength": 1,
+							"maxLength": 20,
+							"isUpperCase": true
+						}
+					},
+					{
+						"type": "input",
+						"data_key": "asset",
+						"default_value": "",
+						"label": "Asset",
+						"placeholder": "Ex: +WW42F0uZj...",
+						"validate": {
+							"type": "string",
+							"isAsset": true,
+							"required": true
+						}
+					},
+					{
+						"type": "input",
+						"data_key": "decimals",
+						"label": "Decimals",
+						"default_value": 9,
+						"placeholder": "It's 9 for GBYTE",
+						"validate": {
+							"type": "number",
+							"min": 0,
+							"max": 18,
+							"maxDecimals": 0,
+							"required": true
+						}
+					},
+					{
+						"type": "select",
+						"data_key": "drawer",
+						"label": "Drawer",
+						"default_value": "0",
+						"validate": {
+							"type": "string",
+							"required": true
+						},
+						"options": [
+							{
+								"title": "0 days",
+								"value": "0"
+							},
+							{
+								"title": "7 days",
+								"value": "7"
+							},
+							{
+								"title": "30 days",
+								"value": "30"
+							},
+							{
+								"title": "90 days",
+								"value": "90"
+							},
+							{
+								"title": "180 days",
+								"value": "180"
+							},
+							{
+								"title": "360 days",
+								"value": "360"
+							}
+						]
+					},
+					{
+						"type": "input",
+						"data_key": "amount",
+						"decimals": 9,
+						"default_value": 1e8,
+						"input_suffix": "GBYTE",
+						"label": "Amount to withdraw",
+						"validate": {
+							"type": "number",
+							"maxDecimals": 9,
+							"min": 0,
+							"max": 99,
+							"required": true
+						}
+					}
+				],
+				"responses": []
+			}
+		]
 	}
 }
