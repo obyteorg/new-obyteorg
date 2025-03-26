@@ -173,6 +173,9 @@ points:
     -
         date: 'Nov 2024'
         title: 'Community governance and spam protection'
+    -
+        date: 'Mar 2025'
+        title: 'First order provider chosen through community governance: CariPower'
 ---
 
 # Timeline
