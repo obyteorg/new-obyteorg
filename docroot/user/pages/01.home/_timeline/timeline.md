@@ -176,6 +176,9 @@ points:
     -
         date: 'Mar 2025'
         title: 'First order provider chosen through community governance: CariPower'
+    -
+        date: 'Jun 2025'
+        title: 'Obyte City — a community engagement space for Obyte'
 ---
 
 # Timeline
