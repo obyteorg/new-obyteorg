@@ -6,7 +6,10 @@ Disallow: /grav/
 Disallow: /logs/
 Disallow: /system/
 Disallow: /vendor/
-Disallow: /user/
+Disallow: /user/accounts/
+Disallow: /user/config/
+Disallow: /user/data/
+Disallow: /user/plugins/
 Allow: /user/pages/
 Allow: /user/themes/
 Allow: /user/images/
