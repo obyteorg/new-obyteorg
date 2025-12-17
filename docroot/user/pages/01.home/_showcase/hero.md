@@ -2,7 +2,7 @@
 class: new-hero
 title: The future is <br/> <b>decentralized</b>
 subTitle: Be there with Obyte
-description: "Obyte is a neutral space for storing and moving value. It has no owners, like the air around us.
+description: "Obyte is an independent, neutral, unstoppable, state-free, anarchic space. It has no owners, like the air around us.
 It is decentralized, free of domination, free of censorship, and accessible to all."
 mainQuote: 
     author: John Perry Barlow
