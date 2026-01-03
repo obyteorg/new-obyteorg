@@ -179,6 +179,9 @@ points:
     -
         date: 'Jun 2025'
         title: 'Obyte City — a community engagement space for Obyte'
+    -
+        date: 'Jan 2026'
+        title: 'Obyte Friends — a community engagement and growth app'
 ---
 
 # Timeline
