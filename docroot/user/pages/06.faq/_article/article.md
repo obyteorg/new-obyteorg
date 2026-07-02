@@ -94,7 +94,7 @@ class: faq-wrap
     <h4>Where is my seed? How do I back up?</h4>
     <p>
         There are two backup options that you can find in the wallet's settings (under burger menu): backup of wallet 
-        seed and full backup. Backup of wallet seed allows to recover only single-sig wallets while a full backup 
+        seed and full backup. Backup of wallet seed allows you to recover only single-sig wallets while a full backup 
         recovers everything including <a href="/platform/blackbytes">Blackbytes</a>, multi-sig wallets, <a href="/platform/smart-contracts">smart contracts</a>, 
         <a href="/platform/identity">private identity profiles</a>, and <a href="/platform/chatbots">chat</a> history and contacts.
     </p>

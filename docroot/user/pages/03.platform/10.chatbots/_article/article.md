@@ -9,7 +9,7 @@ class: chatbots-wrap
 </div>
 <div class="sub-text-block">
     <p>
-        Chat is built-in into Obyte wallet and allows to chat both with people and bots and instantly redirect the user to an action that requires the wallet functionality, such as sending a payment, sharing a private profile, signing a contract, etc.
+        Chat is built-in into the Obyte wallet and allows chatting with both people and bots and enables developers to instantly redirect the user to an action that requires the wallet functionality, such as sending a payment, sharing a private profile, signing a contract, etc.
     </p>
 </div>
 <div class="flex-block left">

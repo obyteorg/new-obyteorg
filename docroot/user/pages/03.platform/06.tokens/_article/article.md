@@ -16,7 +16,7 @@ When a new token type is defined, its properties can be tailored to the environm
 
 <div class="white-block">
     <p>
-        For example, in <b>regulated environments</b> the property <code>cosigned_by_definer</code> might be useful for compliance and other reasons. This property allows to require that each transaction with the token be cosigned by the issuer (e.g. a financial institution).
+        For example, in <b>regulated environments</b> the property <code>cosigned_by_definer</code> might be useful for compliance and other reasons. This property allows you to require that each transaction with the token be cosigned by the issuer (e.g. a financial institution).
     </p>
     <p>
         Also for regulated environments, <code>spender_attested</code> property can be set to restrict ownership and 

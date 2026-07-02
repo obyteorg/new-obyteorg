@@ -45,10 +45,10 @@ class: oracles-wrap
             </li>
             <li>
                 <b>Continuous posting of Merkle roots of large data sets</b>. Like above, but the data set is so large and 
-                each data point used so infrequently that posting the whole data set would be impractical. Merkle 
+                each data point used so infrequently that posting the whole data set would be impractical. A Merkle 
                 path proving any particular data point can be provided by the oracle on demand or reconstructed 
                 independently. This Merkle path can later be used in smart contracts or AAs. <a href="https://explorer.obyte.org/address/FOPUBEUPBC6YLIQDLKL6EW775BMV7YOH" target="_blank" rel="noopener">Bitcoin oracle</a> works 
-                in this mode and it allows to prove that a particular transaction has occured on Bitcoin blockchain 
+                in this mode and it allows proving that a particular transaction has occured on the Bitcoin blockchain 
                 to enable safe peer-to-peer exchange. <a href="https://blog.obyte.org/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank" rel="noopener">Learn more about Bitcoin oracle</a>.
             </li>
             <li>
@@ -58,7 +58,7 @@ class: oracles-wrap
                 <a href="https://blog.obyte.org/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank" rel="noopener">Learn more about flight delays oracle</a>.
             </li>
         </ul>
-        <p>Data can also be posted manually, Obyte wallet allows to easily do so. This makes sense for rare or one-off events.</p>
+        <p>Data can also be posted manually, the Obyte wallet allows you to easily do so. This makes sense for rare or one-off events.</p>
     </div>
 </div>
 

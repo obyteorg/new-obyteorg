@@ -5,7 +5,7 @@ class: autonomous-agents-wrap
 
 # Autonomous Agents
 <div class="sub-text">
-    Autonomous Agents are programs that run on the DAG and allow to orchestrate a programmed, strictly rules-based flow and custody of assets, free from any human intervention.
+    Autonomous Agents are programs that run on the DAG and allow orchestrating a programmed, strictly rules-based flow and custody of assets, free from any human intervention.
 </div>
 <p class="sub-text small">
     AAs are most useful for creating <b>decentralized finance (DeFi)</b> apps where complete certainty about their performance is of utmost importance.
@@ -80,13 +80,13 @@ class: autonomous-agents-wrap
         <div class="title">Developer tools</div>
         <ul>
             <li>
-                <a target="_blank" rel="noopener" href="https://oscript.org">Oscript Editor</a>: a browser based editor for Oscript, it allows 
-                to write AA code in the browser, no installation required, and immediately deploy using Obyte wallet. 
+                <a target="_blank" rel="noopener" href="https://oscript.org">Oscript Editor</a>: a browser based editor for Oscript, it allows you 
+                to write AA code in the browser, no installation required, and immediately deploy it using your Obyte wallet. 
                 The editor includes a few templates of AAs to start with.
             </li>
             <li>
                 <a target="_blank" rel="noopener" href="https://marketplace.visualstudio.com/items?itemName=obyte.oscript-vscode-plugin">Visual Studio Code plugin for Oscript</a>
-                also allows to edit and deploy, plus it includes a testkit for running tests.
+                also allows you to edit and deploy, plus it includes a testkit for running tests.
             </li>
             <li>
                 <a target="_blank" rel="noopener" href="https://github.com/valyakin/aa-testkit">AA Testkit</a>

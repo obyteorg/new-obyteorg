@@ -10,7 +10,7 @@ class: order-providers-wrap
 <p class="sub-paragraph">
     Each order provider regularly posts transactions and does so strictly in order, i.e. their next transaction 
     includes (directly or indirectly, through parent-child links on the DAG) their previous transaction. 
-    These transactions serve as <b>waypoints</b> that allow to build a <a href="/technology">Main Chain</a> and to order all other 
+    These transactions serve as <b>waypoints</b> that allow all nodes to build a <a href="/technology">Main Chain</a> and to order all other 
     transactions around the Main Chain.
 </p>
 <div class="flex-block left">
@@ -34,7 +34,7 @@ One has to be very careful about selection of Order Providers because normal ope
 
 For this reason, Order Providers are expected to be reputable individuals or organizations, with real names, with something to lose in case they misbehave, and with proven commitment to Obyte. Order Providers should also have sufficient skills to properly secure their Order Provider node and make sure their private keys are not lost or stolen.
 
-Having 12 positions in the Order Provider list allows to tolerate random failures of a minority of Order Providers and, if necessary, replace the misbehaving ones one by one. At the same time, the number 12 is not too large and allows everyone concerned to track all 12 and make informed decisions.
+Having 12 positions in the Order Provider list allows the network to tolerate random failures of a minority of Order Providers and, if necessary, allows the community to replace the misbehaving ones one by one. At the same time, the number 12 is not too large and allows everyone concerned to track all 12 and make informed decisions.
 
 <div class="flex-block right">
     <div class="info-block">

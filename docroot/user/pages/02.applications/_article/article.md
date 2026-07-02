@@ -23,7 +23,7 @@ class: applications-wrap
             Obyte against each other.
         </p>
        <p>ODEX uses off-chain order matching and is as fast as a centralized exchange.</p>
-       <p>Oswap allows to provide liquidity and earn fees from every trade. Compared with other DEXes, it features higher APY for liquidity providers and leveraged trading without liquidations for traders.</p>
+       <p>Oswap allows providing liquidity and earning fees from every trade. Compared with other DEXes, it features higher APY for liquidity providers and leveraged trading without liquidations for traders.</p>
     </div>
 </div>
 
@@ -49,7 +49,7 @@ class: applications-wrap
     <div class="info-block">
         <h2>Secure donations</h2>
         <p>
-            <a target="_blank" rel="noopener" href="https://pollopollo.org">PolloPollo</a> allows to donate directly to people in need and be confident that your donation reaches the destination.
+            <a target="_blank" rel="noopener" href="https://pollopollo.org">PolloPollo</a> allows you to donate directly to people in need and be confident that your donation reaches the destination.
         </p>
        <p>Your money is locked on a smart contract, and it gets unlocked to the producer as soon as the recipient confirms the receipt of the product. The recipients are not exposed to crypto, they only receive a product for free while the producers are paid by donors.</p>
     </div>

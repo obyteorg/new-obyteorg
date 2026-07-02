@@ -50,7 +50,7 @@ Projects may also apply for [grants](/grants) from the Obyte Foundation.
                 <a target="_blank" rel="noopener" href="https://pollopollo.org">PolloPollo</a>: a charity platform that enables direct, safe, and transparent donations based on Obyte <a href="/platform/smart-contracts">smart contracts</a>
             </li>
             <li>
-                <a target="_blank" rel="noopener" href="https://asset.obyte.app">Asset registry</a>: allows to issue assets and register human readable names for them
+                <a target="_blank" rel="noopener" href="https://asset.obyte.app">Asset registry</a>: allows you to issue assets and register human readable names for them
             </li>
             <li>
                 <a target="_blank" rel="noopener" href="https://blackbytes.io">Blackbytes.io</a>: a <a href="/platform/blackbytes">Blackbytes</a> exchange

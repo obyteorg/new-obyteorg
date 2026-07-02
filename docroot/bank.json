@@ -1,6 +1,6 @@
 {
 	"version": "1.0",
-	"description": "Bank AA. It stores user funds in various assets and allows to withdraw them at any time.",
+	"description": "Bank AA. It stores user funds in various assets and allows withdrawing them at any time.",
 	"homepage_url": "https://github.com/byteball/bank-aa",
 	"source_url": "https://github.com/byteball/bank-aa",
 	"field_descriptions": {
