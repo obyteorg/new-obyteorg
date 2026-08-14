@@ -182,6 +182,9 @@ points:
     -
         date: 'Jan 2026'
         title: 'Obyte Friends — a community engagement and growth app'
+    -
+        date: 'Aug 2026'
+        title: 'Obyte COOP — rewards for contributing to the community'
 ---
 
 # Timeline
