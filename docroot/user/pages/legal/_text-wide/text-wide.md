@@ -23,7 +23,7 @@ class: obyte-foundation-wide
         <h2 class="title">Documents</h2>
         <ul>
             <li>
-                <a target="_blank" rel="noopener" href="https://www.oera.li/cr-portal/auszug/auszug.xhtml?uid=FL-0002.607.342-3">Obyte foundation in Liechtenstein company register (in German)</a>
+                <a target="_blank" rel="noopener" href="https://handelsregister.li/cr-portal/auszug/auszug.xhtml?uid=FL-0002.607.342-3">Obyte foundation in Liechtenstein company register (in German)</a>
             </li>
             <li>
                 <a target="_blank" rel="noopener" href="https://www.dropbox.com/s/rbl49ysec6o3ouf/Extract%20of%20the%20Commerical%20Register_Certified%20dd.%2020.03.2019.pdf?dl=0">Original extract of the commercial register 20.03.2019 (in German)</a>
